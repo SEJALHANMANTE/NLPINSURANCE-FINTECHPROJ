@@ -1,0 +1,501 @@
+Policy_Number,Vehicle_Number,Vehicle_Type,Company,Policy_Type,Manufacture_Year,IDV_Percentage,Accident_History,Current_Value,Buyback_Eligible
+MOTR-890919,MH33HQ3803,Hatchback,Oriental Insurance,Comprehensive,2023,78,Major,675000,True
+MOTR-425633,DL15TD5926,SUV,Bajaj Allianz,Third-Party,2025,80,None,750000,True
+MOTR-172320,KA96RM9868,Hatchback,ICICI Lombard,Comprehensive,2017,72,None,600000,False
+MOTR-441080,KA78RJ3012,Electric,Oriental Insurance,Comprehensive,2011,66,Minor,225000,False
+MOTR-878644,TN63BH1103,Electric,ICICI Lombard,Third-Party,2014,69,None,224999,False
+MOTR-810988,MH49KA5812,Electric,Tata AIG,Comprehensive,2010,65,None,250000,False
+MOTR-274833,KA40AS2695,SUV,New India Assurance,Comprehensive,2013,68,None,400000,False
+MOTR-902038,TN14NS6982,Sedan,Tata AIG,Comprehensive,2018,73,None,325000,True
+MOTR-351445,KA16NX8823,Electric,Bajaj Allianz,Third-Party,2017,72,Minor,600000,False
+MOTR-355168,DL26NW1143,Sedan,Bajaj Allianz,Comprehensive,2012,67,None,262500,False
+MOTR-222058,DL63ZY9003,Sedan,ICICI Lombard,Third-Party,2019,74,None,350000,True
+MOTR-911041,KA18OQ6931,Hatchback,Bajaj Allianz,Comprehensive,2012,67,Minor,175000,False
+MOTR-265512,KA50UT6024,Electric,Bajaj Allianz,Third-Party,2024,79,None,950000,True
+MOTR-951956,KA39KF4014,Electric,New India Assurance,Third-Party,2025,80,None,1500000,True
+MOTR-972431,DL10PV2417,SUV,Bajaj Allianz,Third-Party,2010,65,None,375000,False
+MOTR-605020,TN78SD1274,SUV,Bajaj Allianz,Third-Party,2010,65,Minor,187500,False
+MOTR-325454,DL77JH4309,Hatchback,New India Assurance,Comprehensive,2011,66,None,300000,False
+MOTR-996219,KA84KD7199,Sedan,ICICI Lombard,Third-Party,2017,72,None,450000,False
+MOTR-125664,KA45GP4777,Electric,Tata AIG,Third-Party,2017,72,None,900000,False
+MOTR-427827,TN17BW8911,Hatchback,Bajaj Allianz,Third-Party,2019,74,None,525000,True
+MOTR-393395,TN18RL4952,Electric,Oriental Insurance,Comprehensive,2021,76,None,1200000,True
+MOTR-321631,KA51WX8503,Electric,ICICI Lombard,Comprehensive,2011,66,None,300000,False
+MOTR-828460,TN68BW2495,Hatchback,Bajaj Allianz,Comprehensive,2017,72,None,900000,False
+MOTR-417931,TN39JG7805,SUV,Oriental Insurance,Third-Party,2018,73,Minor,650000,True
+MOTR-795086,KA85AW1151,SUV,New India Assurance,Third-Party,2015,70,None,250000,False
+MOTR-367913,KA94ZL5311,Electric,Bajaj Allianz,Comprehensive,2013,68,None,400000,False
+MOTR-324508,TN31FA7771,Sedan,New India Assurance,Comprehensive,2018,73,None,650000,True
+MOTR-454028,MH19FO7192,Electric,ICICI Lombard,Third-Party,2025,80,None,1500000,True
+MOTR-145975,TN13LS6416,Hatchback,New India Assurance,Third-Party,2011,66,None,225000,False
+MOTR-994849,TN14RD3066,SUV,Bajaj Allianz,Third-Party,2018,73,None,487500,True
+MOTR-929564,DL14FQ8917,Hatchback,New India Assurance,Comprehensive,2017,72,None,450000,False
+MOTR-783672,TN91ZR5804,SUV,Bajaj Allianz,Comprehensive,2023,78,None,450000,True
+MOTR-873751,MH84OG8234,SUV,Oriental Insurance,Comprehensive,2016,71,Minor,550000,False
+MOTR-437516,MH22VB9601,Electric,Tata AIG,Comprehensive,2022,77,Minor,850000,True
+MOTR-424412,KA70QP5015,SUV,Tata AIG,Comprehensive,2024,79,None,950000,True
+MOTR-208774,MH64UV2452,Electric,Tata AIG,Third-Party,2015,70,None,500000,False
+MOTR-632793,MH58FI6140,SUV,New India Assurance,Comprehensive,2011,66,None,450000,False
+MOTR-364748,MH28RT5057,SUV,Bajaj Allianz,Third-Party,2023,78,None,1350000,True
+MOTR-271274,DL29BA2482,Sedan,Bajaj Allianz,Third-Party,2011,66,None,225000,False
+MOTR-176006,TN64AC4000,Electric,Oriental Insurance,Comprehensive,2024,79,Minor,950000,True
+MOTR-871437,DL63TM5487,Electric,Oriental Insurance,Third-Party,2012,67,None,525000,False
+MOTR-902885,KA73HC5859,Hatchback,Tata AIG,Third-Party,2018,73,None,650000,True
+MOTR-176970,DL53FT1022,Electric,Bajaj Allianz,Comprehensive,2014,69,Minor,449999,False
+MOTR-612873,DL33GY4759,Sedan,ICICI Lombard,Third-Party,2010,65,Minor,125000,False
+MOTR-721258,DL56JH4185,SUV,Tata AIG,Third-Party,2020,75,None,375000,True
+MOTR-295693,MH49DA7885,SUV,Oriental Insurance,Third-Party,2018,73,None,487500,True
+MOTR-668628,MH29YT6855,SUV,Tata AIG,Third-Party,2020,75,None,562500,True
+MOTR-787171,DL15LA5422,SUV,Tata AIG,Third-Party,2019,74,None,1050000,True
+MOTR-930000,KA16JI4383,Sedan,Bajaj Allianz,Third-Party,2023,78,None,675000,True
+MOTR-571095,KA34FH5274,SUV,ICICI Lombard,Third-Party,2011,66,None,300000,False
+MOTR-332880,TN50VC5578,Electric,ICICI Lombard,Third-Party,2022,77,None,850000,True
+MOTR-145706,KA82XK2905,Hatchback,Bajaj Allianz,Comprehensive,2024,79,None,475000,True
+MOTR-856671,TN50TR3971,SUV,Bajaj Allianz,Third-Party,2016,71,None,825000,False
+MOTR-831498,MH58FT8717,SUV,Tata AIG,Third-Party,2011,66,Minor,150000,False
+MOTR-790971,MH97TT7940,SUV,ICICI Lombard,Comprehensive,2021,76,None,800000,True
+MOTR-559243,TN88KH6447,SUV,New India Assurance,Comprehensive,2017,72,Major,900000,False
+MOTR-898846,DL76MV4094,Sedan,Tata AIG,Third-Party,2025,80,None,1500000,True
+MOTR-623597,DL72YZ9769,Electric,Tata AIG,Third-Party,2014,69,None,224999,False
+MOTR-496141,KA61OH1285,Electric,New India Assurance,Third-Party,2012,67,None,525000,False
+MOTR-140758,KA22BZ1329,Sedan,Bajaj Allianz,Comprehensive,2012,67,Minor,350000,False
+MOTR-317104,TN67SO4201,SUV,ICICI Lombard,Comprehensive,2015,70,Minor,750000,False
+MOTR-386216,MH57SH8005,Hatchback,Tata AIG,Comprehensive,2019,74,Minor,700000,True
+MOTR-386464,TN94KX5101,Sedan,Oriental Insurance,Comprehensive,2021,76,Major,600000,True
+MOTR-430083,DL84TN6541,SUV,Tata AIG,Comprehensive,2013,68,Minor,600000,False
+MOTR-284600,TN60VZ2969,Sedan,Oriental Insurance,Third-Party,2012,67,None,175000,False
+MOTR-942407,KA89MU6049,Hatchback,ICICI Lombard,Comprehensive,2016,71,Minor,825000,False
+MOTR-389871,TN54AC9289,Hatchback,New India Assurance,Comprehensive,2023,78,None,1350000,True
+MOTR-496632,MH67JW2651,Electric,Bajaj Allianz,Third-Party,2020,75,None,375000,True
+MOTR-419853,DL14DD3738,Sedan,Bajaj Allianz,Comprehensive,2011,66,None,150000,False
+MOTR-490128,DL77AP5362,Hatchback,Oriental Insurance,Comprehensive,2020,75,Minor,375000,True
+MOTR-585704,DL72MV5061,Electric,Bajaj Allianz,Comprehensive,2016,71,None,825000,False
+MOTR-463800,TN64YD9242,Sedan,Oriental Insurance,Comprehensive,2015,70,None,500000,False
+MOTR-437880,KA32GH5110,Electric,ICICI Lombard,Comprehensive,2016,71,None,412500,False
+MOTR-656566,TN19QE8615,Sedan,ICICI Lombard,Comprehensive,2023,78,Minor,1350000,True
+MOTR-958904,MH85KL4482,Sedan,New India Assurance,Comprehensive,2010,65,None,375000,False
+MOTR-839482,TN37LQ3526,Sedan,ICICI Lombard,Third-Party,2017,72,Minor,900000,False
+MOTR-684174,MH91SK3603,Sedan,Oriental Insurance,Comprehensive,2022,77,None,1275000,True
+MOTR-138793,DL39YQ6041,Hatchback,Tata AIG,Comprehensive,2023,78,None,1350000,True
+MOTR-966284,DL27MK5703,Sedan,Tata AIG,Comprehensive,2024,79,None,475000,True
+MOTR-397878,KA73MZ3789,SUV,Tata AIG,Comprehensive,2010,65,None,187500,False
+MOTR-573385,DL33LT9699,SUV,Oriental Insurance,Comprehensive,2017,72,None,900000,False
+MOTR-201474,MH24YC5175,Sedan,Tata AIG,Third-Party,2016,71,None,825000,False
+MOTR-123912,MH40IS1916,Sedan,New India Assurance,Comprehensive,2015,70,None,375000,False
+MOTR-941622,TN16TA6143,Electric,Bajaj Allianz,Third-Party,2010,65,None,125000,False
+MOTR-865530,MH49WW5910,SUV,Oriental Insurance,Third-Party,2022,77,None,637500,True
+MOTR-999284,KA28PT3815,SUV,Tata AIG,Comprehensive,2021,76,None,800000,True
+MOTR-650283,MH45LU1349,Sedan,Bajaj Allianz,Comprehensive,2014,69,Major,449999,False
+MOTR-983076,DL23GY4807,Hatchback,Tata AIG,Third-Party,2016,71,Minor,825000,False
+MOTR-916583,KA10ZP8046,Hatchback,ICICI Lombard,Third-Party,2022,77,None,850000,True
+MOTR-334777,TN62YZ3232,Electric,Tata AIG,Third-Party,2019,74,None,525000,True
+MOTR-249815,MH13TD8680,SUV,ICICI Lombard,Third-Party,2019,74,None,1050000,True
+MOTR-410386,KA94LW6131,Hatchback,Bajaj Allianz,Third-Party,2012,67,Minor,262500,False
+MOTR-272411,KA25PO7367,Hatchback,New India Assurance,Comprehensive,2023,78,Minor,675000,True
+MOTR-319894,DL80VV8461,SUV,Bajaj Allianz,Comprehensive,2011,66,None,300000,False
+MOTR-255305,MH61VT1794,SUV,Tata AIG,Comprehensive,2020,75,Minor,750000,True
+MOTR-638841,DL60EF6538,Electric,Oriental Insurance,Third-Party,2023,78,None,900000,True
+MOTR-344679,MH89DV4570,Hatchback,Oriental Insurance,Comprehensive,2012,67,None,525000,False
+MOTR-778339,DL33BW8940,Sedan,Oriental Insurance,Comprehensive,2011,66,Minor,150000,False
+MOTR-679604,TN27OH2210,SUV,New India Assurance,Third-Party,2016,71,None,825000,False
+MOTR-376929,KA64RP2984,Hatchback,Tata AIG,Third-Party,2019,74,None,350000,True
+MOTR-115429,DL92QA3781,Sedan,New India Assurance,Third-Party,2025,80,Minor,1500000,True
+MOTR-644613,MH90OI5183,Electric,Oriental Insurance,Third-Party,2015,70,None,375000,False
+MOTR-433130,MH75FN4974,Hatchback,ICICI Lombard,Comprehensive,2020,75,None,750000,True
+MOTR-562343,TN73VV9821,Electric,Oriental Insurance,Third-Party,2016,71,None,275000,False
+MOTR-125602,DL93WN8485,Electric,Oriental Insurance,Third-Party,2013,68,Minor,200000,False
+MOTR-158472,TN61FE3337,Sedan,Oriental Insurance,Third-Party,2013,68,None,400000,False
+MOTR-352222,DL29OA5412,SUV,ICICI Lombard,Third-Party,2022,77,None,637500,True
+MOTR-598850,KA82RS9912,Electric,ICICI Lombard,Comprehensive,2013,68,None,600000,False
+MOTR-615154,KA83TJ5797,Sedan,New India Assurance,Third-Party,2018,73,None,325000,True
+MOTR-962605,KA40TY5279,Electric,Bajaj Allianz,Comprehensive,2019,74,None,700000,True
+MOTR-237906,DL97PJ1946,Sedan,Bajaj Allianz,Third-Party,2010,65,None,125000,False
+MOTR-233785,TN31ON9781,Hatchback,New India Assurance,Comprehensive,2012,67,None,175000,False
+MOTR-923062,DL34DB7812,SUV,Bajaj Allianz,Comprehensive,2024,79,None,712500,True
+MOTR-920551,DL15AG3423,Sedan,Oriental Insurance,Comprehensive,2017,72,Minor,450000,False
+MOTR-467405,KA64GJ7818,Sedan,Oriental Insurance,Comprehensive,2016,71,None,275000,False
+MOTR-800093,KA38ZD3995,Electric,ICICI Lombard,Third-Party,2020,75,Minor,1125000,True
+MOTR-916219,MH12OF9075,Electric,Bajaj Allianz,Comprehensive,2012,67,None,262500,False
+MOTR-839889,MH44UF3008,Electric,Bajaj Allianz,Third-Party,2020,75,None,750000,True
+MOTR-625909,TN29AD2373,Electric,Bajaj Allianz,Comprehensive,2016,71,None,275000,False
+MOTR-231335,KA90HY8115,Sedan,ICICI Lombard,Comprehensive,2011,66,None,450000,False
+MOTR-914908,TN89OQ6078,Sedan,Oriental Insurance,Comprehensive,2015,70,Minor,750000,False
+MOTR-359608,DL90NE4448,Hatchback,Tata AIG,Comprehensive,2012,67,Minor,525000,False
+MOTR-631998,KA67RA3210,SUV,New India Assurance,Comprehensive,2016,71,None,275000,False
+MOTR-605580,KA74DR4994,Sedan,Oriental Insurance,Third-Party,2020,75,None,375000,True
+MOTR-350413,DL29VG8546,SUV,ICICI Lombard,Comprehensive,2020,75,None,1125000,True
+MOTR-541709,KA22SB7634,SUV,Oriental Insurance,Third-Party,2013,68,None,200000,False
+MOTR-803479,MH54JZ3268,Electric,Bajaj Allianz,Third-Party,2022,77,None,850000,True
+MOTR-909792,TN19HU4809,Sedan,New India Assurance,Third-Party,2018,73,None,487500,True
+MOTR-593636,TN59SR6924,Hatchback,Oriental Insurance,Comprehensive,2010,65,Major,375000,False
+MOTR-328247,KA58ZZ2377,Hatchback,Bajaj Allianz,Comprehensive,2024,79,None,712500,True
+MOTR-976493,KA90KV3765,Electric,Bajaj Allianz,Third-Party,2024,79,None,950000,True
+MOTR-829148,DL30BZ4770,Sedan,Tata AIG,Third-Party,2021,76,Minor,800000,True
+MOTR-856653,DL55XF2133,Hatchback,Tata AIG,Comprehensive,2021,76,None,600000,True
+MOTR-578666,TN11EA4754,SUV,Bajaj Allianz,Comprehensive,2021,76,None,1200000,True
+MOTR-739515,MH78GZ6890,Hatchback,Bajaj Allianz,Comprehensive,2015,70,None,750000,False
+MOTR-726689,TN66JB1836,SUV,Bajaj Allianz,Third-Party,2016,71,None,412500,False
+MOTR-851477,MH44ZL8927,Hatchback,ICICI Lombard,Comprehensive,2011,66,Minor,450000,False
+MOTR-452580,TN58OA9449,Electric,Oriental Insurance,Third-Party,2013,68,Minor,600000,False
+MOTR-925035,MH71FO2742,Sedan,Oriental Insurance,Comprehensive,2011,66,Minor,450000,False
+MOTR-422124,TN79DW5411,Electric,Oriental Insurance,Comprehensive,2025,80,None,500000,True
+MOTR-636533,TN71MZ8049,Electric,Bajaj Allianz,Third-Party,2022,77,None,425000,True
+MOTR-528613,KA61TF6594,Sedan,New India Assurance,Comprehensive,2024,79,Minor,475000,True
+MOTR-328111,KA90HA1733,Hatchback,Oriental Insurance,Comprehensive,2016,71,None,275000,False
+MOTR-843854,TN33ZO9074,SUV,New India Assurance,Third-Party,2015,70,None,375000,False
+MOTR-944736,KA97SE3781,Electric,New India Assurance,Third-Party,2015,70,None,750000,False
+MOTR-136234,KA80GO4840,Electric,Tata AIG,Third-Party,2012,67,None,350000,False
+MOTR-945840,KA72PM1545,SUV,New India Assurance,Comprehensive,2014,69,None,449999,False
+MOTR-301006,TN16MA7436,Hatchback,Bajaj Allianz,Comprehensive,2014,69,Major,224999,False
+MOTR-165984,DL81BZ5738,SUV,Tata AIG,Third-Party,2025,80,Minor,750000,True
+MOTR-952532,TN65PJ6726,Electric,ICICI Lombard,Comprehensive,2014,69,Minor,674999,False
+MOTR-909944,MH77YL9218,Electric,Oriental Insurance,Third-Party,2019,74,None,525000,True
+MOTR-599537,DL11NV8120,Hatchback,New India Assurance,Comprehensive,2025,80,Minor,750000,True
+MOTR-907397,TN25NW9932,Hatchback,New India Assurance,Comprehensive,2018,73,None,975000,True
+MOTR-405884,TN35TG5520,Sedan,ICICI Lombard,Third-Party,2014,69,None,337499,False
+MOTR-607101,KA55AY8295,Sedan,Bajaj Allianz,Third-Party,2019,74,None,1050000,True
+MOTR-721889,KA98LY6572,Hatchback,Tata AIG,Third-Party,2016,71,None,275000,False
+MOTR-495314,TN13XC2446,Sedan,Bajaj Allianz,Comprehensive,2023,78,Minor,675000,True
+MOTR-463134,TN36CT5267,Electric,Oriental Insurance,Comprehensive,2022,77,None,1275000,True
+MOTR-156556,DL11JB9097,Sedan,Tata AIG,Third-Party,2022,77,Major,637500,True
+MOTR-611130,KA77VQ8850,Sedan,New India Assurance,Third-Party,2014,69,Minor,337499,False
+MOTR-965509,TN36NQ3950,Sedan,Bajaj Allianz,Third-Party,2019,74,Major,1050000,True
+MOTR-382606,DL25JK2668,Sedan,Tata AIG,Third-Party,2010,65,None,125000,False
+MOTR-181301,MH93GD2419,Electric,Tata AIG,Comprehensive,2015,70,None,750000,False
+MOTR-609127,KA24BW7434,Sedan,Bajaj Allianz,Comprehensive,2019,74,Minor,525000,True
+MOTR-870082,KA16LD6834,Sedan,ICICI Lombard,Comprehensive,2015,70,None,375000,False
+MOTR-344368,MH81KG5081,SUV,Oriental Insurance,Third-Party,2017,72,None,600000,False
+MOTR-274960,TN60SZ2337,Electric,New India Assurance,Third-Party,2011,66,Minor,150000,False
+MOTR-866738,TN37CW9891,SUV,Oriental Insurance,Third-Party,2025,80,None,1500000,True
+MOTR-833234,KA56GG8080,Electric,Bajaj Allianz,Comprehensive,2016,71,None,275000,False
+MOTR-295032,TN78DN9016,SUV,New India Assurance,Third-Party,2013,68,None,600000,False
+MOTR-412541,KA82UY1296,Hatchback,New India Assurance,Third-Party,2018,73,Major,487500,True
+MOTR-874034,KA78ET8155,Hatchback,Tata AIG,Comprehensive,2017,72,None,300000,False
+MOTR-492485,DL31LZ3560,SUV,Tata AIG,Comprehensive,2021,76,Minor,400000,True
+MOTR-488238,KA89CI1282,Sedan,Bajaj Allianz,Third-Party,2025,80,None,750000,True
+MOTR-856688,MH84ZP4896,SUV,Oriental Insurance,Comprehensive,2016,71,None,550000,False
+MOTR-716298,KA24JL7142,Sedan,New India Assurance,Comprehensive,2025,80,None,1500000,True
+MOTR-166679,DL15MA1771,SUV,Bajaj Allianz,Third-Party,2024,79,None,712500,True
+MOTR-287565,DL32IT4542,Hatchback,Oriental Insurance,Comprehensive,2012,67,None,350000,False
+MOTR-974934,DL95DF2431,Sedan,Oriental Insurance,Comprehensive,2017,72,None,900000,False
+MOTR-286119,TN21IQ4358,Sedan,Oriental Insurance,Comprehensive,2014,69,Minor,337499,False
+MOTR-669230,KA84PQ5487,Electric,New India Assurance,Third-Party,2017,72,None,450000,False
+MOTR-869656,MH38HU4360,Hatchback,ICICI Lombard,Comprehensive,2021,76,None,600000,True
+MOTR-826684,DL63PW8379,Electric,New India Assurance,Third-Party,2014,69,None,449999,False
+MOTR-180016,KA23YX9578,Sedan,Oriental Insurance,Comprehensive,2010,65,None,187500,False
+MOTR-201288,MH34WX4860,Sedan,Oriental Insurance,Third-Party,2016,71,None,275000,False
+MOTR-719127,DL45LG2447,SUV,New India Assurance,Third-Party,2019,74,None,700000,True
+MOTR-274763,MH14YU2053,Sedan,ICICI Lombard,Third-Party,2018,73,None,487500,True
+MOTR-426877,MH37BC8593,SUV,New India Assurance,Third-Party,2022,77,Minor,1275000,True
+MOTR-454511,DL15ID6332,SUV,ICICI Lombard,Comprehensive,2018,73,Major,487500,True
+MOTR-983907,DL92HV9671,Sedan,ICICI Lombard,Third-Party,2022,77,None,425000,True
+MOTR-818039,MH42KR9304,Sedan,Tata AIG,Comprehensive,2020,75,None,750000,True
+MOTR-353452,KA83FC5531,SUV,ICICI Lombard,Third-Party,2018,73,Minor,487500,True
+MOTR-792500,DL97XA6277,Hatchback,Bajaj Allianz,Third-Party,2025,80,None,500000,True
+MOTR-546382,TN34FM4040,Electric,Tata AIG,Third-Party,2014,69,Minor,224999,False
+MOTR-920453,TN89TI9080,Hatchback,New India Assurance,Third-Party,2017,72,None,300000,False
+MOTR-656239,MH37VU8433,Electric,New India Assurance,Comprehensive,2015,70,Major,250000,False
+MOTR-530923,DL91DB5450,Electric,Tata AIG,Third-Party,2023,78,None,450000,True
+MOTR-937713,MH46NQ2054,Sedan,Oriental Insurance,Third-Party,2015,70,Major,500000,False
+MOTR-587689,TN94PK1009,Hatchback,New India Assurance,Third-Party,2022,77,Major,637500,True
+MOTR-512220,DL66EV4385,Sedan,Oriental Insurance,Third-Party,2021,76,None,400000,True
+MOTR-274072,MH73XG4817,Hatchback,ICICI Lombard,Third-Party,2014,69,None,224999,False
+MOTR-466477,DL29RW7723,Sedan,Bajaj Allianz,Comprehensive,2025,80,Minor,750000,True
+MOTR-685105,TN26FL4491,SUV,New India Assurance,Third-Party,2022,77,Minor,425000,True
+MOTR-226063,DL41VJ9886,Hatchback,New India Assurance,Comprehensive,2013,68,None,600000,False
+MOTR-600065,MH80AS7043,Hatchback,Bajaj Allianz,Third-Party,2015,70,None,750000,False
+MOTR-966253,TN10EU9439,SUV,Tata AIG,Third-Party,2011,66,None,450000,False
+MOTR-712110,MH60JA4757,Sedan,Tata AIG,Comprehensive,2010,65,Minor,187500,False
+MOTR-530175,TN20OZ7286,Hatchback,Tata AIG,Comprehensive,2018,73,Major,325000,True
+MOTR-648305,DL85ZB1990,SUV,Oriental Insurance,Comprehensive,2018,73,None,487500,True
+MOTR-778437,TN63AY8324,Hatchback,Bajaj Allianz,Third-Party,2019,74,None,1050000,True
+MOTR-316733,TN71TL7008,Sedan,ICICI Lombard,Comprehensive,2016,71,None,550000,False
+MOTR-486387,DL20MF3594,Electric,Bajaj Allianz,Third-Party,2018,73,None,650000,True
+MOTR-429143,DL53PZ3478,Sedan,Oriental Insurance,Comprehensive,2016,71,None,825000,False
+MOTR-723691,DL33SQ4297,Hatchback,Bajaj Allianz,Third-Party,2010,65,None,375000,False
+MOTR-727839,TN32AW3800,Sedan,New India Assurance,Comprehensive,2018,73,None,975000,True
+MOTR-142895,DL50JY3466,Electric,Oriental Insurance,Comprehensive,2015,70,Minor,250000,False
+MOTR-904611,TN20UJ5996,Hatchback,Tata AIG,Comprehensive,2023,78,None,675000,True
+MOTR-335204,KA66UH1251,Hatchback,ICICI Lombard,Comprehensive,2015,70,None,375000,False
+MOTR-775389,DL42ZX2558,Electric,Bajaj Allianz,Comprehensive,2025,80,None,750000,True
+MOTR-150784,TN68DW2185,Hatchback,New India Assurance,Third-Party,2022,77,None,637500,True
+MOTR-575003,MH94UQ7101,SUV,Bajaj Allianz,Comprehensive,2019,74,None,350000,True
+MOTR-334525,TN46NN9436,Hatchback,Oriental Insurance,Third-Party,2024,79,None,950000,True
+MOTR-543107,DL13AH8845,SUV,ICICI Lombard,Comprehensive,2021,76,None,1200000,True
+MOTR-519520,DL29DT3157,Hatchback,Tata AIG,Third-Party,2015,70,None,250000,False
+MOTR-842962,TN87LQ9240,Electric,New India Assurance,Comprehensive,2020,75,None,750000,True
+MOTR-956311,DL77RL6474,SUV,ICICI Lombard,Third-Party,2015,70,None,750000,False
+MOTR-649432,TN11XX9434,SUV,Tata AIG,Comprehensive,2019,74,None,350000,True
+MOTR-630022,KA31AN2570,Hatchback,New India Assurance,Comprehensive,2015,70,Minor,250000,False
+MOTR-413250,DL79DF6403,Electric,New India Assurance,Third-Party,2019,74,None,525000,True
+MOTR-228204,TN42DB1088,Electric,Tata AIG,Third-Party,2019,74,None,700000,True
+MOTR-845288,MH82AC4302,SUV,New India Assurance,Third-Party,2020,75,None,750000,True
+MOTR-272299,KA50BI9852,Hatchback,Oriental Insurance,Third-Party,2024,79,Minor,475000,True
+MOTR-230450,DL80OI9227,SUV,Oriental Insurance,Third-Party,2015,70,Minor,375000,False
+MOTR-705376,TN95OH1922,Electric,Oriental Insurance,Comprehensive,2019,74,Minor,1050000,True
+MOTR-771932,TN98UY1666,Sedan,Oriental Insurance,Comprehensive,2019,74,None,350000,True
+MOTR-699826,MH31SJ4001,Hatchback,ICICI Lombard,Third-Party,2016,71,None,550000,False
+MOTR-589482,MH85RR5734,Electric,New India Assurance,Comprehensive,2010,65,None,125000,False
+MOTR-395873,TN70NF8778,SUV,Oriental Insurance,Comprehensive,2014,69,None,674999,False
+MOTR-120711,TN83NC9742,Sedan,Oriental Insurance,Comprehensive,2014,69,Minor,337499,False
+MOTR-408040,MH71UR9347,Electric,ICICI Lombard,Third-Party,2025,80,None,1000000,True
+MOTR-102838,TN58VJ6087,SUV,ICICI Lombard,Third-Party,2019,74,None,350000,True
+MOTR-534744,KA98OF6425,SUV,ICICI Lombard,Third-Party,2024,79,None,1425000,True
+MOTR-942208,KA93CT8200,Hatchback,Tata AIG,Third-Party,2017,72,None,300000,False
+MOTR-665097,MH16NH7778,SUV,Oriental Insurance,Third-Party,2021,76,None,400000,True
+MOTR-375927,TN37UD4223,Sedan,ICICI Lombard,Comprehensive,2020,75,None,1125000,True
+MOTR-941314,MH84XU6054,SUV,Bajaj Allianz,Comprehensive,2020,75,None,1125000,True
+MOTR-246788,TN96YV8429,Hatchback,New India Assurance,Third-Party,2017,72,None,300000,False
+MOTR-284760,TN75CK8959,SUV,ICICI Lombard,Comprehensive,2019,74,None,350000,True
+MOTR-492003,DL69DO4588,Hatchback,Tata AIG,Third-Party,2022,77,None,1275000,True
+MOTR-813223,DL97HA4814,SUV,Tata AIG,Third-Party,2025,80,Minor,750000,True
+MOTR-919264,MH54CZ3600,Electric,Tata AIG,Third-Party,2010,65,None,375000,False
+MOTR-925156,MH42BX6641,Sedan,New India Assurance,Third-Party,2018,73,None,975000,True
+MOTR-529016,TN49GB5990,Hatchback,Tata AIG,Comprehensive,2016,71,None,825000,False
+MOTR-914027,DL46ED4098,Hatchback,New India Assurance,Third-Party,2012,67,None,175000,False
+MOTR-314908,MH51VY3945,SUV,Tata AIG,Third-Party,2024,79,None,950000,True
+MOTR-826615,TN96AS9772,Sedan,Tata AIG,Comprehensive,2019,74,Major,700000,True
+MOTR-589429,KA41QU1595,Hatchback,Bajaj Allianz,Third-Party,2022,77,None,1275000,True
+MOTR-634300,TN38GE5950,Hatchback,Oriental Insurance,Third-Party,2014,69,Major,224999,False
+MOTR-410486,DL93LG5307,Hatchback,Oriental Insurance,Comprehensive,2014,69,None,337499,False
+MOTR-588727,KA46ZD2232,Electric,New India Assurance,Third-Party,2023,78,None,450000,True
+MOTR-824775,KA28UT7418,Hatchback,Tata AIG,Comprehensive,2014,69,None,674999,False
+MOTR-425674,TN69ZW3803,SUV,ICICI Lombard,Comprehensive,2019,74,None,1050000,True
+MOTR-313413,KA56RU9159,SUV,New India Assurance,Comprehensive,2018,73,None,975000,True
+MOTR-869301,TN36SJ8931,Electric,Bajaj Allianz,Third-Party,2024,79,None,950000,True
+MOTR-270283,DL87PP9867,Hatchback,Tata AIG,Third-Party,2023,78,None,900000,True
+MOTR-199884,MH98FL9993,Sedan,ICICI Lombard,Third-Party,2015,70,None,500000,False
+MOTR-357530,MH56NX1074,Sedan,Tata AIG,Comprehensive,2018,73,None,650000,True
+MOTR-224251,KA77LD6081,Sedan,Oriental Insurance,Comprehensive,2014,69,None,674999,False
+MOTR-591906,MH20JI8298,Sedan,Oriental Insurance,Comprehensive,2010,65,None,125000,False
+MOTR-830216,TN99JH2937,SUV,Oriental Insurance,Comprehensive,2010,65,None,125000,False
+MOTR-630018,KA74IS7579,SUV,Tata AIG,Comprehensive,2016,71,None,275000,False
+MOTR-605345,DL39NM2630,SUV,Bajaj Allianz,Third-Party,2013,68,None,600000,False
+MOTR-262851,TN97HY4274,SUV,Oriental Insurance,Comprehensive,2010,65,None,375000,False
+MOTR-290555,KA60CA9676,Hatchback,Oriental Insurance,Third-Party,2018,73,Minor,650000,True
+MOTR-363123,KA30KU4123,Hatchback,Tata AIG,Comprehensive,2022,77,None,425000,True
+MOTR-501249,DL60JX4565,Electric,Tata AIG,Comprehensive,2011,66,None,150000,False
+MOTR-480768,KA45ZY3879,SUV,New India Assurance,Comprehensive,2025,80,None,750000,True
+MOTR-214349,MH30ME8659,Sedan,ICICI Lombard,Comprehensive,2024,79,None,475000,True
+MOTR-550234,MH40IJ9863,Hatchback,Bajaj Allianz,Third-Party,2023,78,None,900000,True
+MOTR-223976,KA61KN7081,SUV,Bajaj Allianz,Comprehensive,2018,73,None,650000,True
+MOTR-578100,KA16MP4752,Hatchback,Oriental Insurance,Third-Party,2014,69,None,449999,False
+MOTR-372877,TN27AX3192,Sedan,Bajaj Allianz,Comprehensive,2013,68,Major,200000,False
+MOTR-394176,TN45HY2750,SUV,Tata AIG,Comprehensive,2012,67,None,350000,False
+MOTR-628550,MH93GD7388,Hatchback,Oriental Insurance,Comprehensive,2024,79,None,712500,True
+MOTR-142699,DL66NJ9729,Hatchback,Oriental Insurance,Third-Party,2012,67,Minor,175000,False
+MOTR-968055,DL63KH9677,SUV,Tata AIG,Third-Party,2012,67,None,525000,False
+MOTR-523848,TN73UF7893,SUV,Oriental Insurance,Third-Party,2021,76,None,600000,True
+MOTR-651587,MH56NA3895,Electric,Tata AIG,Third-Party,2015,70,None,375000,False
+MOTR-324482,DL13UK3514,SUV,Oriental Insurance,Comprehensive,2025,80,Minor,1000000,True
+MOTR-199279,KA61PS4883,SUV,New India Assurance,Comprehensive,2015,70,None,250000,False
+MOTR-653624,DL77ZL3600,SUV,ICICI Lombard,Third-Party,2018,73,Minor,325000,True
+MOTR-447318,DL64XT4724,SUV,New India Assurance,Comprehensive,2012,67,Minor,175000,False
+MOTR-971508,KA87NG3508,Sedan,Tata AIG,Third-Party,2025,80,Major,750000,True
+MOTR-261324,DL94OM8164,Hatchback,Tata AIG,Comprehensive,2025,80,None,750000,True
+MOTR-998418,TN63XS4563,SUV,Tata AIG,Third-Party,2021,76,None,800000,True
+MOTR-361998,TN42TQ7171,SUV,New India Assurance,Third-Party,2015,70,Minor,500000,False
+MOTR-754488,DL20AN8054,Hatchback,ICICI Lombard,Third-Party,2021,76,Minor,1200000,True
+MOTR-627633,DL49HD3866,Hatchback,Oriental Insurance,Comprehensive,2022,77,None,637500,True
+MOTR-987199,TN23ER9842,Electric,New India Assurance,Comprehensive,2010,65,None,375000,False
+MOTR-544573,MH33DW5189,Hatchback,ICICI Lombard,Comprehensive,2022,77,None,425000,True
+MOTR-870862,KA89JY1371,SUV,Tata AIG,Comprehensive,2018,73,None,487500,True
+MOTR-866993,TN37BB3375,Electric,Bajaj Allianz,Third-Party,2024,79,None,950000,True
+MOTR-325157,DL95GX5172,Hatchback,Bajaj Allianz,Comprehensive,2011,66,None,225000,False
+MOTR-769763,MH49QU2328,Electric,Bajaj Allianz,Comprehensive,2017,72,None,600000,False
+MOTR-312759,MH74OC2506,Electric,ICICI Lombard,Comprehensive,2019,74,None,700000,True
+MOTR-905510,TN27UP7927,Electric,ICICI Lombard,Comprehensive,2017,72,None,600000,False
+MOTR-289706,TN27ML5043,Electric,New India Assurance,Comprehensive,2018,73,None,487500,True
+MOTR-748824,KA56IQ3521,Sedan,New India Assurance,Comprehensive,2014,69,None,674999,False
+MOTR-564128,TN40MZ1060,Hatchback,Oriental Insurance,Comprehensive,2020,75,None,375000,True
+MOTR-121395,MH36PU4205,Electric,ICICI Lombard,Third-Party,2010,65,None,375000,False
+MOTR-159455,KA20XR7100,Sedan,New India Assurance,Third-Party,2020,75,None,1125000,True
+MOTR-628733,DL66YS5410,Electric,ICICI Lombard,Third-Party,2024,79,None,1425000,True
+MOTR-177539,DL50CY2528,Sedan,New India Assurance,Comprehensive,2019,74,Minor,1050000,True
+MOTR-601163,TN80WC6673,Sedan,Tata AIG,Comprehensive,2021,76,None,600000,True
+MOTR-738189,DL60GL4701,SUV,Bajaj Allianz,Comprehensive,2024,79,Minor,1425000,True
+MOTR-536297,MH60FO6690,Electric,Oriental Insurance,Comprehensive,2011,66,None,225000,False
+MOTR-782599,TN48TA3457,Electric,Bajaj Allianz,Comprehensive,2014,69,None,224999,False
+MOTR-206688,MH54OO2789,Hatchback,ICICI Lombard,Third-Party,2025,80,Minor,1500000,True
+MOTR-467367,KA62DK5239,SUV,New India Assurance,Comprehensive,2018,73,Major,487500,True
+MOTR-243737,TN92AZ8851,Hatchback,Bajaj Allianz,Comprehensive,2012,67,None,525000,False
+MOTR-867118,KA38QI6632,Sedan,Oriental Insurance,Comprehensive,2023,78,None,675000,True
+MOTR-362955,MH92NS8274,Hatchback,Oriental Insurance,Third-Party,2011,66,None,450000,False
+MOTR-335470,TN67VE6578,SUV,Tata AIG,Comprehensive,2016,71,None,825000,False
+MOTR-275216,DL90QN9136,Electric,New India Assurance,Comprehensive,2023,78,None,675000,True
+MOTR-403006,MH97IO6596,Hatchback,ICICI Lombard,Third-Party,2017,72,None,450000,False
+MOTR-707329,DL15BJ7899,Sedan,Oriental Insurance,Comprehensive,2011,66,Minor,450000,False
+MOTR-416605,DL74QL1553,Sedan,ICICI Lombard,Comprehensive,2018,73,None,487500,True
+MOTR-294583,MH10NT8340,Electric,ICICI Lombard,Third-Party,2017,72,None,900000,False
+MOTR-854016,DL23ZS6031,SUV,Oriental Insurance,Third-Party,2017,72,None,450000,False
+MOTR-420198,KA79VG9232,Sedan,Tata AIG,Comprehensive,2011,66,Minor,150000,False
+MOTR-815700,TN98ZK4330,SUV,Tata AIG,Comprehensive,2010,65,None,125000,False
+MOTR-799971,MH74XH3385,Sedan,New India Assurance,Third-Party,2021,76,Minor,600000,True
+MOTR-744396,MH34DQ8188,Hatchback,ICICI Lombard,Third-Party,2015,70,None,500000,False
+MOTR-315250,MH86DJ3655,Electric,Bajaj Allianz,Third-Party,2017,72,None,900000,False
+MOTR-383540,KA48EW5833,SUV,Oriental Insurance,Comprehensive,2024,79,Minor,475000,True
+MOTR-359528,KA75TQ8022,SUV,ICICI Lombard,Third-Party,2011,66,None,225000,False
+MOTR-894567,DL31OV1410,Electric,New India Assurance,Third-Party,2014,69,None,224999,False
+MOTR-949148,TN24YQ6812,Electric,New India Assurance,Comprehensive,2018,73,None,975000,True
+MOTR-363723,KA37CO9764,Sedan,Oriental Insurance,Third-Party,2014,69,Minor,674999,False
+MOTR-223121,DL99RE9064,SUV,Tata AIG,Third-Party,2019,74,None,350000,True
+MOTR-139094,KA95MV6192,SUV,Bajaj Allianz,Comprehensive,2012,67,None,262500,False
+MOTR-763405,KA85AV6185,Electric,Oriental Insurance,Third-Party,2019,74,None,700000,True
+MOTR-240306,KA40SC5842,Electric,Oriental Insurance,Third-Party,2024,79,None,475000,True
+MOTR-391906,DL44UC1322,SUV,Oriental Insurance,Comprehensive,2025,80,Major,1000000,True
+MOTR-301155,KA49HF2734,Electric,ICICI Lombard,Third-Party,2024,79,None,475000,True
+MOTR-134484,MH38QV3795,Sedan,Tata AIG,Comprehensive,2021,76,Minor,800000,True
+MOTR-813383,TN31AN9730,SUV,New India Assurance,Comprehensive,2022,77,None,1275000,True
+MOTR-218740,TN62LQ3310,Sedan,Bajaj Allianz,Third-Party,2010,65,Minor,250000,False
+MOTR-972332,TN93XP7183,Hatchback,Tata AIG,Third-Party,2014,69,None,224999,False
+MOTR-145412,TN76ST3658,Sedan,Bajaj Allianz,Comprehensive,2016,71,None,275000,False
+MOTR-389863,KA21JH8350,Sedan,ICICI Lombard,Third-Party,2021,76,None,400000,True
+MOTR-403246,TN50MM7887,Electric,Bajaj Allianz,Third-Party,2018,73,None,975000,True
+MOTR-481219,KA42PF7090,Sedan,Oriental Insurance,Third-Party,2021,76,None,600000,True
+MOTR-795586,KA32RX2299,SUV,ICICI Lombard,Comprehensive,2015,70,None,500000,False
+MOTR-600797,DL71OD7179,SUV,Tata AIG,Comprehensive,2020,75,None,375000,True
+MOTR-144763,KA15GJ3080,Electric,New India Assurance,Third-Party,2018,73,Major,975000,True
+MOTR-806471,DL34OB9253,Sedan,Tata AIG,Comprehensive,2010,65,None,125000,False
+MOTR-578024,KA96HE3121,Electric,Tata AIG,Third-Party,2022,77,None,850000,True
+MOTR-819565,MH72BC3171,Electric,Bajaj Allianz,Comprehensive,2012,67,None,525000,False
+MOTR-810921,TN85VE4864,SUV,Oriental Insurance,Comprehensive,2016,71,None,550000,False
+MOTR-264186,TN86LH2131,SUV,Tata AIG,Comprehensive,2010,65,None,187500,False
+MOTR-682023,DL39ND9375,Hatchback,ICICI Lombard,Third-Party,2018,73,None,975000,True
+MOTR-775268,KA44TB9530,Hatchback,Oriental Insurance,Comprehensive,2020,75,None,375000,True
+MOTR-289545,TN17VD4306,Electric,Bajaj Allianz,Third-Party,2010,65,Minor,250000,False
+MOTR-155851,TN81UT5543,Sedan,New India Assurance,Comprehensive,2020,75,None,562500,True
+MOTR-966365,TN43IB3516,SUV,Tata AIG,Third-Party,2013,68,None,200000,False
+MOTR-763427,KA76FD5125,Sedan,Bajaj Allianz,Comprehensive,2017,72,None,900000,False
+MOTR-774264,DL75JJ2061,Hatchback,Bajaj Allianz,Third-Party,2016,71,None,825000,False
+MOTR-366985,DL71MB3390,Sedan,New India Assurance,Comprehensive,2021,76,None,1200000,True
+MOTR-443121,TN71HJ3770,Sedan,Bajaj Allianz,Comprehensive,2024,79,None,712500,True
+MOTR-495851,DL16QA1689,SUV,Oriental Insurance,Comprehensive,2013,68,None,300000,False
+MOTR-386388,KA44OT2041,SUV,ICICI Lombard,Third-Party,2016,71,None,275000,False
+MOTR-479582,KA69UJ4810,SUV,Tata AIG,Comprehensive,2022,77,None,637500,True
+MOTR-349702,KA97GR8754,SUV,Tata AIG,Third-Party,2018,73,Minor,325000,True
+MOTR-204131,KA20QN1283,Hatchback,Oriental Insurance,Third-Party,2022,77,None,425000,True
+MOTR-966174,KA24GL5325,Electric,Tata AIG,Third-Party,2018,73,None,975000,True
+MOTR-849216,KA45HJ8131,Sedan,Tata AIG,Third-Party,2022,77,Minor,425000,True
+MOTR-141045,DL15BS5773,SUV,Bajaj Allianz,Comprehensive,2017,72,None,450000,False
+MOTR-414253,MH44CM5238,Hatchback,Oriental Insurance,Comprehensive,2023,78,None,675000,True
+MOTR-969888,DL60XY2888,Sedan,New India Assurance,Comprehensive,2018,73,None,650000,True
+MOTR-189071,DL86AX2571,Hatchback,Bajaj Allianz,Third-Party,2025,80,None,1000000,True
+MOTR-193568,KA53WE9352,SUV,Bajaj Allianz,Comprehensive,2016,71,None,275000,False
+MOTR-588012,TN84RA6188,Hatchback,ICICI Lombard,Comprehensive,2019,74,None,1050000,True
+MOTR-603475,MH96PM1502,SUV,Oriental Insurance,Third-Party,2024,79,None,712500,True
+MOTR-818044,TN27ZB8703,Hatchback,New India Assurance,Comprehensive,2022,77,Minor,1275000,True
+MOTR-453103,DL80DT1172,Electric,Bajaj Allianz,Comprehensive,2023,78,None,675000,True
+MOTR-624738,KA19CB7709,Electric,Oriental Insurance,Third-Party,2012,67,Minor,262500,False
+MOTR-700274,KA83ZO7008,Sedan,New India Assurance,Comprehensive,2024,79,None,950000,True
+MOTR-735750,MH68IU2118,Electric,New India Assurance,Third-Party,2021,76,None,1200000,True
+MOTR-871573,DL12PB7615,Electric,New India Assurance,Third-Party,2024,79,None,475000,True
+MOTR-323748,KA13CA8923,Sedan,ICICI Lombard,Third-Party,2010,65,Minor,375000,False
+MOTR-500082,DL59HR7157,Sedan,New India Assurance,Comprehensive,2022,77,Minor,425000,True
+MOTR-545057,TN82TA4787,SUV,New India Assurance,Comprehensive,2014,69,Minor,449999,False
+MOTR-634348,KA12MA2893,Hatchback,ICICI Lombard,Third-Party,2022,77,None,1275000,True
+MOTR-752182,TN40IW6737,Sedan,Bajaj Allianz,Comprehensive,2022,77,None,1275000,True
+MOTR-695249,TN55JV6892,SUV,Bajaj Allianz,Third-Party,2010,65,Minor,125000,False
+MOTR-612967,TN73QT3304,SUV,ICICI Lombard,Comprehensive,2024,79,None,475000,True
+MOTR-107496,DL45SD9785,Sedan,ICICI Lombard,Third-Party,2012,67,None,525000,False
+MOTR-707932,DL59KZ7965,Hatchback,ICICI Lombard,Third-Party,2023,78,None,675000,True
+MOTR-809091,MH40PU2004,Electric,Oriental Insurance,Third-Party,2023,78,Minor,900000,True
+MOTR-495855,MH93NE3879,Sedan,New India Assurance,Comprehensive,2017,72,Minor,600000,False
+MOTR-561783,TN40EA9519,Sedan,ICICI Lombard,Third-Party,2025,80,Minor,750000,True
+MOTR-774239,DL78YU2390,Hatchback,Oriental Insurance,Comprehensive,2019,74,None,1050000,True
+MOTR-535286,DL70HA7166,Hatchback,ICICI Lombard,Comprehensive,2014,69,Major,337499,False
+MOTR-158922,TN46ZO4925,SUV,Oriental Insurance,Comprehensive,2025,80,None,1000000,True
+MOTR-646302,DL38AE6828,Electric,New India Assurance,Comprehensive,2020,75,None,1125000,True
+MOTR-686663,MH46YT7116,SUV,Bajaj Allianz,Third-Party,2010,65,None,187500,False
+MOTR-307355,KA36DZ4274,Sedan,ICICI Lombard,Comprehensive,2013,68,None,300000,False
+MOTR-857848,KA94FB1816,Hatchback,ICICI Lombard,Third-Party,2016,71,Minor,825000,False
+MOTR-602203,KA14FC1907,Sedan,Tata AIG,Third-Party,2013,68,Minor,600000,False
+MOTR-999380,DL78WM3997,Electric,Oriental Insurance,Comprehensive,2020,75,None,750000,True
+MOTR-888139,TN30HP5348,Electric,Bajaj Allianz,Comprehensive,2016,71,None,825000,False
+MOTR-719320,DL25FL1781,Sedan,Bajaj Allianz,Third-Party,2021,76,Minor,1200000,True
+MOTR-728332,DL59NQ7519,Electric,New India Assurance,Third-Party,2012,67,None,525000,False
+MOTR-448279,TN62MX7651,Electric,New India Assurance,Comprehensive,2016,71,None,550000,False
+MOTR-655586,TN21EV6355,Hatchback,Bajaj Allianz,Comprehensive,2024,79,None,950000,True
+MOTR-356026,KA94VM4040,Sedan,New India Assurance,Third-Party,2017,72,Major,300000,False
+MOTR-985336,MH95EU8723,Hatchback,Tata AIG,Third-Party,2018,73,None,650000,True
+MOTR-408320,MH24JX8329,SUV,ICICI Lombard,Third-Party,2013,68,None,300000,False
+MOTR-602252,DL11ZU2911,Electric,Oriental Insurance,Third-Party,2015,70,None,750000,False
+MOTR-903758,MH86QD6079,Electric,New India Assurance,Comprehensive,2013,68,None,300000,False
+MOTR-619949,KA58SI3775,Sedan,Tata AIG,Comprehensive,2023,78,Major,450000,True
+MOTR-451525,DL83BV1141,Hatchback,Oriental Insurance,Third-Party,2015,70,Minor,375000,False
+MOTR-789082,TN14VQ3040,Hatchback,New India Assurance,Comprehensive,2012,67,None,262500,False
+MOTR-730232,KA12DK5999,Sedan,Tata AIG,Third-Party,2011,66,None,150000,False
+MOTR-871499,KA57MV1120,Hatchback,Tata AIG,Third-Party,2019,74,None,350000,True
+MOTR-340232,MH83NT5396,Hatchback,Oriental Insurance,Third-Party,2025,80,None,1000000,True
+MOTR-171591,MH61IA2966,Sedan,ICICI Lombard,Third-Party,2011,66,None,300000,False
+MOTR-390476,KA29WG7530,Sedan,Bajaj Allianz,Third-Party,2025,80,None,1500000,True
+MOTR-702149,TN36HT2911,Electric,Tata AIG,Comprehensive,2016,71,Minor,275000,False
+MOTR-147411,MH51DG4992,Sedan,Bajaj Allianz,Comprehensive,2012,67,Minor,525000,False
+MOTR-735877,MH56XX1748,Electric,Oriental Insurance,Third-Party,2013,68,None,200000,False
+MOTR-562340,DL26WU7794,SUV,Bajaj Allianz,Third-Party,2023,78,Major,1350000,True
+MOTR-751215,DL53NJ4263,Electric,Tata AIG,Third-Party,2016,71,None,412500,False
+MOTR-823261,MH73MP9903,Sedan,Oriental Insurance,Third-Party,2015,70,None,375000,False
+MOTR-597695,KA99UY9756,SUV,Tata AIG,Third-Party,2010,65,Major,250000,False
+MOTR-707554,MH75PJ4196,Hatchback,New India Assurance,Comprehensive,2016,71,None,275000,False
+MOTR-741484,DL85BZ5536,Electric,Oriental Insurance,Third-Party,2011,66,Minor,300000,False
+MOTR-427467,DL85LE4624,Sedan,ICICI Lombard,Comprehensive,2014,69,None,449999,False
+MOTR-188895,DL93QQ5780,Sedan,Bajaj Allianz,Third-Party,2015,70,Minor,375000,False
+MOTR-749238,TN53AB5029,Hatchback,New India Assurance,Comprehensive,2020,75,None,562500,True
+MOTR-109645,MH94IK9870,Sedan,Tata AIG,Third-Party,2022,77,None,850000,True
+MOTR-969754,DL25FZ2437,Sedan,New India Assurance,Third-Party,2022,77,None,1275000,True
+MOTR-926393,TN67MW1697,Electric,Bajaj Allianz,Comprehensive,2017,72,None,900000,False
+MOTR-687234,DL97BR2194,Electric,Bajaj Allianz,Third-Party,2025,80,None,1500000,True
+MOTR-135344,TN78ZK3062,Electric,ICICI Lombard,Comprehensive,2018,73,Major,487500,True
+MOTR-293589,KA51BA9063,Hatchback,Oriental Insurance,Comprehensive,2019,74,None,1050000,True
+MOTR-798546,DL82ME3164,Hatchback,ICICI Lombard,Third-Party,2025,80,Minor,1500000,True
+MOTR-527189,KA48LC2391,SUV,Oriental Insurance,Third-Party,2022,77,Minor,850000,True
+MOTR-979266,KA83CB2400,Hatchback,Oriental Insurance,Third-Party,2019,74,None,1050000,True
+MOTR-939790,TN99BY7751,Sedan,New India Assurance,Comprehensive,2017,72,Minor,600000,False
+MOTR-324082,KA64UJ4949,Electric,Bajaj Allianz,Comprehensive,2013,68,None,300000,False
+MOTR-688596,KA19VU3032,Hatchback,Oriental Insurance,Third-Party,2012,67,None,175000,False
+MOTR-677030,DL64YU4658,Electric,Oriental Insurance,Third-Party,2017,72,None,300000,False
+MOTR-613930,TN99RM3598,Sedan,New India Assurance,Comprehensive,2021,76,Minor,800000,True
+MOTR-507101,TN27AY8733,Electric,ICICI Lombard,Comprehensive,2016,71,None,275000,False
+MOTR-582562,DL99ZM4118,Hatchback,Bajaj Allianz,Comprehensive,2016,71,Minor,550000,False
+MOTR-860405,DL86TG6791,Electric,ICICI Lombard,Third-Party,2014,69,Minor,674999,False
+MOTR-735597,TN53NK4347,SUV,New India Assurance,Third-Party,2016,71,Minor,412500,False
+MOTR-741843,DL59NF8973,Hatchback,Tata AIG,Comprehensive,2024,79,Minor,950000,True
+MOTR-103075,MH79MP7971,Electric,Tata AIG,Comprehensive,2021,76,None,600000,True
+MOTR-914230,TN79YW8230,SUV,Bajaj Allianz,Third-Party,2018,73,None,975000,True
+MOTR-681645,KA74OV2064,Sedan,Bajaj Allianz,Third-Party,2015,70,Minor,500000,False
+MOTR-757417,MH97OA9291,Sedan,New India Assurance,Comprehensive,2016,71,None,412500,False
+MOTR-354508,TN14RZ6816,SUV,ICICI Lombard,Third-Party,2011,66,Minor,450000,False
+MOTR-278764,KA38VH1951,Hatchback,Oriental Insurance,Third-Party,2022,77,None,1275000,True
+MOTR-764336,DL76UO8853,Sedan,ICICI Lombard,Comprehensive,2023,78,None,675000,True
+MOTR-497505,DL73UC7198,Electric,ICICI Lombard,Third-Party,2010,65,None,250000,False
+MOTR-584733,MH80UP6460,Hatchback,ICICI Lombard,Third-Party,2015,70,None,500000,False
+MOTR-240083,MH75TU1694,Hatchback,Tata AIG,Third-Party,2022,77,Minor,850000,True
+MOTR-175230,DL46AF4243,SUV,Bajaj Allianz,Third-Party,2013,68,None,300000,False
+MOTR-343026,KA86CO7173,SUV,Oriental Insurance,Comprehensive,2023,78,Minor,675000,True
+MOTR-567776,DL77FC4807,SUV,Tata AIG,Third-Party,2015,70,None,250000,False
+MOTR-861979,KA35RY5901,Electric,Tata AIG,Third-Party,2014,69,None,224999,False
+MOTR-303607,TN19MO4156,SUV,Oriental Insurance,Comprehensive,2021,76,None,400000,True
+MOTR-670945,MH81TW7420,Hatchback,Bajaj Allianz,Third-Party,2018,73,None,650000,True
+MOTR-366971,TN54JK9769,Hatchback,Tata AIG,Third-Party,2013,68,Major,600000,False
+MOTR-127441,DL64EM4383,Hatchback,New India Assurance,Comprehensive,2024,79,None,475000,True
+MOTR-546287,KA83YL1998,SUV,Tata AIG,Third-Party,2019,74,None,350000,True
+MOTR-143303,TN20DQ5794,SUV,ICICI Lombard,Third-Party,2013,68,Minor,600000,False
+MOTR-847295,KA75IJ3403,SUV,ICICI Lombard,Third-Party,2011,66,None,300000,False
+MOTR-592429,TN24VP4305,Electric,ICICI Lombard,Comprehensive,2012,67,None,525000,False
+MOTR-702735,KA35MG8661,Sedan,New India Assurance,Third-Party,2022,77,None,637500,True
+MOTR-348231,TN54MW2346,SUV,ICICI Lombard,Third-Party,2018,73,Major,975000,True
+MOTR-238068,MH83DN3888,SUV,Bajaj Allianz,Comprehensive,2013,68,None,300000,False
+MOTR-290566,DL82ZK8885,SUV,Bajaj Allianz,Comprehensive,2010,65,None,125000,False
+MOTR-476389,KA88YG7611,SUV,New India Assurance,Comprehensive,2010,65,None,187500,False
+MOTR-731818,MH22GN9278,Electric,ICICI Lombard,Third-Party,2025,80,Minor,1500000,True
+MOTR-432042,KA39TG2016,Sedan,Tata AIG,Comprehensive,2023,78,None,675000,True
+MOTR-267950,MH88HB9277,Electric,New India Assurance,Comprehensive,2013,68,Minor,300000,False
+MOTR-905104,MH84AM1282,Hatchback,New India Assurance,Comprehensive,2015,70,None,375000,False
+MOTR-518913,TN24RA3034,Electric,Oriental Insurance,Third-Party,2010,65,Minor,125000,False
+MOTR-669129,KA63IO8437,Electric,Oriental Insurance,Comprehensive,2014,69,None,449999,False
+MOTR-123927,TN98DZ4927,SUV,Tata AIG,Comprehensive,2019,74,Minor,1050000,True
+MOTR-217446,KA89UT8303,Hatchback,Oriental Insurance,Comprehensive,2016,71,Minor,550000,False
+MOTR-707935,DL79MG7652,SUV,New India Assurance,Comprehensive,2017,72,Minor,450000,False
+MOTR-433452,DL92CC6893,Hatchback,Bajaj Allianz,Third-Party,2025,80,None,1500000,True
+MOTR-490830,MH21ZC1380,Hatchback,Oriental Insurance,Third-Party,2024,79,None,950000,True
+MOTR-672423,KA11KW9017,SUV,Bajaj Allianz,Comprehensive,2023,78,None,900000,True
+MOTR-722336,KA36YW6729,Sedan,ICICI Lombard,Comprehensive,2018,73,None,487500,True

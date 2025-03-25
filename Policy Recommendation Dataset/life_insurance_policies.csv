@@ -1,0 +1,801 @@
+Policy_Number,Customer_Name,Age,Policy_Type,Sum_Assured,Term,Company,Nominee,Smoker
+LIFE-669611,Vincent Nigam,49,Term Plan,2000000,10,Max Life,Ishanvi Vaidya,False
+LIFE-730198,Chatresh Lalla,68,Whole Life,5000000,10,Max Life,Dayamai Atwal,False
+LIFE-212958,Fiyaz Narain,65,Term Plan,1000000,20,HDFC Life,Christopher Mishra,True
+LIFE-185766,Harish Lata,31,Endowment,5000000,25,ICICI Pru Life,Thomas Gala,True
+LIFE-289740,Wazir Kala,31,Term Plan,5000000,15,SBI Life,Ekavir Char,False
+LIFE-409177,Charan Bhasin,51,Term Plan,2000000,30,LIC,Simon Narula,False
+LIFE-904965,Luke Lad,37,Term Plan,500000,10,ICICI Pru Life,Anjali Rajan,False
+LIFE-860697,Fiyaz Raju,51,Term Plan,1000000,10,HDFC Life,Mugdha Pillay,False
+LIFE-730778,Unnati Sawhney,67,Endowment,5000000,10,Max Life,Darika Viswanathan,True
+LIFE-253741,Rachana Parikh,52,Term Plan,5000000,30,ICICI Pru Life,Guneet Bala,False
+LIFE-167063,Yasti Mangal,70,Whole Life,1000000,25,ICICI Pru Life,Vincent Toor,True
+LIFE-125536,Praneel Naidu,45,Whole Life,1000000,10,ICICI Pru Life,Anita Goda,False
+LIFE-742041,Chanchal Sule,23,Endowment,1000000,30,Max Life,Theodore Kuruvilla,False
+LIFE-562414,Jagvi Nagarajan,38,Term Plan,5000000,25,HDFC Life,Forum Kapadia,False
+LIFE-771735,Ijaya Kakar,55,Endowment,5000000,30,HDFC Life,Warjas Parmer,False
+LIFE-586173,Samar Chopra,63,Term Plan,500000,10,SBI Life,Radha Kannan,True
+LIFE-946003,Chaitanya Krishna,58,Term Plan,1000000,30,LIC,Qabil Issac,False
+LIFE-410678,Ganga Sha,53,Term Plan,500000,10,HDFC Life,Azad Mand,False
+LIFE-150051,Caleb Mitter,37,Endowment,2000000,30,LIC,Forum Mukhopadhyay,False
+LIFE-461026,Caleb Chokshi,51,Term Plan,2000000,20,HDFC Life,Shravya Kala,False
+LIFE-531190,Bakhshi Goyal,58,Term Plan,1000000,15,Max Life,Ojasvi Kapur,False
+LIFE-552443,Arya Kurian,25,Term Plan,2000000,20,Max Life,Rayaan Kulkarni,False
+LIFE-104667,Oliver Kara,69,Endowment,2000000,25,ICICI Pru Life,Jackson Uppal,False
+LIFE-325095,Gopal Jani,53,Term Plan,5000000,30,ICICI Pru Life,Krishna Andra,False
+LIFE-572451,Omya Dada,57,Term Plan,1000000,10,SBI Life,Rishi Randhawa,True
+LIFE-816785,Chaitaly Shenoy,65,Term Plan,2000000,15,LIC,Indrajit Lad,False
+LIFE-376515,Bhavika Sharaf,63,Term Plan,5000000,30,ICICI Pru Life,Ekalinga Bhandari,True
+LIFE-120742,Veer Ghosh,59,Whole Life,5000000,20,SBI Life,Guneet Chanda,False
+LIFE-873193,Kala Dhingra,25,Term Plan,500000,25,LIC,Vrinda Brahmbhatt,False
+LIFE-878664,Nidra Mangat,29,Endowment,5000000,20,ICICI Pru Life,Vedant Kala,False
+LIFE-354250,Faras Apte,66,Whole Life,1000000,15,LIC,Fitan Date,False
+LIFE-976865,Raghav Sarkar,56,Whole Life,5000000,30,Max Life,Hardik Bhatnagar,False
+LIFE-819634,Bhanumati Ranganathan,32,Endowment,1000000,20,HDFC Life,Nathan Nori,False
+LIFE-564080,Zayan Singhal,45,Whole Life,5000000,20,Max Life,Divya Varty,False
+LIFE-548368,Qabil Patil,20,Term Plan,500000,25,LIC,Jonathan Ray,False
+LIFE-971797,Falan Pradhan,41,Whole Life,5000000,25,ICICI Pru Life,Megha Kalla,False
+LIFE-829516,Falan Trivedi,21,Term Plan,500000,25,Max Life,Anya Chauhan,False
+LIFE-815799,Oviya Gala,56,Endowment,2000000,15,SBI Life,Neha Misra,False
+LIFE-379220,Bakhshi Gera,20,Endowment,2000000,10,Max Life,Simon Bakshi,False
+LIFE-726102,Bahadurjit Sani,60,Term Plan,2000000,25,HDFC Life,Waida Dhawan,True
+LIFE-355544,Harish Goswami,26,Whole Life,5000000,25,SBI Life,Zinal Borde,False
+LIFE-953206,Jason Deep,67,Whole Life,500000,15,Max Life,Hemang Vora,False
+LIFE-866172,Chakrika Raval,51,Term Plan,5000000,20,SBI Life,Zansi Badal,False
+LIFE-276626,Yauvani Toor,32,Endowment,2000000,30,HDFC Life,Harita Goel,False
+LIFE-856387,Andrew Gola,25,Term Plan,2000000,15,HDFC Life,Garima Char,True
+LIFE-673984,Udarsh Hora,70,Term Plan,500000,20,SBI Life,Wishi Barman,False
+LIFE-663151,Rudra Bumb,42,Term Plan,2000000,30,Max Life,Ekbal Mistry,False
+LIFE-154673,Watika Reddy,33,Endowment,5000000,25,ICICI Pru Life,Nachiket Vig,False
+LIFE-563738,Anvi Buch,39,Whole Life,2000000,30,ICICI Pru Life,Vasatika Savant,False
+LIFE-618970,Nidra Bawa,61,Term Plan,5000000,30,SBI Life,Amruta Sharma,False
+LIFE-287439,Girindra Sant,30,Term Plan,5000000,15,Max Life,Ekta Randhawa,False
+LIFE-256065,Azad Deshmukh,37,Endowment,2000000,15,Max Life,Ikbal Rau,False
+LIFE-958335,Ayush Raman,32,Term Plan,1000000,30,ICICI Pru Life,Warhi Barman,False
+LIFE-166226,Prisha Mahal,32,Term Plan,1000000,15,Max Life,Chasmum Mangat,True
+LIFE-918694,Yashica Chaudry,36,Term Plan,5000000,30,Max Life,Ikbal Sur,False
+LIFE-190653,Tara Sachdeva,33,Endowment,500000,20,HDFC Life,Gunbir Ranganathan,False
+LIFE-930995,Kevin Krish,38,Whole Life,1000000,15,ICICI Pru Life,Chaitaly Subramaniam,False
+LIFE-128852,Gavin Vohra,67,Endowment,500000,30,ICICI Pru Life,Chatresh Chakrabarti,True
+LIFE-909758,Mahika Kale,61,Term Plan,500000,15,ICICI Pru Life,Vivaan Sane,False
+LIFE-632133,Yauvani Kant,65,Term Plan,5000000,30,ICICI Pru Life,Priya Gandhi,False
+LIFE-639415,Vincent Mandal,47,Whole Life,5000000,10,HDFC Life,Raghav Chhabra,False
+LIFE-553021,Vansha Bhakta,25,Term Plan,1000000,15,HDFC Life,Divya Tank,False
+LIFE-660017,Vrishti Rai,27,Endowment,2000000,20,LIC,Gaurang Gandhi,False
+LIFE-883037,Qarin Buch,43,Term Plan,5000000,20,SBI Life,Chandresh Gopal,False
+LIFE-990949,Abdul Dhingra,38,Term Plan,500000,20,ICICI Pru Life,Meghana Kunda,False
+LIFE-524002,Bhavya Radhakrishnan,39,Term Plan,500000,15,Max Life,Leena Mandal,False
+LIFE-377142,Hredhaan Iyengar,49,Term Plan,5000000,25,ICICI Pru Life,Yauvani Konda,False
+LIFE-432799,Jagdish Bhagat,50,Term Plan,500000,30,SBI Life,Akshay Prabhakar,False
+LIFE-247893,Bachittar Shenoy,38,Endowment,5000000,10,Max Life,Vaishnavi Nagi,True
+LIFE-838124,Ojas Soman,25,Endowment,1000000,30,ICICI Pru Life,Shravya Natarajan,False
+LIFE-692213,Nandini Anne,50,Endowment,500000,25,ICICI Pru Life,Warda Shah,False
+LIFE-439534,Fariq Date,62,Whole Life,5000000,30,Max Life,Lopa Pai,False
+LIFE-337207,Sai Naik,46,Whole Life,2000000,15,Max Life,Tanveer Saha,False
+LIFE-127330,Gautami Chana,51,Endowment,1000000,20,LIC,Tanay Oak,False
+LIFE-315877,Om Sibal,45,Whole Life,500000,10,HDFC Life,Vivaan Gole,False
+LIFE-391480,Kritika Kurian,31,Endowment,1000000,30,LIC,Kashish Seth,False
+LIFE-457297,Faqid Om,56,Endowment,2000000,20,LIC,Elijah Bahl,False
+LIFE-827620,Udant Rastogi,24,Whole Life,5000000,20,ICICI Pru Life,Gabriel Parmar,False
+LIFE-182523,Qabil Ben,30,Whole Life,1000000,30,ICICI Pru Life,Yashodhara Vala,False
+LIFE-358119,Dominic Madan,35,Endowment,1000000,20,LIC,Zansi Madan,False
+LIFE-987521,Dev Doctor,33,Endowment,2000000,15,LIC,Kamya Sathe,False
+LIFE-307753,Ekavir Arora,62,Term Plan,2000000,20,ICICI Pru Life,Indrajit Gara,False
+LIFE-751849,Upkaar Pant,31,Term Plan,2000000,20,Max Life,Qarin Koshy,False
+LIFE-709948,Ridhi Bhandari,53,Endowment,1000000,25,Max Life,Oscar Chand,False
+LIFE-249671,Ishwar Memon,69,Term Plan,2000000,10,Max Life,Tamanna Handa,False
+LIFE-217769,Henry Garde,49,Term Plan,1000000,20,SBI Life,Falguni Kakar,False
+LIFE-232080,Fiyaz Sami,26,Term Plan,500000,15,ICICI Pru Life,Garima Guha,False
+LIFE-653820,Mohini Sengupta,51,Endowment,500000,30,Max Life,Sanaya Comar,False
+LIFE-167479,Madhavi Rege,51,Term Plan,500000,25,ICICI Pru Life,Dalaja Nadig,False
+LIFE-513149,Vincent Chacko,37,Endowment,2000000,20,LIC,Zehaan Thakkar,False
+LIFE-468563,Samarth Sheth,55,Term Plan,5000000,20,ICICI Pru Life,Mitesh Gupta,True
+LIFE-132317,Edhitha Kapur,70,Whole Life,1000000,30,SBI Life,Bina Wable,False
+LIFE-657988,Netra Gokhale,31,Term Plan,5000000,25,ICICI Pru Life,Nidra Deshpande,False
+LIFE-569788,George Kanda,49,Term Plan,5000000,10,Max Life,Geetika Pant,False
+LIFE-591479,Neelima Mammen,48,Endowment,1000000,30,Max Life,Vedhika Bava,False
+LIFE-353135,Pranit Kale,38,Whole Life,1000000,25,Max Life,Chaman Dubey,False
+LIFE-130049,Riya Dara,41,Term Plan,500000,20,HDFC Life,Jasmit Maharaj,False
+LIFE-816395,Abhiram Sharma,30,Term Plan,5000000,20,LIC,Yutika Halder,False
+LIFE-724322,Vrinda Ramaswamy,27,Whole Life,2000000,30,Max Life,Ishita Khare,False
+LIFE-873896,Gauri Thaman,48,Term Plan,2000000,20,LIC,Saumya Banik,False
+LIFE-236680,Dhruv Bal,50,Term Plan,5000000,20,ICICI Pru Life,Advay Raghavan,True
+LIFE-159250,Rohan Bhatt,70,Endowment,1000000,10,ICICI Pru Life,Ishita Dey,False
+LIFE-651775,Gauri Lad,32,Endowment,1000000,25,ICICI Pru Life,Varsha Palan,False
+LIFE-564994,Yashica Dhar,57,Endowment,500000,25,Max Life,Victor Chana,True
+LIFE-967043,Laksh Keer,43,Term Plan,2000000,15,ICICI Pru Life,Wahab Gokhale,False
+LIFE-402131,Yug Dhingra,70,Term Plan,5000000,20,ICICI Pru Life,Elijah Subramanian,False
+LIFE-116748,Neel Thaman,61,Endowment,2000000,25,HDFC Life,Damini Jayaraman,False
+LIFE-622530,Chasmum Sule,25,Term Plan,500000,10,Max Life,Eta Pau,False
+LIFE-451892,Sanaya Karnik,38,Term Plan,1000000,15,Max Life,Radha Kota,False
+LIFE-150428,Jhalak Prashad,69,Term Plan,500000,25,HDFC Life,Charita Bala,False
+LIFE-985216,Samar Deep,31,Endowment,2000000,10,SBI Life,Agastya Bora,False
+LIFE-926574,Rajata Pathak,61,Term Plan,500000,15,HDFC Life,Neha Sachar,False
+LIFE-595378,Samaksh Goyal,38,Endowment,5000000,30,HDFC Life,Krish Kannan,False
+LIFE-264913,Ishanvi Varma,55,Term Plan,1000000,20,HDFC Life,Balvan Badal,False
+LIFE-358855,Arunima Shan,58,Term Plan,500000,30,HDFC Life,Darika Pathak,True
+LIFE-566192,Theodore Vasa,66,Endowment,1000000,30,Max Life,Ekavir Dhillon,False
+LIFE-700690,Bhavna Suri,66,Term Plan,1000000,20,SBI Life,Mason Nayar,True
+LIFE-237284,Harsh Mittal,57,Endowment,5000000,15,SBI Life,Raksha Nadig,False
+LIFE-375514,Naveen Varma,41,Term Plan,1000000,15,Max Life,Gagan Minhas,False
+LIFE-482623,Riya Sinha,43,Term Plan,500000,25,LIC,Aayush Shan,False
+LIFE-235006,Umang Rattan,60,Whole Life,5000000,15,HDFC Life,Ishwar Behl,True
+LIFE-218525,Simon Pant,32,Endowment,500000,10,HDFC Life,Lakshit Kumar,False
+LIFE-930790,Unni Parsa,37,Endowment,5000000,15,SBI Life,Pooja Sekhon,True
+LIFE-840627,Abdul Raman,55,Term Plan,5000000,15,SBI Life,Alexander Bora,False
+LIFE-432849,Deepa Chana,41,Term Plan,5000000,20,HDFC Life,Finn Sarna,False
+LIFE-631342,Krishna Rau,44,Term Plan,2000000,10,LIC,Aarnav Pall,False
+LIFE-795251,Bina Sharma,57,Term Plan,500000,15,Max Life,Aahana Gulati,False
+LIFE-708356,Krishna Karnik,21,Term Plan,2000000,30,Max Life,Faqid Shanker,False
+LIFE-167361,Jalsa Prabhakar,40,Term Plan,2000000,30,ICICI Pru Life,Matthew Ravel,False
+LIFE-294790,Sarthak Agarwal,57,Whole Life,500000,20,Max Life,Jyoti Walla,False
+LIFE-996952,Varsha Samra,32,Whole Life,5000000,25,SBI Life,Darpan Kuruvilla,False
+LIFE-146978,Anthony Shah,58,Term Plan,500000,20,SBI Life,Ekalinga Ratta,False
+LIFE-316778,Sachi Murty,51,Whole Life,1000000,15,HDFC Life,Hritik Chakraborty,False
+LIFE-660553,Zayan Kadakia,26,Term Plan,500000,30,Max Life,Chameli Reddy,False
+LIFE-305005,Vaishnavi Amble,52,Whole Life,1000000,15,LIC,Mugdha Doshi,False
+LIFE-378977,Ojas Merchant,40,Whole Life,5000000,10,SBI Life,Krisha Jayaraman,False
+LIFE-668917,Nilima Raja,29,Term Plan,1000000,25,SBI Life,Kavya Sachar,False
+LIFE-620053,Abdul Parekh,64,Term Plan,500000,20,ICICI Pru Life,Pallavi Upadhyay,False
+LIFE-388259,Jacob Dani,36,Whole Life,1000000,30,SBI Life,Pooja Hora,False
+LIFE-429253,Tanvi Bhatt,62,Whole Life,5000000,10,Max Life,Warinder Raghavan,False
+LIFE-557151,Hemal Char,37,Whole Life,1000000,25,Max Life,Aashi Cheema,False
+LIFE-535543,Pavani Mander,63,Endowment,2000000,15,HDFC Life,Akshay Gopal,True
+LIFE-845029,Dayita Bobal,26,Term Plan,5000000,15,Max Life,Avi Nagarajan,False
+LIFE-939230,Ekansh Khosla,22,Term Plan,1000000,15,LIC,Gaurang Babu,False
+LIFE-880254,Anmol Kota,28,Term Plan,1000000,25,Max Life,Hitesh Samra,False
+LIFE-385117,Dalbir Kapoor,51,Term Plan,5000000,30,ICICI Pru Life,Chandani Sama,False
+LIFE-839430,Wridesh Dalal,38,Term Plan,500000,30,ICICI Pru Life,Ladli Wason,False
+LIFE-877785,Jackson Agarwal,35,Term Plan,1000000,30,LIC,Mason Pradhan,False
+LIFE-178397,Quincy Sha,20,Whole Life,1000000,25,ICICI Pru Life,Hemani Desai,False
+LIFE-587850,Ryan Behl,67,Endowment,500000,15,LIC,Oliver Ramachandran,True
+LIFE-304101,Chandresh Sura,70,Term Plan,2000000,30,SBI Life,Ishani Keer,False
+LIFE-729011,Mekhala Pingle,20,Endowment,5000000,30,Max Life,Hritik Kamdar,False
+LIFE-757020,Darika Prakash,35,Whole Life,1000000,25,ICICI Pru Life,Udant Sahni,False
+LIFE-452518,Fariq Singhal,42,Term Plan,500000,15,SBI Life,Upadhriti Setty,True
+LIFE-805426,Utkarsh Parmar,43,Endowment,5000000,15,LIC,Guneet Mander,False
+LIFE-679084,Aryan Narayanan,26,Whole Life,5000000,30,HDFC Life,Anmol Kalla,False
+LIFE-148773,Eesha Ganesh,59,Whole Life,5000000,25,ICICI Pru Life,David Edwin,False
+LIFE-590914,Qushi Gopal,42,Term Plan,2000000,25,LIC,Chanakya Nagar,False
+LIFE-189627,Gauri Rai,56,Term Plan,5000000,15,HDFC Life,Vrinda Wadhwa,False
+LIFE-613602,Patrick Mitra,67,Endowment,500000,15,Max Life,Samesh Sur,False
+LIFE-489118,Aarini Raman,27,Term Plan,2000000,30,ICICI Pru Life,Niharika Sachar,False
+LIFE-808698,Abha Lanka,35,Whole Life,1000000,10,LIC,Naksh Basu,False
+LIFE-203666,Naveen Prakash,67,Term Plan,500000,30,HDFC Life,Parth Som,False
+LIFE-891322,Henry Sankar,25,Term Plan,1000000,20,LIC,Chanchal Joshi,False
+LIFE-801529,Warda Bumb,41,Endowment,500000,15,ICICI Pru Life,Baghyawati Oza,False
+LIFE-942381,Bachittar Sekhon,57,Whole Life,5000000,20,HDFC Life,Xalak Tata,False
+LIFE-427147,Aradhana Apte,26,Endowment,500000,20,SBI Life,Jeet Babu,False
+LIFE-903493,Mitali Deol,53,Endowment,500000,15,HDFC Life,Devika Bose,False
+LIFE-230151,Girish Lata,32,Term Plan,5000000,30,Max Life,Laksh Ray,False
+LIFE-923855,Hardik Aurora,63,Endowment,1000000,30,HDFC Life,Ganga Tata,False
+LIFE-801898,Abhimanyu Wason,36,Term Plan,5000000,30,LIC,Zinal Deo,False
+LIFE-483130,Dipta Warrior,29,Whole Life,5000000,25,HDFC Life,Omkaar Balakrishnan,False
+LIFE-941377,Chanchal Kumer,27,Term Plan,2000000,25,ICICI Pru Life,Aahana Babu,False
+LIFE-876503,Ijaya Chadha,22,Endowment,2000000,15,Max Life,Chatura Thaker,False
+LIFE-818601,Ekiya Sarraf,38,Term Plan,500000,15,ICICI Pru Life,Edhitha Soni,False
+LIFE-394577,Gaurav Verma,61,Whole Life,2000000,25,Max Life,Hiral Venkatesh,True
+LIFE-810431,Bhavini Prabhakar,43,Whole Life,1000000,15,HDFC Life,Udyati Loyal,False
+LIFE-509773,Ekbal Singhal,49,Endowment,2000000,25,LIC,Vidhi Narasimhan,False
+LIFE-385124,Chameli Bakshi,28,Term Plan,5000000,20,HDFC Life,Advaith Sarkar,False
+LIFE-325946,Bhavya Trivedi,58,Whole Life,5000000,15,HDFC Life,Anay Uppal,False
+LIFE-685731,Jagdish Prakash,46,Endowment,1000000,30,Max Life,Onveer Bhatnagar,False
+LIFE-738983,Yashasvi Sood,51,Term Plan,5000000,15,HDFC Life,Wriddhish Jain,True
+LIFE-363621,Chatresh Shere,40,Term Plan,1000000,30,ICICI Pru Life,Triya Gupta,False
+LIFE-884825,Aayush Jaggi,58,Whole Life,1000000,20,Max Life,Aayush Mital,False
+LIFE-568299,Ojasvi Nadig,63,Term Plan,1000000,30,ICICI Pru Life,Reva Bhargava,False
+LIFE-592149,Ekbal Comar,24,Whole Life,2000000,20,Max Life,Faris Goswami,True
+LIFE-209313,Amol Garg,44,Whole Life,2000000,10,ICICI Pru Life,Adya Kashyap,False
+LIFE-947167,Barkha Sharaf,27,Term Plan,1000000,10,LIC,Chameli Shan,False
+LIFE-660483,Luke Bhardwaj,33,Term Plan,2000000,15,ICICI Pru Life,Yutika Sarkar,True
+LIFE-758363,Janaki Sahota,56,Endowment,2000000,10,SBI Life,Yachana Acharya,False
+LIFE-896160,Laban Chaudhary,65,Whole Life,1000000,30,ICICI Pru Life,Hemang Soman,True
+LIFE-986639,Zansi Vohra,24,Endowment,5000000,10,SBI Life,Champak Tripathi,False
+LIFE-895661,Upma Balakrishnan,53,Whole Life,5000000,10,HDFC Life,Geetika Narayan,False
+LIFE-370614,Ishani Shankar,34,Term Plan,2000000,15,Max Life,Andrew Dasgupta,False
+LIFE-232899,Abha Gulati,52,Whole Life,5000000,10,Max Life,Ubika Butala,False
+LIFE-960800,Leela Wali,43,Whole Life,5000000,10,ICICI Pru Life,Balveer Patla,False
+LIFE-716834,Saksham Kalla,40,Term Plan,1000000,30,Max Life,Manthan Shan,False
+LIFE-481940,Peter Mall,61,Term Plan,5000000,30,LIC,Diya Nadig,False
+LIFE-520946,Ishita Narula,48,Whole Life,2000000,20,LIC,Chasmum Saraf,False
+LIFE-198862,Manan Dara,54,Whole Life,1000000,25,Max Life,Nitesh Rege,True
+LIFE-762055,Dayamai Bhardwaj,23,Whole Life,5000000,20,HDFC Life,Ekansh Basak,False
+LIFE-114919,Jairaj Chaudhari,38,Term Plan,5000000,10,SBI Life,Warhi Bail,False
+LIFE-547216,Harita Shankar,69,Endowment,5000000,15,Max Life,Zarna Chaudry,False
+LIFE-948348,Harsh Suresh,22,Term Plan,500000,30,ICICI Pru Life,Ranbir Sabharwal,False
+LIFE-837773,Garima Mallick,36,Term Plan,5000000,30,ICICI Pru Life,Hiral Parikh,True
+LIFE-774176,Peter Gupta,61,Endowment,500000,15,HDFC Life,Ati Chopra,True
+LIFE-914541,Zehaan Singhal,56,Term Plan,500000,25,SBI Life,Xavier Majumdar,False
+LIFE-560096,Arjun Chaudhary,59,Endowment,500000,15,LIC,Naksh Sahni,False
+LIFE-890741,Aadi Karan,22,Endowment,500000,20,Max Life,Theodore Sankaran,False
+LIFE-722881,Pooja Prakash,39,Term Plan,2000000,25,HDFC Life,Amara Palla,False
+LIFE-208215,Dev Balasubramanian,47,Term Plan,500000,30,HDFC Life,Baljiwan Subramanian,False
+LIFE-328088,Azad Lal,25,Term Plan,1000000,20,Max Life,Kavya Gole,False
+LIFE-849627,Aayush Venkataraman,45,Whole Life,2000000,15,SBI Life,Madhavi Mane,True
+LIFE-360053,Rachita Bobal,34,Endowment,1000000,10,SBI Life,Ranbir Gokhale,False
+LIFE-158771,Ayush Mander,26,Term Plan,2000000,25,ICICI Pru Life,Aarna Sagar,False
+LIFE-126367,Anay Dhaliwal,44,Endowment,2000000,20,HDFC Life,Hardik Karnik,True
+LIFE-850932,Warhi Ahuja,50,Term Plan,2000000,10,HDFC Life,Chatresh Tak,False
+LIFE-119638,Kashvi Chaudhari,39,Endowment,1000000,20,SBI Life,Caleb Joshi,False
+LIFE-250460,Raagini Dube,25,Term Plan,2000000,10,HDFC Life,Advik Yadav,False
+LIFE-171993,Neelima Bhasin,40,Term Plan,500000,20,SBI Life,Ati Vohra,False
+LIFE-963755,Bhavika Doshi,44,Term Plan,500000,30,HDFC Life,Finn Krish,False
+LIFE-652354,Saanvi Madan,53,Term Plan,2000000,30,LIC,Wriddhish Sharma,False
+LIFE-116056,Harrison Mital,24,Endowment,1000000,15,SBI Life,Arin Chaudhry,False
+LIFE-272036,Raagini Sankaran,47,Term Plan,500000,10,HDFC Life,Zilmil Anne,True
+LIFE-783866,Tristan Kade,32,Endowment,5000000,10,ICICI Pru Life,Janaki Dube,False
+LIFE-437479,Wriddhish Bera,66,Whole Life,5000000,30,SBI Life,Pranit Jha,False
+LIFE-921764,Daniel Sarin,38,Term Plan,2000000,25,LIC,Avi Jaggi,True
+LIFE-497822,Meera Bakshi,45,Endowment,5000000,10,HDFC Life,Chaitaly Ganguly,False
+LIFE-781757,Isha Mahal,49,Term Plan,1000000,25,HDFC Life,Urvashi Menon,True
+LIFE-975569,Aashi Lad,23,Term Plan,2000000,20,SBI Life,Bhavna Borde,False
+LIFE-839728,Gopal Narula,40,Whole Life,5000000,30,ICICI Pru Life,Udyati Yogi,False
+LIFE-270952,Omaja Venkataraman,42,Endowment,1000000,30,HDFC Life,Ekalinga Basu,False
+LIFE-492657,Faras Balasubramanian,21,Term Plan,5000000,30,LIC,Kevin Chadha,False
+LIFE-841829,Wriddhish Mittal,58,Term Plan,500000,15,Max Life,Timothy Suri,False
+LIFE-593631,Zarna Chacko,33,Term Plan,5000000,20,Max Life,Nidhi Mahajan,False
+LIFE-920677,Ekalinga Balasubramanian,66,Endowment,1000000,20,HDFC Life,Lekha Kumar,False
+LIFE-952010,Chaman Dugar,38,Term Plan,1000000,25,SBI Life,Bhavna Dara,True
+LIFE-267738,Omya Buch,54,Term Plan,5000000,30,ICICI Pru Life,Guneet Sarin,False
+LIFE-481420,Zansi Chaudhary,37,Term Plan,2000000,15,LIC,Gautami Nagi,False
+LIFE-676933,Jagdish Chawla,69,Term Plan,5000000,15,LIC,Max Taneja,False
+LIFE-224787,Nilima Ravel,32,Endowment,2000000,10,LIC,Pratyush Dayal,False
+LIFE-466710,Orinder Ganguly,51,Endowment,5000000,20,Max Life,Mitali Krish,False
+LIFE-499879,Pushti Chandra,39,Endowment,1000000,30,LIC,Krishna Narang,False
+LIFE-350334,Aachal Kaur,52,Endowment,500000,20,SBI Life,Daniel Dani,False
+LIFE-254926,Sathvik Babu,53,Term Plan,1000000,10,SBI Life,Aarush Walia,False
+LIFE-231189,Nitara Mittal,47,Endowment,2000000,20,LIC,Tristan Shetty,False
+LIFE-437396,Gaurav Memon,37,Endowment,5000000,20,Max Life,Owen Divan,False
+LIFE-746353,Ikshita Kale,57,Endowment,500000,15,SBI Life,Logan Keer,True
+LIFE-184877,Mekhala Sanghvi,44,Term Plan,5000000,15,ICICI Pru Life,Joshua Sani,False
+LIFE-204705,Aarna Gara,52,Whole Life,5000000,15,Max Life,Shivansh Saxena,True
+LIFE-772479,Samesh Mannan,61,Term Plan,500000,15,LIC,Jeet Kari,False
+LIFE-776647,Girindra Tiwari,67,Term Plan,5000000,30,ICICI Pru Life,Devika Saha,False
+LIFE-765004,Pallavi Kade,46,Term Plan,1000000,15,LIC,Fitan Mann,False
+LIFE-892793,Arunima Thaman,59,Endowment,500000,20,LIC,Aayush Sastry,False
+LIFE-523179,Aarini Das,48,Term Plan,2000000,20,ICICI Pru Life,Tanveer Deshmukh,True
+LIFE-396196,Abhimanyu Saran,60,Whole Life,500000,30,HDFC Life,Chakrika Nagi,False
+LIFE-181250,Arjun Dani,21,Endowment,5000000,30,HDFC Life,Omya Iyengar,False
+LIFE-254751,Chavvi Viswanathan,58,Endowment,5000000,25,ICICI Pru Life,Harsh Chakraborty,False
+LIFE-237665,Logan Jani,37,Whole Life,1000000,25,LIC,Girish Tella,False
+LIFE-744124,Sneha Salvi,70,Whole Life,500000,30,Max Life,Upadhriti Subramaniam,False
+LIFE-365363,Yamini Varghese,45,Term Plan,500000,30,Max Life,Zarna Tank,False
+LIFE-532505,Amaira Jain,30,Term Plan,500000,15,LIC,Utkarsh Saini,True
+LIFE-733449,Brinda Bhatti,25,Term Plan,2000000,15,ICICI Pru Life,Kritika Lal,False
+LIFE-113708,Hredhaan Borde,37,Term Plan,1000000,30,HDFC Life,Forum Sangha,False
+LIFE-858650,Vanya Viswanathan,69,Term Plan,5000000,15,ICICI Pru Life,Mekhala Kale,True
+LIFE-169270,Hredhaan Kota,28,Endowment,5000000,20,ICICI Pru Life,Vyanjana Bawa,False
+LIFE-780742,Ekta Parmar,61,Term Plan,500000,15,LIC,Kai Balakrishnan,False
+LIFE-958256,Dalaja Bajwa,62,Endowment,5000000,20,SBI Life,Rishi Vora,False
+LIFE-566705,Nandini Minhas,46,Term Plan,500000,25,Max Life,Azad Cheema,False
+LIFE-836340,Frederick Chandra,69,Term Plan,1000000,10,ICICI Pru Life,Adweta Krishnamurthy,False
+LIFE-474213,Rehaan Purohit,31,Term Plan,500000,15,HDFC Life,Qushi Krishnamurthy,True
+LIFE-439776,Frado Jani,59,Term Plan,5000000,30,Max Life,Yashasvi Chada,False
+LIFE-387545,Guneet Maharaj,64,Whole Life,2000000,20,HDFC Life,Brijesh Datta,False
+LIFE-227795,Lajita Halder,67,Endowment,500000,30,LIC,Ekbal Kamdar,False
+LIFE-548262,Yatan Patla,50,Term Plan,2000000,25,SBI Life,Ojasvi Yadav,False
+LIFE-424106,Janani Chowdhury,24,Whole Life,1000000,20,SBI Life,Vaishnavi Panchal,False
+LIFE-876219,Jatin Dube,66,Term Plan,2000000,10,ICICI Pru Life,Xiti Dua,False
+LIFE-201843,Nikita Randhawa,35,Term Plan,1000000,30,SBI Life,Dakshesh Magar,False
+LIFE-790867,Amol Narayan,36,Term Plan,1000000,10,ICICI Pru Life,Panini Munshi,False
+LIFE-923048,Harinakshi Radhakrishnan,22,Term Plan,1000000,30,HDFC Life,Pranav Nagy,False
+LIFE-590587,Jackson Soman,38,Term Plan,1000000,20,ICICI Pru Life,Hredhaan Choudhary,False
+LIFE-309449,Isaac Raju,68,Term Plan,5000000,30,Max Life,Nicholas Khosla,False
+LIFE-459002,Vanya Sanghvi,56,Term Plan,1000000,30,Max Life,Reyansh Kohli,False
+LIFE-403388,Urishilla Divan,61,Endowment,2000000,10,ICICI Pru Life,Pranit Deshmukh,False
+LIFE-102970,Yatan Suri,57,Term Plan,1000000,30,SBI Life,Balhaar Bhat,False
+LIFE-543954,Frederick Sankaran,43,Endowment,500000,10,HDFC Life,Ranveer Bandi,False
+LIFE-942419,Yadavi Mall,52,Endowment,500000,10,LIC,Suhani Bath,True
+LIFE-346304,Vanya Saini,59,Term Plan,5000000,15,Max Life,Daniel Divan,False
+LIFE-625011,Robert Mander,38,Term Plan,2000000,25,SBI Life,Kavya Choudhry,True
+LIFE-371603,Wazir Batra,50,Endowment,1000000,25,Max Life,Nihal Dora,False
+LIFE-626009,Yug Saxena,20,Endowment,2000000,30,SBI Life,Vasatika Naidu,True
+LIFE-903410,Madhavi Mani,31,Term Plan,500000,10,LIC,Ansh Sethi,False
+LIFE-181975,Maanav Dada,68,Endowment,1000000,10,Max Life,Radhika Mutti,False
+LIFE-995575,Leena Majumdar,20,Endowment,2000000,20,ICICI Pru Life,Matthew Sibal,False
+LIFE-640200,Panini Chahal,43,Endowment,2000000,10,SBI Life,Gaurika Talwar,False
+LIFE-702623,Devansh Prabhu,39,Endowment,5000000,20,HDFC Life,Falak Bhandari,False
+LIFE-514893,Falak Dalal,67,Whole Life,2000000,25,Max Life,Zarna Cheema,False
+LIFE-617987,Ekanta Butala,62,Term Plan,5000000,15,LIC,Adweta Kohli,True
+LIFE-834298,Avi Chanda,42,Term Plan,5000000,20,HDFC Life,Abdul Patil,True
+LIFE-684815,Parth Buch,56,Term Plan,500000,30,SBI Life,Aachal Naidu,False
+LIFE-306215,Nandini Kapoor,44,Whole Life,500000,15,ICICI Pru Life,Chaman Tripathi,False
+LIFE-580003,Vasudha Dasgupta,66,Endowment,5000000,25,HDFC Life,Anita Sarkar,False
+LIFE-839251,Yashasvi Iyengar,68,Whole Life,500000,25,SBI Life,Hardik Raghavan,True
+LIFE-931927,Tarak Varughese,57,Term Plan,5000000,25,HDFC Life,Oscar Manne,False
+LIFE-147387,Ijaya Rastogi,62,Whole Life,5000000,20,ICICI Pru Life,Pratyush Nadkarni,True
+LIFE-193512,Yug Dhar,56,Term Plan,500000,15,SBI Life,Krisha Bhalla,False
+LIFE-319784,Bhavani Krishnamurthy,47,Whole Life,5000000,30,HDFC Life,Baljiwan Mallick,False
+LIFE-438958,Gauri Badami,44,Term Plan,2000000,15,LIC,Dayamai Sangha,False
+LIFE-784152,Chaman Dara,34,Term Plan,1000000,30,LIC,Indrajit Parekh,False
+LIFE-450748,Irya Kota,24,Term Plan,5000000,30,HDFC Life,Saksham Barad,False
+LIFE-597338,Aachal Purohit,56,Endowment,2000000,15,LIC,Amrita Doctor,False
+LIFE-976549,Vyanjana Barad,40,Whole Life,500000,25,ICICI Pru Life,Urmi Bassi,False
+LIFE-539762,Netra Madan,21,Term Plan,500000,30,HDFC Life,Siya Khanna,False
+LIFE-229383,Upma Kumar,33,Whole Life,500000,20,HDFC Life,Eiravati Bava,False
+LIFE-537407,Tanvi Walla,48,Term Plan,5000000,15,SBI Life,Dhruv Seth,False
+LIFE-957858,Daksha Ahluwalia,60,Term Plan,5000000,30,HDFC Life,Krishna Vohra,False
+LIFE-120125,Amol Memon,24,Term Plan,5000000,15,SBI Life,Wahab Verma,False
+LIFE-185208,Bachittar Dara,59,Endowment,1000000,25,Max Life,Anita Kar,False
+LIFE-447765,Om Bajaj,42,Endowment,500000,20,Max Life,Bhavya Gade,False
+LIFE-695024,Patrick Ray,66,Term Plan,500000,25,SBI Life,Jack Sankaran,False
+LIFE-306734,Eshana Kadakia,52,Endowment,500000,20,SBI Life,Advika Bala,False
+LIFE-409248,Mason Purohit,58,Endowment,500000,10,SBI Life,Arya Halder,True
+LIFE-760547,Laban Mall,51,Term Plan,500000,10,Max Life,Meera Lata,False
+LIFE-549314,Ishaan Patil,35,Endowment,500000,20,ICICI Pru Life,Rehaan Dutt,True
+LIFE-511813,Chaitaly Goswami,27,Term Plan,2000000,30,LIC,Charles Majumdar,True
+LIFE-105136,Omisha Nazareth,36,Endowment,1000000,10,LIC,Tara Agrawal,False
+LIFE-568873,Falguni Suri,37,Endowment,1000000,30,HDFC Life,Rehaan Goswami,False
+LIFE-199944,Abhimanyu Sahota,69,Whole Life,5000000,30,SBI Life,Yashvi Kakar,False
+LIFE-993135,Pallavi Toor,31,Endowment,2000000,25,SBI Life,Xalak Kakar,True
+LIFE-172336,Ayushman Nadkarni,22,Term Plan,1000000,30,Max Life,Yauvani Lad,False
+LIFE-325135,Eiravati Jhaveri,47,Term Plan,5000000,15,HDFC Life,Kavya Sibal,False
+LIFE-750751,Guneet Solanki,31,Term Plan,5000000,20,ICICI Pru Life,Kalpit Handa,False
+LIFE-379065,Xalak Mukherjee,51,Endowment,500000,25,HDFC Life,Utkarsh Hari,False
+LIFE-696363,Nisha Banerjee,52,Term Plan,2000000,20,ICICI Pru Life,Nathaniel Malhotra,False
+LIFE-321620,Kiaan Srinivas,25,Whole Life,1000000,30,HDFC Life,Atharv Jhaveri,True
+LIFE-523716,Bhavani Shetty,33,Term Plan,5000000,30,SBI Life,Mason Sarma,False
+LIFE-642470,Jack Rajan,24,Term Plan,5000000,10,Max Life,Mitesh Barad,False
+LIFE-364155,Charita Rajagopal,67,Term Plan,500000,10,SBI Life,Pooja Brar,False
+LIFE-631190,Ronith Bahl,46,Endowment,5000000,15,SBI Life,Yashawini Edwin,False
+LIFE-958132,Udant Sule,46,Term Plan,500000,15,HDFC Life,Jacob Pai,False
+LIFE-864751,Nathaniel Chandran,66,Endowment,2000000,15,LIC,Chakradev Mallick,False
+LIFE-921715,Gavin Gandhi,68,Whole Life,500000,30,SBI Life,Yatan Sura,False
+LIFE-661101,Tanmayi Bali,51,Endowment,1000000,15,LIC,Chanchal Raghavan,False
+LIFE-599295,Faris Solanki,69,Term Plan,500000,20,ICICI Pru Life,Saanvi Krish,False
+LIFE-190897,Hitesh Loyal,62,Endowment,1000000,15,HDFC Life,Ranveer Magar,False
+LIFE-943755,Ganga Kunda,47,Endowment,2000000,15,HDFC Life,Vasatika Magar,False
+LIFE-749678,Jasmit Ahuja,30,Term Plan,5000000,30,HDFC Life,Radhika Sarkar,False
+LIFE-314074,Tanveer Kibe,62,Whole Life,1000000,15,Max Life,Yagnesh Madan,False
+LIFE-660680,Yasti Golla,23,Term Plan,2000000,30,Max Life,Darika Tripathi,False
+LIFE-216580,Mugdha Sama,25,Term Plan,1000000,30,ICICI Pru Life,Tanmayi Goel,True
+LIFE-408735,Devika Sule,57,Endowment,1000000,25,SBI Life,Aachal Lata,False
+LIFE-899547,Jairaj Sahni,54,Term Plan,1000000,30,LIC,Nidra Reddy,False
+LIFE-935276,Chakrika Buch,50,Whole Life,2000000,15,HDFC Life,Yatan Wason,True
+LIFE-331123,Peter Mani,59,Term Plan,2000000,20,LIC,Hema Saini,False
+LIFE-522716,Daksha Bajaj,69,Endowment,5000000,15,HDFC Life,Warinder Saini,False
+LIFE-772311,Utkarsh Halder,33,Endowment,500000,20,LIC,Chakradev Gala,False
+LIFE-392815,Thomas Vala,36,Endowment,1000000,30,Max Life,Ekavir Sabharwal,False
+LIFE-571238,Ikbal Sura,65,Endowment,5000000,30,LIC,Nathaniel Korpal,False
+LIFE-714339,Faqid Choudhry,70,Term Plan,2000000,25,LIC,Ati Mander,False
+LIFE-343521,Umang Peri,43,Term Plan,2000000,30,HDFC Life,Ekanta Krishnan,False
+LIFE-387801,Samuel Sachar,58,Whole Life,5000000,30,Max Life,Xiti Talwar,False
+LIFE-780531,Darsh Bahl,58,Endowment,500000,20,SBI Life,Vrinda Atwal,False
+LIFE-436899,Krishna Uppal,35,Endowment,2000000,30,SBI Life,Rehaan Gopal,False
+LIFE-618632,Shaurya Misra,37,Endowment,5000000,20,Max Life,Pushti Kala,False
+LIFE-104644,Orinder Deol,57,Term Plan,500000,25,ICICI Pru Life,Tamanna Sarraf,False
+LIFE-629016,Advay Krish,65,Whole Life,1000000,15,ICICI Pru Life,Laksh Narula,False
+LIFE-443441,Rajeshri Raj,49,Term Plan,2000000,15,Max Life,Arin Wadhwa,False
+LIFE-889695,Anthony Gopal,21,Endowment,2000000,25,LIC,Lila Chatterjee,True
+LIFE-592269,Radha Sawhney,57,Term Plan,1000000,10,SBI Life,Noah Mannan,False
+LIFE-277040,Abhiram Andra,63,Term Plan,1000000,30,Max Life,Vansha Mangal,False
+LIFE-964224,Janya Sachdeva,51,Endowment,5000000,20,SBI Life,Zehaan Khare,False
+LIFE-257365,Barkha Sangha,33,Whole Life,500000,15,HDFC Life,Tejas Contractor,False
+LIFE-295067,Nakul Ahuja,34,Endowment,2000000,25,Max Life,Oni Keer,False
+LIFE-844692,Ekiya Zacharia,49,Term Plan,5000000,10,ICICI Pru Life,Upma Edwin,False
+LIFE-370331,Rudra Naik,20,Term Plan,5000000,15,Max Life,Nicholas Dyal,True
+LIFE-722034,Ranbir Sahni,33,Whole Life,5000000,15,HDFC Life,Krish Raja,False
+LIFE-770553,Arunima Mander,60,Term Plan,2000000,20,ICICI Pru Life,Manbir Kaul,False
+LIFE-246748,Gunbir Keer,40,Endowment,500000,25,HDFC Life,Guneet Gopal,True
+LIFE-789522,Liam Chakraborty,63,Term Plan,1000000,15,SBI Life,Warda Modi,False
+LIFE-279973,Arin Bera,65,Endowment,2000000,25,SBI Life,Jackson Randhawa,False
+LIFE-394998,Oscar Nair,63,Endowment,1000000,15,ICICI Pru Life,Kamala Bhatia,False
+LIFE-290263,Anjali Bhatti,53,Endowment,5000000,25,LIC,Vamakshi Saraf,False
+LIFE-682210,Jalsa Hegde,40,Term Plan,5000000,15,SBI Life,Eta Varughese,False
+LIFE-384437,Kabir Munshi,29,Endowment,500000,20,LIC,Geetika Babu,False
+LIFE-731748,Balhaar Luthra,67,Whole Life,1000000,15,Max Life,Tara Chakraborty,False
+LIFE-107901,Tristan Srinivasan,58,Endowment,2000000,30,ICICI Pru Life,Raghav Bala,False
+LIFE-873749,Henry Butala,34,Term Plan,500000,25,ICICI Pru Life,Yachana Loyal,False
+LIFE-899487,Yashodhara Raman,31,Endowment,5000000,25,Max Life,Rushil Khanna,False
+LIFE-464788,Vincent Badami,22,Term Plan,500000,30,HDFC Life,Yadavi Krishnan,False
+LIFE-267944,Shivansh Ganguly,32,Endowment,500000,25,ICICI Pru Life,Tanvi Wagle,False
+LIFE-435367,Laban Murthy,53,Endowment,2000000,15,ICICI Pru Life,Manan Palla,True
+LIFE-706006,Varenya Kumar,46,Whole Life,1000000,30,SBI Life,Libni Korpal,False
+LIFE-933577,Warjas Subramaniam,68,Term Plan,2000000,10,LIC,Ayushman Krishnan,False
+LIFE-852791,Jagat Dhaliwal,35,Term Plan,500000,20,Max Life,Nachiket Hari,False
+LIFE-968251,Zashil Comar,21,Term Plan,5000000,25,Max Life,Zinal Yohannan,False
+LIFE-744114,Oliver Choudhry,56,Endowment,5000000,10,HDFC Life,Edhitha Kapur,False
+LIFE-724345,Dhruv Menon,69,Term Plan,2000000,10,HDFC Life,Hredhaan Walla,True
+LIFE-351902,Gaurang Sura,47,Whole Life,500000,25,Max Life,Jagvi Wadhwa,False
+LIFE-253203,Janani Dyal,41,Term Plan,5000000,10,SBI Life,Yutika Luthra,True
+LIFE-169585,Pratyush Bumb,48,Endowment,500000,25,SBI Life,Girik Sarkar,False
+LIFE-636827,Gopal Shetty,68,Whole Life,2000000,30,SBI Life,Jackson Luthra,False
+LIFE-953979,Ira Basak,52,Endowment,2000000,20,Max Life,Aryan Karan,True
+LIFE-514297,Gaurika Prakash,25,Term Plan,500000,25,LIC,Faris Bhatt,False
+LIFE-966731,Akshay Singhal,27,Whole Life,500000,20,ICICI Pru Life,Gautami Buch,False
+LIFE-260152,Hemal Das,52,Term Plan,1000000,10,Max Life,Mekhala Pall,False
+LIFE-295664,Ucchal Bobal,36,Endowment,2000000,30,SBI Life,Maya Dube,False
+LIFE-155272,Aachal Ram,57,Endowment,1000000,30,LIC,Faraj Vala,False
+LIFE-896494,Jyoti Ramakrishnan,25,Term Plan,5000000,20,Max Life,Varenya Nair,True
+LIFE-593042,Eta Narasimhan,32,Term Plan,2000000,20,Max Life,Libni De,True
+LIFE-265242,Balvan Ganesan,28,Term Plan,2000000,10,HDFC Life,Eta Dalal,False
+LIFE-457596,Ria Buch,39,Term Plan,1000000,10,ICICI Pru Life,Sudiksha Mani,False
+LIFE-241236,Jasmit Memon,45,Term Plan,2000000,25,SBI Life,Anay Gara,False
+LIFE-112157,Zinal Chada,57,Whole Life,5000000,30,LIC,Abdul Mohan,False
+LIFE-609956,Faras Bail,29,Endowment,5000000,10,SBI Life,Pranit Amble,False
+LIFE-735028,Neha Pandey,38,Endowment,5000000,20,HDFC Life,Diya Lall,True
+LIFE-146416,Mason Gulati,61,Endowment,1000000,15,HDFC Life,Harita Sachdev,False
+LIFE-923596,Yoshita Naidu,45,Term Plan,500000,25,Max Life,Hemang Lata,True
+LIFE-698965,Vedant Majumdar,50,Whole Life,2000000,15,HDFC Life,Ishaan Wali,False
+LIFE-190802,Maya Bora,25,Term Plan,2000000,15,Max Life,Warinder Char,False
+LIFE-967028,Damini Dugal,56,Endowment,2000000,15,LIC,Hritik Rastogi,False
+LIFE-435127,Unni Contractor,23,Endowment,500000,25,Max Life,Manbir Bhavsar,False
+LIFE-383242,Vedika Barad,35,Term Plan,500000,20,Max Life,Aahana Chad,True
+LIFE-385349,Raagini Kade,62,Endowment,1000000,10,LIC,Gavin Sodhi,False
+LIFE-861928,Oscar Joshi,40,Term Plan,500000,10,ICICI Pru Life,Charles Batta,True
+LIFE-783770,Ayaan Handa,26,Whole Life,5000000,25,ICICI Pru Life,Widisha Lala,False
+LIFE-372813,Victor Sen,52,Whole Life,500000,15,ICICI Pru Life,Umang Oak,False
+LIFE-965785,Sachi Tandon,64,Endowment,1000000,15,Max Life,Lekha Date,False
+LIFE-520406,Abhiram Ramesh,58,Term Plan,1000000,10,Max Life,Zilmil Agrawal,False
+LIFE-519618,Dalaja Mall,26,Endowment,500000,30,Max Life,Idika Batta,False
+LIFE-652193,Yauvani Lall,34,Term Plan,500000,15,SBI Life,Upma Dhawan,True
+LIFE-245838,Advik Bawa,47,Whole Life,5000000,10,ICICI Pru Life,Netra Sridhar,False
+LIFE-128991,Indira Jhaveri,70,Whole Life,2000000,10,ICICI Pru Life,Gabriel Dhawan,False
+LIFE-165565,Advaith Toor,53,Endowment,1000000,25,ICICI Pru Life,Vyanjana Baria,False
+LIFE-263104,Yochana Dugar,47,Endowment,5000000,10,LIC,Jonathan Barad,False
+LIFE-780702,Veer Balan,31,Endowment,500000,20,LIC,Parth Kaur,False
+LIFE-734883,Charles Mallick,24,Endowment,2000000,25,SBI Life,Amruta Iyer,False
+LIFE-528617,Gabriel Nigam,60,Whole Life,2000000,30,LIC,Nimrat Mukhopadhyay,False
+LIFE-905217,Gauri Tata,62,Term Plan,1000000,10,SBI Life,Yahvi Boase,False
+LIFE-178054,Urvashi Chand,38,Endowment,500000,15,ICICI Pru Life,Umang Ravel,False
+LIFE-771894,Girindra Rau,50,Endowment,5000000,30,LIC,Ganga Hora,True
+LIFE-985570,Abhiram Tripathi,48,Term Plan,1000000,30,HDFC Life,Yashica Bose,False
+LIFE-779031,Vasatika Chana,49,Whole Life,1000000,25,HDFC Life,Ganga Pau,False
+LIFE-791528,Radhika Chakraborty,37,Term Plan,500000,30,ICICI Pru Life,Avni Nagi,False
+LIFE-924953,Saanvi Varughese,65,Term Plan,500000,15,ICICI Pru Life,Vihaan Naidu,False
+LIFE-372011,Leela Koshy,51,Endowment,1000000,10,LIC,Tripti Barad,False
+LIFE-487526,Zarna Chopra,21,Term Plan,500000,30,SBI Life,Tanvi Bandi,False
+LIFE-929907,Aarini Bora,54,Endowment,2000000,15,LIC,Karan Padmanabhan,False
+LIFE-145540,Pranav Ahuja,51,Term Plan,500000,10,SBI Life,Ucchal Chopra,False
+LIFE-677382,Zinal Cherian,25,Whole Life,5000000,15,SBI Life,Kala Pau,True
+LIFE-954796,Omya Kashyap,58,Whole Life,2000000,15,HDFC Life,Atharv Varma,False
+LIFE-706322,Chavvi Mody,69,Term Plan,5000000,25,Max Life,Hemal Ben,False
+LIFE-942250,Unnati Cheema,32,Endowment,500000,25,SBI Life,Nirja Khosla,False
+LIFE-749433,Owen Gopal,31,Term Plan,2000000,10,LIC,Yachana Sahni,False
+LIFE-344947,Nitara Narayan,41,Whole Life,1000000,15,Max Life,Kai Swamy,False
+LIFE-954293,Aachal Keer,27,Term Plan,2000000,15,LIC,Ekantika Sankaran,False
+LIFE-616345,Veda Trivedi,22,Term Plan,500000,25,Max Life,Neha Bala,False
+LIFE-220553,Hemang Bahri,40,Endowment,1000000,15,SBI Life,Radhika Viswanathan,False
+LIFE-683436,Pratyush Sanghvi,68,Endowment,5000000,10,LIC,Aachal Goswami,False
+LIFE-456748,Eta Karan,61,Endowment,2000000,30,LIC,Indira Goda,False
+LIFE-554102,Tanveer Rastogi,54,Term Plan,1000000,15,Max Life,Mohini Prabhu,False
+LIFE-476000,Vedhika Singh,70,Endowment,1000000,20,SBI Life,Ekbal Bala,False
+LIFE-524588,Ekapad Seshadri,43,Term Plan,2000000,20,HDFC Life,Elijah Narula,True
+LIFE-190104,Caleb Sarraf,56,Term Plan,1000000,25,Max Life,Yadavi Khosla,False
+LIFE-145429,Viraj Sani,31,Term Plan,2000000,25,LIC,Bina Krishnamurthy,False
+LIFE-632601,Noah Narayan,67,Term Plan,500000,10,SBI Life,Dev Saraf,False
+LIFE-870966,Jacob Nadig,65,Endowment,1000000,25,HDFC Life,Gaurika Raghavan,False
+LIFE-957207,Sai Merchant,65,Whole Life,1000000,15,Max Life,Vihaan Devi,False
+LIFE-547116,Frederick Naik,24,Whole Life,500000,20,HDFC Life,Hemang Bali,False
+LIFE-197288,Qabil Lal,21,Term Plan,2000000,10,SBI Life,Nathaniel Chaudhuri,False
+LIFE-317154,Nidhi Setty,63,Endowment,1000000,15,SBI Life,Ayushman Mangal,False
+LIFE-392994,Ranveer Choudhary,40,Endowment,2000000,25,HDFC Life,Chandresh Gandhi,False
+LIFE-584955,Onkar Tata,60,Whole Life,2000000,30,HDFC Life,Ranbir Baral,True
+LIFE-131104,Yochana Wadhwa,44,Term Plan,500000,10,HDFC Life,Pahal Setty,False
+LIFE-403702,Anjali Swaminathan,27,Term Plan,2000000,30,SBI Life,Chatresh Jha,True
+LIFE-539318,Aadi Vasa,52,Endowment,2000000,15,HDFC Life,Ganga Bumb,False
+LIFE-782620,Saumya Swamy,36,Term Plan,2000000,15,HDFC Life,Yuvraj Bandi,False
+LIFE-683047,Nilima Wable,65,Term Plan,2000000,25,SBI Life,Nikita Pradhan,True
+LIFE-723030,Harini Yohannan,63,Term Plan,5000000,10,HDFC Life,Vedant Toor,False
+LIFE-377869,Hema Sama,53,Endowment,1000000,20,LIC,Laksh Agate,True
+LIFE-478037,Anika Mody,43,Term Plan,5000000,10,Max Life,Tripti Agrawal,False
+LIFE-227914,Abdul Brahmbhatt,49,Term Plan,500000,10,SBI Life,Isaac Thaker,False
+LIFE-269936,Manbir Agarwal,33,Term Plan,2000000,30,ICICI Pru Life,Anamika Krishnan,False
+LIFE-707050,Turvi Seshadri,38,Whole Life,2000000,10,LIC,Chaman Lala,False
+LIFE-476986,Anjali Gupta,29,Whole Life,2000000,20,SBI Life,Madhavi Sachdev,False
+LIFE-229956,Vrishti Puri,60,Endowment,5000000,25,ICICI Pru Life,Varenya Johal,False
+LIFE-258817,Harsh Goswami,55,Term Plan,5000000,25,Max Life,Nathan Chaudhuri,True
+LIFE-445405,Matthew Banik,33,Term Plan,1000000,25,Max Life,Jai Boase,False
+LIFE-584618,Ekiya Mannan,44,Endowment,2000000,20,LIC,Nathaniel Khanna,False
+LIFE-920883,Leena Pandey,48,Term Plan,1000000,20,HDFC Life,Gagan Barad,True
+LIFE-193951,Avi Guha,28,Term Plan,5000000,10,LIC,Siya Narayan,False
+LIFE-396634,Ikshita Rana,40,Whole Life,500000,20,SBI Life,Pavani Deshmukh,False
+LIFE-311658,Mekhala Kulkarni,42,Whole Life,2000000,25,ICICI Pru Life,Theodore Bava,False
+LIFE-170138,Ekanta Setty,40,Term Plan,2000000,25,ICICI Pru Life,Amruta Memon,False
+LIFE-913321,Maanav Solanki,45,Whole Life,1000000,20,HDFC Life,Rishi Kari,False
+LIFE-805727,Abhiram Ben,26,Endowment,500000,10,ICICI Pru Life,Max Karpe,False
+LIFE-123094,Chaman Ravel,42,Endowment,5000000,25,SBI Life,Nidra Anand,False
+LIFE-616495,Balhaar Padmanabhan,33,Endowment,2000000,30,Max Life,Laksh Rajan,False
+LIFE-826544,Forum Krish,63,Endowment,1000000,30,ICICI Pru Life,Krishna Bhatti,False
+LIFE-121051,Ikshita Bhasin,60,Term Plan,5000000,30,ICICI Pru Life,Yashawini Bhatia,False
+LIFE-161748,Bhavna Hayre,40,Term Plan,5000000,25,ICICI Pru Life,Abhimanyu Ratti,True
+LIFE-643930,Omkaar Rana,35,Term Plan,1000000,15,Max Life,Watika Suresh,False
+LIFE-910811,Elijah Chandra,22,Term Plan,1000000,10,SBI Life,Hiral Banerjee,False
+LIFE-620597,Ekiya Gala,68,Endowment,1000000,25,HDFC Life,Ira Sankar,True
+LIFE-523109,Qarin Bhargava,52,Whole Life,1000000,15,HDFC Life,Lipika Venkatesh,False
+LIFE-244401,Hardik Lall,30,Endowment,1000000,15,ICICI Pru Life,Kamala Kalita,False
+LIFE-134177,Anya Divan,39,Term Plan,2000000,10,SBI Life,Bimala Dalal,False
+LIFE-932800,Chaitaly Kapoor,32,Endowment,500000,25,HDFC Life,Gaurika Sarin,False
+LIFE-725186,Onveer Anne,40,Term Plan,500000,30,HDFC Life,Dhruv Ahuja,False
+LIFE-522350,Zashil Prabhakar,37,Whole Life,2000000,30,HDFC Life,Gautami Mani,False
+LIFE-970958,Liam Savant,70,Endowment,500000,15,Max Life,Zaitra Dhingra,False
+LIFE-463720,Inaya Dara,28,Whole Life,500000,20,LIC,Vinaya Sabharwal,True
+LIFE-561457,Manya Upadhyay,20,Whole Life,2000000,25,HDFC Life,Unni Brahmbhatt,False
+LIFE-737305,Joshua Joshi,40,Endowment,2000000,20,ICICI Pru Life,Shravya Dani,True
+LIFE-612846,Ishaan Gill,38,Endowment,2000000,30,SBI Life,Maanas Bora,False
+LIFE-504438,Zayyan Bains,59,Endowment,5000000,25,SBI Life,Geetika Madan,False
+LIFE-927418,Vasudha Rau,58,Term Plan,5000000,10,SBI Life,Pratyush Doshi,True
+LIFE-196865,Niharika Bava,23,Term Plan,2000000,25,ICICI Pru Life,Lohit Pandya,False
+LIFE-191644,Chakradev Krish,69,Term Plan,2000000,15,ICICI Pru Life,Keya Nagy,False
+LIFE-214037,Dakshesh Dhar,20,Endowment,1000000,25,LIC,Chandresh Sur,False
+LIFE-768924,Thomas Menon,52,Endowment,5000000,10,SBI Life,Samesh Tailor,False
+LIFE-974524,Sarthak Bumb,47,Whole Life,5000000,25,Max Life,Gaurangi Bal,False
+LIFE-590200,Urvashi Kant,38,Whole Life,500000,30,SBI Life,Pratyush Sood,True
+LIFE-177201,Lakshit Sampath,59,Endowment,5000000,15,SBI Life,Fiyaz More,True
+LIFE-339277,Upma Morar,50,Term Plan,1000000,15,HDFC Life,Abha Din,True
+LIFE-304940,Chakradhar Wali,21,Term Plan,5000000,30,LIC,Karan Nagi,False
+LIFE-927169,Siddharth Agate,55,Term Plan,5000000,15,LIC,Nisha Misra,True
+LIFE-755988,Janya Kara,43,Endowment,1000000,20,Max Life,Odika Nayak,False
+LIFE-571764,Nachiket Kala,44,Whole Life,500000,15,Max Life,Omisha Jayaraman,False
+LIFE-993306,Keya Nigam,52,Term Plan,2000000,30,HDFC Life,Pavani Bora,False
+LIFE-203006,Aahana Choudhury,62,Endowment,500000,20,LIC,Neel Kumar,False
+LIFE-627465,Vasatika Raman,70,Whole Life,500000,20,Max Life,Saumya Tella,False
+LIFE-413284,Jai Jha,51,Term Plan,2000000,30,SBI Life,Kavya Jha,False
+LIFE-756824,Gopal Gandhi,43,Endowment,5000000,30,SBI Life,Anthony Dhillon,True
+LIFE-398730,Radhika Karan,50,Endowment,1000000,20,SBI Life,Vedant Kalita,True
+LIFE-394699,Qarin Sharaf,53,Endowment,2000000,15,Max Life,Aarav Sarma,False
+LIFE-571511,Triya Agate,58,Term Plan,500000,20,HDFC Life,Madhav Banerjee,False
+LIFE-633330,Christopher Mangal,64,Endowment,500000,30,ICICI Pru Life,Benjamin Nanda,False
+LIFE-333901,Ikbal Bhagat,65,Whole Life,500000,25,SBI Life,Hema Chatterjee,False
+LIFE-502412,Samarth Dhillon,35,Endowment,5000000,25,Max Life,Zayan Comar,True
+LIFE-586811,Kashvi Bakshi,55,Endowment,1000000,30,LIC,Ekani Dey,False
+LIFE-293561,Gaurika Lata,32,Term Plan,5000000,10,Max Life,Gayathri Dasgupta,False
+LIFE-743551,Deepa Pai,43,Whole Life,500000,20,LIC,Riya Mohanty,False
+LIFE-661114,Lekha Parmar,60,Whole Life,500000,20,LIC,Nidhi Chada,True
+LIFE-200461,Zayan Rau,57,Term Plan,2000000,25,ICICI Pru Life,Zaid Mohanty,False
+LIFE-403434,Warda Datta,40,Term Plan,500000,30,Max Life,Matthew Kade,False
+LIFE-636618,Dev Chandra,46,Endowment,500000,30,SBI Life,Dhruv Deshmukh,False
+LIFE-809399,Hemangini Mishra,57,Endowment,2000000,30,Max Life,Ethan Contractor,False
+LIFE-198309,Ekaraj Oak,69,Endowment,5000000,30,ICICI Pru Life,Raghav Aurora,False
+LIFE-384081,Qasim Kota,69,Term Plan,5000000,20,SBI Life,Jagvi Deshmukh,False
+LIFE-754318,Yachana Gill,43,Term Plan,2000000,20,SBI Life,Omisha Guha,False
+LIFE-644690,Janaki Bali,40,Whole Life,2000000,15,LIC,Amara Choudhary,False
+LIFE-575572,Wazir Mandal,55,Whole Life,500000,10,ICICI Pru Life,Wriddhish Agrawal,False
+LIFE-562345,Ikshita Palla,55,Whole Life,500000,15,ICICI Pru Life,Faris Kar,False
+LIFE-602841,Ayushman Chander,61,Endowment,500000,15,LIC,Bakhshi Ratta,True
+LIFE-218386,Hemani Jayaraman,22,Whole Life,5000000,10,Max Life,Avni Sagar,False
+LIFE-781167,Vamakshi Basak,67,Term Plan,5000000,30,Max Life,Gunbir Chada,False
+LIFE-659347,Samarth Varma,40,Endowment,2000000,30,Max Life,Yuvraj Padmanabhan,False
+LIFE-499486,Jack Dubey,48,Whole Life,5000000,25,ICICI Pru Life,Hredhaan Kalita,False
+LIFE-718033,Hemang Jani,69,Whole Life,5000000,30,HDFC Life,Jeet Sekhon,True
+LIFE-164794,Janya Vig,41,Term Plan,500000,25,ICICI Pru Life,Prisha Kadakia,False
+LIFE-337762,Indrajit Jain,45,Endowment,1000000,20,SBI Life,Ekavir Contractor,False
+LIFE-230989,Ekapad Naik,48,Term Plan,2000000,25,HDFC Life,Nimrat Prasad,False
+LIFE-611430,Pratyush Hayre,20,Whole Life,1000000,25,SBI Life,Anjali Chander,False
+LIFE-442379,Tamanna Shroff,40,Endowment,5000000,25,Max Life,Jeevika Tak,False
+LIFE-777438,Manan Subramanian,67,Whole Life,500000,15,HDFC Life,Jason More,False
+LIFE-372760,Udarsh Uppal,69,Term Plan,1000000,25,LIC,Vedika Gaba,False
+LIFE-458855,Ayushman Dugar,60,Term Plan,500000,15,Max Life,Viraj Devi,False
+LIFE-832880,Hemangini Madan,26,Term Plan,2000000,15,SBI Life,Hemangini Kannan,False
+LIFE-532139,Janani Narain,66,Endowment,1000000,20,Max Life,Sarthak Ranganathan,False
+LIFE-941878,Dipta Nigam,61,Term Plan,5000000,25,SBI Life,Meghana Uppal,False
+LIFE-172185,Sara Ravel,35,Term Plan,5000000,15,HDFC Life,Avni Koshy,False
+LIFE-870076,Qushi Thakur,67,Endowment,500000,30,LIC,Garima Kaul,False
+LIFE-128677,Charan Ahuja,68,Term Plan,2000000,20,Max Life,Aadi Johal,False
+LIFE-347869,Dev Shere,23,Term Plan,1000000,15,HDFC Life,Dalbir Randhawa,False
+LIFE-344958,Nandini Bail,34,Term Plan,500000,25,Max Life,Mahika Bhasin,False
+LIFE-406002,Panini Barad,26,Term Plan,2000000,30,HDFC Life,Yadavi Vig,True
+LIFE-483458,Samuel Brahmbhatt,22,Whole Life,1000000,15,ICICI Pru Life,Warhi Kala,False
+LIFE-267375,Forum Merchant,28,Endowment,1000000,10,LIC,Nisha Zachariah,False
+LIFE-117315,Jasmit Baral,50,Endowment,2000000,25,SBI Life,Abdul Gala,False
+LIFE-667188,Aarini Biswas,67,Endowment,1000000,30,Max Life,Saanvi Bakshi,False
+LIFE-540578,Ekantika Wadhwa,35,Term Plan,5000000,25,ICICI Pru Life,Pranit Sagar,False
+LIFE-243984,Darsh Sachdev,26,Endowment,500000,10,Max Life,Aahana Dhar,False
+LIFE-357331,Charles Vasa,54,Term Plan,500000,30,ICICI Pru Life,Aditya Raju,False
+LIFE-503814,Prisha Arya,37,Term Plan,2000000,25,HDFC Life,Banjeet Gera,True
+LIFE-585431,Chaaya Ram,67,Endowment,500000,20,Max Life,Nathan Yadav,False
+LIFE-668176,Nitara Chanda,21,Term Plan,500000,15,HDFC Life,Gauri Bassi,False
+LIFE-568301,Yash Bedi,31,Term Plan,500000,15,LIC,Upkaar Sarma,False
+LIFE-290811,Nathaniel Patla,20,Whole Life,5000000,10,SBI Life,Rachit Dey,False
+LIFE-329207,Zinal Yohannan,47,Endowment,1000000,15,HDFC Life,Chandani Natt,False
+LIFE-277384,Owen Tara,25,Term Plan,2000000,20,ICICI Pru Life,Sanya Bahri,True
+LIFE-376438,Bhavika Sule,58,Term Plan,1000000,25,Max Life,Mohini Merchant,True
+LIFE-625518,Raagini Hans,57,Term Plan,500000,15,LIC,Tanveer Sabharwal,False
+LIFE-409573,Upadhriti Mahajan,44,Endowment,2000000,15,HDFC Life,Liam Som,False
+LIFE-150391,Radha Nath,41,Whole Life,5000000,15,HDFC Life,Robert Khare,False
+LIFE-192239,Mason Modi,35,Whole Life,5000000,30,ICICI Pru Life,Harshil Suresh,False
+LIFE-902440,Aashi Sagar,36,Whole Life,2000000,15,HDFC Life,Ishita Tandon,False
+LIFE-790802,Tanish Khalsa,62,Whole Life,5000000,15,HDFC Life,Neelima Mukherjee,False
+LIFE-875578,Jackson Krishnan,68,Term Plan,1000000,30,Max Life,Zashil Contractor,False
+LIFE-938910,Qabil Mandal,70,Endowment,2000000,10,SBI Life,Lohit Kalla,False
+LIFE-411189,Tamanna Kapoor,60,Term Plan,1000000,30,HDFC Life,Jhalak Pingle,False
+LIFE-243487,Wakeeta Mandal,58,Endowment,500000,25,Max Life,Pavani Bandi,False
+LIFE-689127,Krishna Sarkar,25,Term Plan,5000000,30,HDFC Life,Tanveer Bhalla,False
+LIFE-954051,Rayaan Mistry,43,Term Plan,5000000,10,LIC,Ati Chana,False
+LIFE-602185,Falak Mishra,65,Endowment,1000000,20,ICICI Pru Life,Qadim Ratta,False
+LIFE-274524,Oliver Srivastava,59,Term Plan,500000,15,ICICI Pru Life,Harsh Bhargava,False
+LIFE-610489,Neel Nadkarni,28,Term Plan,5000000,15,Max Life,Dalaja Rajagopalan,False
+LIFE-816604,Oliver Sura,53,Term Plan,1000000,10,Max Life,Upkaar Aggarwal,True
+LIFE-680422,Chakradev Madan,41,Term Plan,500000,20,HDFC Life,Turvi Dewan,True
+LIFE-886248,Ekantika Chokshi,55,Whole Life,500000,25,ICICI Pru Life,Kalpit Chowdhury,True
+LIFE-916421,Qabil Nath,62,Term Plan,500000,30,LIC,Mason Gour,False
+LIFE-198407,Ridhi Dyal,28,Term Plan,5000000,10,ICICI Pru Life,Mohini Kibe,False
+LIFE-492817,Ranbir Nagar,46,Term Plan,1000000,25,Max Life,Bakhshi Palan,False
+LIFE-643592,Chakradev Ramesh,29,Endowment,500000,15,HDFC Life,Mitali Bains,False
+LIFE-882319,Onkar Grewal,22,Term Plan,1000000,20,Max Life,Damini Pal,False
+LIFE-489702,Nisha Panchal,45,Term Plan,5000000,20,ICICI Pru Life,Madhavi Virk,False
+LIFE-952444,Simon Mutti,41,Term Plan,5000000,20,ICICI Pru Life,Damyanti Kamdar,False
+LIFE-374405,Raagini Kohli,51,Endowment,1000000,15,Max Life,Raghav Bassi,False
+LIFE-334372,Ronith Dani,26,Term Plan,2000000,30,LIC,Adya Mand,False
+LIFE-239066,Ethan Goyal,41,Term Plan,1000000,25,HDFC Life,Pooja Gandhi,False
+LIFE-296356,Ucchal Chadha,41,Endowment,2000000,15,LIC,Yashodhara Menon,True
+LIFE-144272,Guneet Kuruvilla,52,Endowment,500000,15,SBI Life,Balveer Gill,True
+LIFE-866381,Aadhya Varghese,57,Whole Life,1000000,10,Max Life,Shivani Morar,False
+LIFE-830418,Chakradhar Apte,34,Endowment,2000000,20,ICICI Pru Life,Aarush Ramachandran,False
+LIFE-117600,David Chad,33,Whole Life,5000000,10,Max Life,Yauvani Goyal,False
+LIFE-155035,Samarth Sarkar,27,Term Plan,2000000,30,HDFC Life,Vasana Sama,False
+LIFE-604028,Amruta Bawa,55,Term Plan,2000000,20,ICICI Pru Life,Darsh Lata,False
+LIFE-388884,Sathvik Basak,42,Whole Life,500000,10,HDFC Life,Yasti Aggarwal,False
+LIFE-718293,Frado Shukla,47,Whole Life,500000,10,SBI Life,Leela Gupta,False
+LIFE-700505,Qushi Basu,36,Endowment,5000000,15,ICICI Pru Life,Christopher Magar,False
+LIFE-774637,Ria Hayre,25,Endowment,1000000,25,ICICI Pru Life,Ikbal D’Alia,False
+LIFE-983231,Shivansh Brar,54,Term Plan,500000,15,HDFC Life,Ansh Arya,False
+LIFE-190523,Pahal Bali,26,Term Plan,5000000,20,SBI Life,Shivani Venkatesh,False
+LIFE-513068,Barkha Kaul,37,Whole Life,2000000,30,Max Life,Ethan Kapur,False
+LIFE-540089,Janya Chaudhari,55,Whole Life,500000,30,HDFC Life,Hema Contractor,False
+LIFE-499936,Charvi Nanda,64,Endowment,5000000,15,SBI Life,Frederick Hari,False
+LIFE-693429,Geetika Bains,66,Whole Life,1000000,15,LIC,Jairaj Loke,False
+LIFE-239923,Charvi Dara,29,Endowment,2000000,20,HDFC Life,Ira Sinha,False
+LIFE-565017,Orinder Chhabra,25,Whole Life,500000,20,HDFC Life,Ayushman Bakshi,False
+LIFE-874214,Kavya Pall,55,Endowment,1000000,15,LIC,Orinder Sabharwal,True
+LIFE-378664,Yashawini Barman,56,Term Plan,500000,30,Max Life,Amruta Rege,False
+LIFE-243924,Lipika Singh,24,Term Plan,2000000,20,Max Life,Yug Zachariah,False
+LIFE-667617,Adweta Brahmbhatt,48,Term Plan,2000000,15,SBI Life,Ishanvi Sengupta,True
+LIFE-219073,Yadavi Sarma,21,Endowment,5000000,15,ICICI Pru Life,Vaishnavi Sood,False
+LIFE-485893,Onveer Om,22,Endowment,500000,30,LIC,Rachita Dutta,True
+LIFE-352637,Balendra Bora,67,Endowment,5000000,20,LIC,Fiyaz Sidhu,False
+LIFE-277201,Omkaar Kant,23,Term Plan,2000000,15,Max Life,Frado Mangat,False
+LIFE-727570,Amaira Lal,66,Term Plan,500000,15,LIC,Aashi Mammen,False
+LIFE-778425,Hemang Sawhney,59,Endowment,500000,25,LIC,Bhavini Deshmukh,False
+LIFE-702961,Mitesh Raghavan,38,Term Plan,500000,15,HDFC Life,Bakhshi Keer,True
+LIFE-545013,Yasti Barad,30,Endowment,500000,25,ICICI Pru Life,Krish Khanna,False
+LIFE-224842,Dayamai Dayal,25,Whole Life,5000000,20,HDFC Life,Jasmit Sidhu,False
+LIFE-468294,Girindra Ghosh,43,Term Plan,2000000,30,ICICI Pru Life,Yahvi Gaba,False
+LIFE-851321,Aashi Gara,29,Whole Life,1000000,15,SBI Life,Finn Seth,False
+LIFE-178812,Oscar Kalita,54,Term Plan,1000000,20,LIC,Girik Hans,False
+LIFE-496895,Vyanjana Bhatt,21,Endowment,5000000,20,SBI Life,Janya Dayal,False
+LIFE-828681,Jeet Naik,50,Term Plan,5000000,15,Max Life,Shaurya Prabhakar,False
+LIFE-535658,Vrinda Varty,30,Whole Life,5000000,30,ICICI Pru Life,Aachal Mand,True
+LIFE-870324,Ridhi Kamdar,33,Whole Life,1000000,25,HDFC Life,Jhalak Mannan,True
+LIFE-260460,Mitali Dada,20,Whole Life,1000000,10,HDFC Life,Vedant Raval,False
+LIFE-324840,Girish Narayanan,49,Endowment,2000000,15,Max Life,Yamini Jaggi,True
+LIFE-498641,Nidra Oommen,39,Term Plan,1000000,15,LIC,Manthan Desai,False
+LIFE-626908,Girindra Raj,64,Term Plan,500000,10,Max Life,Dominic Warrior,False
+LIFE-454688,Harita Menon,22,Term Plan,1000000,20,SBI Life,Ati Oak,True
+LIFE-976444,Damyanti Date,34,Endowment,500000,10,SBI Life,Omya Oak,False
+LIFE-672091,Lakshit Rau,43,Term Plan,2000000,20,ICICI Pru Life,Sarthak Ram,False
+LIFE-808397,Gagan Prabhu,61,Term Plan,500000,10,SBI Life,Neha Iyengar,True
+LIFE-151386,Chakrika Naidu,41,Term Plan,2000000,10,HDFC Life,Bhavya Chander,False
+LIFE-347461,Wridesh Bala,56,Endowment,5000000,10,ICICI Pru Life,Krisha Andra,False
+LIFE-231514,Eta Dixit,69,Term Plan,5000000,15,LIC,Vivaan Kara,False
+LIFE-235081,Nidra Naidu,53,Endowment,500000,30,ICICI Pru Life,Kai Karan,False
+LIFE-100984,Jagat Minhas,65,Term Plan,500000,30,HDFC Life,Girindra Kapoor,False
+LIFE-688270,Chaaya Upadhyay,36,Term Plan,2000000,20,Max Life,Wyatt Rout,False
+LIFE-778313,Aryan Pai,33,Whole Life,2000000,20,HDFC Life,Samarth Varkey,False
+LIFE-813567,Yatin Jhaveri,40,Endowment,1000000,20,ICICI Pru Life,Niharika Divan,False
+LIFE-184490,Zaitra Kota,37,Endowment,5000000,25,ICICI Pru Life,Meghana Basu,False
+LIFE-647335,Max Krish,59,Term Plan,1000000,20,Max Life,Aarush Banerjee,False
+LIFE-428461,Kabir Batra,48,Endowment,500000,20,LIC,Wishi Hans,False
+LIFE-147119,Jasmit Golla,68,Term Plan,5000000,10,ICICI Pru Life,Falan Chawla,False
+LIFE-405916,Tanveer Bhatia,55,Term Plan,5000000,10,HDFC Life,Rachana Dar,False
+LIFE-330309,Nilima Pathak,47,Endowment,500000,20,ICICI Pru Life,Adya Bhakta,False
+LIFE-914362,Vedant Wable,32,Whole Life,1000000,30,LIC,Alexander Hora,False
+LIFE-945425,Onkar Chauhan,35,Whole Life,2000000,25,HDFC Life,Kashvi Buch,False
+LIFE-254803,Meera Rajagopal,63,Term Plan,2000000,10,LIC,Nisha Kala,False
+LIFE-547088,Yug Narayanan,41,Term Plan,2000000,25,ICICI Pru Life,Orinder Thakur,False
+LIFE-273574,Frederick Sur,63,Term Plan,2000000,15,Max Life,Yatin Balasubramanian,False
+LIFE-203992,Ria Ratta,42,Whole Life,500000,30,ICICI Pru Life,Lekha Dora,False
+LIFE-460924,Raghav Krishnamurthy,25,Term Plan,500000,30,HDFC Life,Chasmum Mani,False
+LIFE-230920,Kala Kala,69,Term Plan,500000,25,HDFC Life,Peter Deep,False
+LIFE-811011,Zayyan Sarkar,56,Whole Life,1000000,25,SBI Life,Eesha Shetty,False
+LIFE-241250,Aarnav Chakrabarti,64,Whole Life,5000000,25,HDFC Life,Patrick Bobal,False
+LIFE-136929,Dayita Palla,68,Term Plan,1000000,10,LIC,Yatin Peri,False
+LIFE-347964,Isha Radhakrishnan,60,Whole Life,5000000,20,LIC,Fitan Sridhar,False
+LIFE-220424,Mekhala Parsa,45,Term Plan,500000,25,LIC,Ria Deshpande,False
+LIFE-418493,Alka Wable,24,Term Plan,1000000,20,ICICI Pru Life,Sachi Dube,False
+LIFE-230669,Veer Sarraf,48,Whole Life,500000,20,ICICI Pru Life,Bimala Chaudhuri,False
+LIFE-619588,Anika Prakash,65,Endowment,1000000,30,Max Life,Harish Sule,True
+LIFE-563222,Ayaan Badami,44,Endowment,5000000,30,Max Life,Osha Dixit,True
+LIFE-558226,Anjali Mammen,53,Term Plan,2000000,25,Max Life,Advaith Upadhyay,False
+LIFE-157040,Hardik Shan,30,Term Plan,1000000,10,ICICI Pru Life,Azad Walla,False
+LIFE-794932,Frederick Oommen,60,Endowment,2000000,25,LIC,Qabil Sangha,False
+LIFE-948671,Wridesh Kashyap,36,Whole Life,2000000,30,LIC,Sara Cheema,False
+LIFE-520087,Abhimanyu Dani,41,Endowment,500000,20,LIC,Sanya Shan,False
+LIFE-825128,Daksh Hans,60,Term Plan,5000000,25,ICICI Pru Life,Isha Prakash,True
+LIFE-311170,Bina Vasa,25,Endowment,1000000,10,HDFC Life,Lekha Ramanathan,False
+LIFE-236177,Pavani Dara,69,Term Plan,1000000,15,SBI Life,Bachittar Banerjee,False
+LIFE-391939,Riya Rege,30,Endowment,1000000,20,ICICI Pru Life,Irya Biswas,False
+LIFE-922821,Wridesh Kaul,27,Term Plan,5000000,25,LIC,Ekansh Mand,False
+LIFE-290156,Dhriti Agarwal,69,Whole Life,500000,15,ICICI Pru Life,Divya Chopra,False
+LIFE-365615,Lila Sule,26,Whole Life,2000000,25,SBI Life,Rajeshri Sami,False
+LIFE-204392,Wahab Bhargava,67,Term Plan,2000000,20,Max Life,Ati Raju,False
+LIFE-359929,Triveni Chacko,30,Whole Life,5000000,30,Max Life,Rajeshri Kaul,False
+LIFE-706113,Xalak Zachariah,62,Endowment,5000000,10,Max Life,Maanav Chokshi,False
+LIFE-629206,Jeevika Ramachandran,33,Endowment,500000,30,ICICI Pru Life,Harish Roy,False
+LIFE-432556,Nidhi Kashyap,62,Endowment,500000,20,SBI Life,Jatin Mander,False
+LIFE-510318,Qasim Sharaf,40,Endowment,1000000,20,LIC,Shaurya Balan,False
+LIFE-468447,Mohini Lad,57,Endowment,5000000,20,LIC,Chaitanya Thakkar,True
+LIFE-544180,Pahal Dada,44,Term Plan,1000000,20,HDFC Life,Ansh Kakar,False
+LIFE-811779,Orinder Balan,46,Term Plan,1000000,15,LIC,Nihal Narayan,False
+LIFE-834682,Nikita Anne,70,Endowment,2000000,25,LIC,Yashodhara Grewal,False
+LIFE-480413,Lohit Srivastava,43,Term Plan,1000000,20,Max Life,Wyatt Kumer,False
+LIFE-962914,Jhalak Dhillon,41,Term Plan,5000000,25,LIC,Tripti Bansal,False
+LIFE-278555,Yamini Palla,57,Endowment,2000000,20,LIC,Pallavi Sheth,False
+LIFE-768548,Faraj Dayal,27,Endowment,2000000,10,HDFC Life,Arjun Borah,False
+LIFE-861448,Oeshi Narang,38,Term Plan,5000000,25,SBI Life,Girish Manne,False
+LIFE-742261,Jagdish Sampath,65,Term Plan,1000000,15,HDFC Life,Yashasvi Sampath,False
+LIFE-430321,Nitara Chad,25,Whole Life,5000000,15,Max Life,Azaan Hegde,True
+LIFE-204468,Suhani Dhaliwal,29,Endowment,500000,15,LIC,Warhi Kota,False
+LIFE-915935,Ayush Agrawal,31,Whole Life,2000000,25,ICICI Pru Life,Urishilla Ravi,False
+LIFE-230577,Balendra Chaudhary,59,Endowment,5000000,30,Max Life,Ekavir Din,False
+LIFE-174326,Pratyush Vig,64,Endowment,2000000,10,LIC,Oliver Mand,False
+LIFE-809285,Alexander Shanker,34,Endowment,2000000,25,ICICI Pru Life,Kashish Buch,False
+LIFE-752186,Indali Kumar,44,Term Plan,5000000,15,LIC,Jagvi Ramakrishnan,False
+LIFE-822285,Wishi Mukhopadhyay,26,Term Plan,500000,30,LIC,Yatan Munshi,False
+LIFE-261104,Tanveer Shenoy,36,Term Plan,5000000,15,LIC,Ishani Saini,False
+LIFE-402349,Raagini Kapoor,68,Term Plan,500000,20,HDFC Life,Gagan Goel,False
+LIFE-125457,Hemani Bir,25,Term Plan,5000000,30,LIC,Faris Reddy,False
+LIFE-372514,Mahika Gandhi,31,Endowment,500000,10,ICICI Pru Life,Lucky Gola,False
+LIFE-409583,Gautam Vasa,21,Whole Life,2000000,30,SBI Life,Anmol Chana,False
+LIFE-132498,Praneel Wadhwa,23,Term Plan,5000000,30,SBI Life,Nikita Dixit,False
+LIFE-500235,Champak Palla,47,Term Plan,2000000,15,HDFC Life,Gaurangi Chacko,False
+LIFE-152839,Rushil Bakshi,31,Term Plan,5000000,15,HDFC Life,Baghyawati Karnik,False
+LIFE-475247,Oliver Manda,40,Endowment,1000000,30,ICICI Pru Life,Rachana Morar,False
+LIFE-618548,Pavani Choudhary,60,Term Plan,5000000,25,Max Life,Hemani Ravi,False
+LIFE-328842,Christopher Desai,42,Term Plan,1000000,10,ICICI Pru Life,Zaid Behl,False
+LIFE-466635,Kalpit Menon,62,Term Plan,5000000,10,HDFC Life,Ryan Baral,False
+LIFE-665909,Advay Yadav,31,Term Plan,1000000,15,Max Life,Siddharth Maharaj,False
+LIFE-705909,Pranav Mutti,60,Whole Life,1000000,10,Max Life,Harsh Tara,True
+LIFE-901308,Vihaan Narayan,31,Whole Life,1000000,30,ICICI Pru Life,Irya Nori,False
+LIFE-900313,Jyoti Chaudhry,49,Term Plan,500000,30,LIC,Divya Chand,False
+LIFE-156090,Wahab Kothari,57,Term Plan,2000000,25,LIC,Barkha Sahota,False
+LIFE-756770,Sai Chakrabarti,32,Term Plan,5000000,25,Max Life,Ansh Dutt,True
+LIFE-851768,Aadi Biswas,46,Whole Life,500000,25,ICICI Pru Life,Michael Hayer,True
+LIFE-401819,Jack Tiwari,35,Whole Life,2000000,25,ICICI Pru Life,Ganga Acharya,False
+LIFE-864772,Dipta Khare,54,Endowment,500000,20,Max Life,Alka Chauhan,False
+LIFE-892508,Yashawini Rau,58,Term Plan,1000000,10,Max Life,Xiti Murthy,False
+LIFE-705056,Aarush Anand,69,Term Plan,2000000,10,HDFC Life,Dalaja Bhalla,False
+LIFE-640630,Finn Dugal,44,Endowment,5000000,15,Max Life,Harini Deep,False
+LIFE-491610,Samaksh Nanda,24,Term Plan,1000000,25,SBI Life,Joshua Vora,False
+LIFE-826811,Lipika Rattan,43,Term Plan,500000,10,ICICI Pru Life,Chandran Bhandari,False
+LIFE-230544,Rajeshri Kaur,31,Term Plan,2000000,15,Max Life,Adweta Rege,False
+LIFE-505495,Victor Chatterjee,32,Term Plan,5000000,20,Max Life,Jason Sidhu,False
+LIFE-226686,Jyoti Dugal,39,Term Plan,5000000,20,HDFC Life,Yauvani Thakkar,False
+LIFE-218429,Lila Kapadia,34,Whole Life,5000000,20,ICICI Pru Life,Peter Deshpande,False
+LIFE-518124,Arin Singh,52,Term Plan,2000000,10,ICICI Pru Life,Praneel Majumdar,False
+LIFE-865798,Kevin Oak,70,Term Plan,5000000,25,SBI Life,Yamini Rana,False
+LIFE-426267,Luke Luthra,70,Term Plan,1000000,25,HDFC Life,Rayaan Master,True
+LIFE-575316,Champak Golla,27,Endowment,1000000,30,ICICI Pru Life,Sara Lalla,False
+LIFE-518359,Rajata Sehgal,53,Term Plan,2000000,20,Max Life,Balvan Toor,False
+LIFE-296374,Yamini Mangal,55,Term Plan,500000,30,SBI Life,Hamsini Mutti,True
+LIFE-306388,Daksh Kade,59,Term Plan,5000000,10,ICICI Pru Life,Devika Chand,False
+LIFE-485627,Avni Bose,29,Endowment,2000000,25,LIC,Pahal Jha,False
+LIFE-940198,Nachiket Ravel,57,Endowment,5000000,10,Max Life,Darsh Pandya,True
+LIFE-723483,Jai Sarna,59,Whole Life,1000000,20,LIC,Sachi Jayaraman,False
+LIFE-944605,George Padmanabhan,63,Term Plan,1000000,10,SBI Life,Falguni Raval,False
+LIFE-883242,Omya Naik,41,Endowment,500000,30,SBI Life,Victor Sathe,False
+LIFE-298869,Yashica Bhattacharyya,63,Endowment,5000000,15,SBI Life,Yashodhara Toor,False
+LIFE-327020,Janaki Sunder,66,Endowment,2000000,10,LIC,Chatresh Baria,False
+LIFE-296073,Owen Nanda,58,Term Plan,5000000,30,SBI Life,Tanvi Magar,True
+LIFE-186632,Tejas Mangat,47,Term Plan,500000,20,ICICI Pru Life,Caleb Jaggi,False
+LIFE-874947,Tanay Ratta,30,Endowment,1000000,20,Max Life,Krish Iyengar,False
+LIFE-289612,Akshay Karan,24,Term Plan,1000000,25,LIC,Ayaan Batta,False
+LIFE-889911,Netra Bora,34,Whole Life,1000000,20,Max Life,Rachit Amble,True
+LIFE-470801,Janaki Walla,39,Endowment,2000000,15,ICICI Pru Life,Abha Vaidya,True
+LIFE-625738,Victor Dhingra,54,Endowment,5000000,15,LIC,Naveen Rout,False
+LIFE-965830,Alexander Rajan,34,Term Plan,2000000,25,Max Life,Vedant Chauhan,False
+LIFE-685756,Nidra Sarkar,58,Term Plan,500000,10,Max Life,Libni Dayal,False
+LIFE-526395,Ayushman Chad,27,Term Plan,5000000,20,ICICI Pru Life,Simon Murty,True
+LIFE-841553,Deepa Bali,58,Term Plan,2000000,20,SBI Life,Bishakha Chanda,False
+LIFE-221560,Ansh Apte,31,Endowment,1000000,20,ICICI Pru Life,Bhavini Palla,False
+LIFE-346507,Gaurika Garde,37,Endowment,2000000,30,LIC,Rehaan Kaur,False
+LIFE-231558,Udarsh Khatri,46,Endowment,500000,25,HDFC Life,Dayamai Ganesh,True
+LIFE-148001,Forum Dara,43,Term Plan,2000000,30,LIC,Vihaan Narasimhan,False
+LIFE-749135,Anmol Pandey,56,Term Plan,2000000,25,Max Life,Nisha Rao,False
+LIFE-704196,Zaitra Mutti,53,Endowment,5000000,30,LIC,Falak Dhawan,False
+LIFE-415982,Arjun Mannan,68,Term Plan,5000000,15,HDFC Life,Omya Batra,False
+LIFE-878218,Laksh Dalal,65,Endowment,5000000,15,LIC,Christopher Divan,False
+LIFE-489403,Krish Shetty,64,Term Plan,2000000,30,Max Life,Kamya Anne,True
+LIFE-837192,Hredhaan Lala,45,Term Plan,1000000,20,Max Life,Rayaan Sachdeva,False
+LIFE-934196,Jeevika Deo,38,Term Plan,5000000,10,HDFC Life,Samesh Cherian,False
+LIFE-304968,Waida Talwar,64,Whole Life,1000000,20,SBI Life,Chakradev Subramaniam,False

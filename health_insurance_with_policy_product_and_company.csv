@@ -1,0 +1,201 @@
+Policy_ID,Company,Policy_Product,Coverage_Amount,No_of_People_Insured,Premium_Rate_Percentage,Annual_Premium,Claim_Settlement_Ratio (%),Average_Claim_Processing_Time (in days),Pre_Existing_Disease_Cover,Cashless_Available,OPD_Cover,Max_Entry_Age,Min_Entry_Age
+8e9f5191-ecf9-4120-9ee9-0700e8be67f4,ICICI Lombard,ICICI Lombard - Super Mediclaim,1400000,1,3.48,49870.0,87.7,5,After 3 years,Yes,Optional,61,8
+b2ea94c2-5aac-4b5d-91a0-8b237edc650b,Care Health,Care Health - ProHealth Prime,1750000,6,2.25,237702.0,87.3,23,After 4 years,Yes,Yes,69,15
+61af0b24-17d7-4b84-83b1-33a176ac9671,HDFC ERGO,HDFC ERGO - Platinum Mediclaim,700000,4,3.16,90456.0,93.7,20,After 3 years,Yes,Optional,80,2
+5ddb2d15-22fe-47fb-b934-5d1f16cd04ea,ICICI Lombard,ICICI Lombard - Care Freedom,800000,4,2.55,82300.0,85.0,24,After 3 years,Yes,Optional,63,12
+305f3141-6bb6-4b34-b23d-ec7900b17363,Bajaj Allianz,Bajaj Allianz - Arogya Rakshak,850000,2,2.63,45892.0,87.3,18,After 4 years,Yes,Yes,60,16
+134f72e5-70fb-4304-93b1-48f19b281ec6,ICICI Lombard,ICICI Lombard - Golden Wellness Plan,800000,5,2.12,85707.0,91.3,9,After 3 years,Yes,Optional,65,15
+5fe86f8c-153f-4d1d-bc42-c8cd492a7d9f,Niva Bupa,Niva Bupa - Lifeline Shield,1750000,2,2.23,79381.0,97.9,18,After 4 years,Yes,Yes,62,11
+93e58ecb-98a5-4427-93b3-3b390f9be47e,ICICI Lombard,ICICI Lombard - Golden Wellness Plan,1650000,6,2.12,210620.0,98.6,22,After 3 years,Yes,Optional,64,5
+c4fe474a-f267-44ce-9b8d-a6db6cf1aac6,ICICI Lombard,ICICI Lombard - MyHealth Suraksha,850000,5,2.31,98865.0,94.2,26,After 4 years,Yes,Yes,76,8
+0def1d7c-8c59-4cce-ae8d-ac832b9065b0,Care Health,Care Health - LifeCare Wellness,350000,2,3.26,24266.0,90.3,21,After 2 years,Yes,No,66,10
+ea3ad72e-f946-4571-a30c-a62cd3f38fb2,ICICI Lombard,ICICI Lombard - Super Mediclaim,250000,6,3.48,53013.0,92.1,16,After 3 years,Yes,Optional,75,7
+fae7ab5c-1c83-4d90-a35b-c4e5ba5e7662,ManipalCigna,ManipalCigna - HealthFirst Gold,1500000,5,3.48,262387.0,98.9,10,After 2 years,Yes,No,70,14
+d72a2bea-3c70-4644-8a81-c30f901ec06c,Aditya Birla Health,Aditya Birla Health - Arogya Supreme,1800000,6,2.24,243905.0,86.5,15,After 3 years,Yes,Optional,70,1
+c3238c81-f3e3-41c8-9216-5ab566805117,Aditya Birla Health,Aditya Birla Health - MediShield Elite,1900000,3,2.64,152121.0,98.9,22,After 4 years,Yes,Yes,80,17
+37fa4fac-45ea-4aa5-b010-b6d7e4a75bc3,HDFC ERGO,HDFC ERGO - Platinum Mediclaim,1550000,2,3.16,99593.0,85.2,5,After 3 years,Yes,Optional,66,15
+96cd0bb1-0ccb-4e1f-abd9-79712b0135cc,Tata AIG,Tata AIG - Elite Medicash,450000,3,3.21,44564.0,86.8,14,After 4 years,Yes,Yes,66,17
+da355d0c-0954-4bfc-9887-c2df224bf72e,Niva Bupa,Niva Bupa - MediGuard Flexi,900000,3,2.42,66880.0,93.8,9,After 4 years,Yes,Yes,64,12
+f743d6a6-9ccd-4f2f-96b2-ebd8ae931a3a,ManipalCigna,ManipalCigna - HealthFirst Gold,600000,1,3.48,22562.0,89.4,14,After 2 years,Yes,No,62,6
+f992f79e-5116-4a3d-bf66-87465d119f36,Tata AIG,Tata AIG - Wellness Companion,1900000,3,3.02,173241.0,97.3,8,After 2 years,Yes,No,75,8
+13bd3da9-bd98-4b16-9646-03eddc1a1733,Bajaj Allianz,Bajaj Allianz - Vital Health Boost,800000,3,2.7,65372.0,98.7,13,After 2 years,Yes,No,73,14
+22e0872c-c373-468f-ac3a-cd3f033eca62,Tata AIG,Tata AIG - Elite Medicash,1450000,3,3.21,141217.0,93.3,6,After 4 years,Yes,Yes,79,14
+8083cef5-cf5a-414a-aa06-a677db719647,ICICI Lombard,ICICI Lombard - Golden Wellness Plan,1550000,3,2.12,99808.0,88.0,14,After 3 years,Yes,Optional,63,6
+267a71eb-70b6-4220-8da1-7791644a9c64,Aditya Birla Health,Aditya Birla Health - Arogya Supreme,450000,3,2.24,32048.0,97.5,19,After 3 years,Yes,Optional,73,8
+83305f63-7f8b-4a3b-9337-47b9a21add72,Niva Bupa,Niva Bupa - Complete Shield,900000,6,2.05,111589.0,96.4,8,After 2 years,Yes,No,78,13
+df7995bb-cf82-4cfd-b8b9-42f371af34e3,HDFC ERGO,HDFC ERGO - Family Floater Gold,250000,6,2.7,41667.0,95.9,8,After 4 years,Yes,Yes,68,14
+733c54ea-0ced-4c12-a779-0859a6ac8725,Reliance Health,Reliance Health - SecureCare Plus,1650000,1,2.3,38691.0,92.4,8,After 3 years,Yes,Optional,80,3
+75c78e7c-3aaf-4115-9704-05a8fd25cc34,Niva Bupa,Niva Bupa - Nirogya Raksha,1900000,2,3.14,121017.0,96.4,20,After 4 years,Yes,Yes,66,5
+55beb179-f962-434a-b67c-006344901a3a,Reliance Health,Reliance Health - Total Health Pro,1750000,4,3.24,227690.0,97.1,27,After 2 years,Yes,No,64,16
+f9760b7c-3d91-4b43-918b-e439f4228582,ICICI Lombard,ICICI Lombard - Golden Wellness Plan,1950000,2,2.12,84536.0,96.3,6,After 3 years,Yes,Optional,65,18
+0378961b-536a-4f99-bf77-577afe7e236e,Aditya Birla Health,Aditya Birla Health - MediShield Elite,1700000,2,2.64,90988.0,87.0,8,After 4 years,Yes,Yes,68,0
+24188ae3-441a-4854-aceb-cb4fa0117d1c,ICICI Lombard,ICICI Lombard - Golden Wellness Plan,1100000,1,2.12,24491.0,97.4,22,After 3 years,Yes,Optional,80,13
+b17c7551-f01a-4ada-ade7-760830e9ebcc,Bajaj Allianz,Bajaj Allianz - Arogya Rakshak,250000,2,2.63,14733.0,96.0,8,After 4 years,Yes,Yes,73,0
+84eb89ce-36cf-4291-bff0-d365b211db46,Reliance Health,Reliance Health - SecureCare Plus,1850000,4,2.3,171306.0,97.6,12,After 3 years,Yes,Optional,77,5
+9c6f0637-7f23-43c0-b5a8-846da7154c4b,Aditya Birla Health,Aditya Birla Health - Swasth Bharat,1500000,4,2.55,154070.0,94.9,24,After 4 years,Yes,Yes,69,9
+4df667c7-e2c7-4232-8f4d-c295ca16a1ed,Aditya Birla Health,Aditya Birla Health - Arogya Supreme,950000,2,2.24,43234.0,96.7,18,After 3 years,Yes,Optional,74,18
+f8229a89-c900-4aed-922f-4b5bd218bef9,Reliance Health,Reliance Health - SecureCare Plus,300000,2,2.3,14488.0,88.5,7,After 3 years,Yes,Optional,71,15
+e191dad1-db6f-4a69-b717-9d3beadab496,Bajaj Allianz,Bajaj Allianz - Ayush Secure,1600000,1,2.26,37131.0,93.8,21,After 2 years,Yes,No,69,1
+5107ce38-9559-4f15-92be-d8805e9c5fab,HDFC ERGO,HDFC ERGO - Platinum Mediclaim,900000,1,3.16,29111.0,87.1,7,After 3 years,Yes,Optional,62,11
+dc229363-6ea0-4ca4-b4ff-20e1e8cfacee,Aditya Birla Health,Aditya Birla Health - Arogya Supreme,1050000,1,2.24,24171.0,95.0,26,After 3 years,Yes,Optional,78,17
+1657c9cf-e242-441a-9090-3055ce0c8af6,Aditya Birla Health,Aditya Birla Health - Supreme Health,700000,6,2.93,124012.0,98.7,24,After 4 years,Yes,Yes,61,16
+888f5edb-ef45-4def-8d7d-3be8153f5d66,Niva Bupa,Niva Bupa - Complete Shield,850000,6,2.05,106539.0,88.1,15,After 2 years,Yes,No,67,3
+82e41ca4-9e4d-4cb3-b725-b45ab82c3fe0,Reliance Health,Reliance Health - Maxima Secure,450000,5,3.06,70714.0,95.1,25,After 2 years,Yes,No,61,2
+d7efd356-657c-4033-988d-ae4a2a2f3a53,Niva Bupa,Niva Bupa - Nirogya Raksha,350000,1,3.14,12109.0,92.5,28,After 4 years,Yes,Yes,71,17
+6f714372-80e6-4aca-8242-1090bd97a353,Tata AIG,Tata AIG - Care Plus Ultra,1750000,3,3.32,174834.0,96.6,10,After 3 years,Yes,Optional,61,6
+5820a006-1bca-433a-8ba8-cd7342601d18,Aditya Birla Health,Aditya Birla Health - Supreme Health,1800000,2,2.93,106952.0,98.9,12,After 4 years,Yes,Yes,70,6
+ca82c160-d193-407e-89fb-a14b7f3b926c,Niva Bupa,Niva Bupa - Nirogya Raksha,1950000,1,3.14,62010.0,85.9,20,After 4 years,Yes,Yes,71,12
+163ed51b-7342-436b-b2df-840714fd54c6,HDFC ERGO,HDFC ERGO - EasyCare Smart,1000000,3,2.88,87414.0,96.2,6,After 4 years,Yes,Yes,78,2
+2c11f4fa-9c14-4cb9-8a5b-21b7ae545465,Tata AIG,Tata AIG - Care Plus Ultra,900000,6,3.32,181085.0,97.2,26,After 3 years,Yes,Optional,79,1
+f42a19ff-1c4a-428e-a0cc-b028eeb5018d,Niva Bupa,Niva Bupa - MediGuard Flexi,1100000,2,2.42,53821.0,92.5,10,After 4 years,Yes,Yes,65,4
+a0844abe-bd92-44dd-99be-52b3abd4fb19,Niva Bupa,Niva Bupa - Lifeline Shield,350000,6,2.23,48382.0,90.6,6,After 4 years,Yes,Yes,71,10
+a7900193-198d-47b6-b018-bbe66d354a4e,Tata AIG,Tata AIG - Complete Health,600000,5,2.25,68503.0,98.0,8,After 3 years,Yes,Optional,75,13
+f5a07710-6956-4230-8996-b605a4ec224c,Bajaj Allianz,Bajaj Allianz - Arogya Rakshak,1950000,3,2.63,154763.0,91.1,30,After 4 years,Yes,Yes,74,2
+e8d54d99-d7dc-4f7f-838b-41a3964e2316,ICICI Lombard,ICICI Lombard - Care Freedom,1150000,6,2.55,176520.0,90.8,27,After 3 years,Yes,Optional,78,9
+95b583cd-3ff3-42da-9619-a975cc841698,Tata AIG,Tata AIG - Elite Medicash,1500000,4,3.21,193287.0,97.2,10,After 4 years,Yes,Yes,72,9
+ee28b46f-b7c1-4b0a-bf64-88a580278964,Niva Bupa,Niva Bupa - MediGuard Flexi,400000,6,2.42,59380.0,97.8,14,After 4 years,Yes,Yes,67,5
+442fb226-8e86-4406-a002-2af9d9e99d7a,Star Health,Star Health - Smart Health Optima,700000,6,3.13,133177.0,85.3,18,After 4 years,Yes,Yes,63,1
+b96209b0-f545-4e46-b5b0-f4406cf95f67,ManipalCigna,ManipalCigna - BudgetCare,1450000,2,2.44,71984.0,96.0,26,After 4 years,Yes,Yes,60,0
+1daab9c6-132b-4361-b235-c5aa5e156c41,Bajaj Allianz,Bajaj Allianz - Ayush Secure,1700000,3,2.26,115955.0,94.0,22,After 2 years,Yes,No,61,13
+7e83c50b-08b5-4085-bfc6-e38735f5d03d,Bajaj Allianz,Bajaj Allianz - Vital Health Boost,1650000,3,2.7,134255.0,91.4,20,After 2 years,Yes,No,69,4
+a59aeda7-693f-41ac-a94c-bab469e76b9a,Aditya Birla Health,Aditya Birla Health - Arogya Supreme,1000000,1,2.24,23508.0,89.7,11,After 3 years,Yes,Optional,60,1
+9616420b-e1e5-4184-95c6-c5faac80d939,Bajaj Allianz,Bajaj Allianz - Vital Health Boost,500000,3,2.7,42385.0,90.2,17,After 2 years,Yes,No,77,7
+d5f6fbb4-90d4-44d7-b05c-22db08dcf4b8,HDFC ERGO,HDFC ERGO - Platinum Mediclaim,1500000,2,3.16,95518.0,95.9,8,After 3 years,Yes,Optional,71,2
+30b9c6a1-a2e9-418c-9dfd-38c90a085376,Niva Bupa,Niva Bupa - Nirogya Raksha,1850000,3,3.14,175822.0,97.9,19,After 4 years,Yes,Yes,74,18
+c1b28ab7-bd1a-4340-952a-fe841f980d22,Niva Bupa,Niva Bupa - Complete Shield,500000,1,2.05,10952.0,87.8,21,After 2 years,Yes,No,74,17
+a60fc5d0-3678-478e-b33a-e37d7f40e3da,Tata AIG,Tata AIG - Complete Health,400000,4,2.25,36939.0,95.0,10,After 3 years,Yes,Optional,80,15
+73e04cfb-c180-4537-a9d2-d737c2b76c0d,ManipalCigna,ManipalCigna - BudgetCare,600000,4,2.44,59333.0,92.7,12,After 4 years,Yes,Yes,78,16
+ec48ad8a-3b3f-46ec-9712-832b71348077,Care Health,Care Health - LifeCare Wellness,1950000,2,3.26,128711.0,92.8,8,After 2 years,Yes,No,78,8
+3f29cef8-c908-41c1-8b18-a56e208289f1,Tata AIG,Tata AIG - Elite Medicash,650000,4,3.21,85097.0,88.4,19,After 4 years,Yes,Yes,62,18
+9780a578-e51a-4a6c-869e-e6d916967756,ICICI Lombard,ICICI Lombard - Care Freedom,1450000,6,2.55,222731.0,97.0,22,After 3 years,Yes,Optional,69,1
+e3ca6987-3508-4f8b-b3b0-e9a9c00333ee,Tata AIG,Tata AIG - Care Plus Ultra,1050000,5,3.32,174898.0,87.4,9,After 3 years,Yes,Optional,73,15
+35e0b0b6-8f6a-40a4-abc9-21a156791d18,HDFC ERGO,HDFC ERGO - Family Floater Gold,550000,2,2.7,30210.0,90.3,19,After 4 years,Yes,Yes,76,7
+292c5e2d-faf8-4de3-9b26-7d36c1994ea8,Star Health,Star Health - Smart Health Optima,500000,1,3.13,17380.0,85.7,29,After 4 years,Yes,Yes,60,4
+fab58cfe-7b45-4a99-93b0-c562b8d505ad,Care Health,Care Health - ProHealth Prime,1450000,3,2.25,98684.0,94.4,28,After 4 years,Yes,Yes,72,9
+24125cb1-669f-4400-b7e4-10d4ef2bea34,Tata AIG,Tata AIG - Elite Medicash,300000,6,3.21,59026.0,91.0,5,After 4 years,Yes,Yes,71,1
+54261c8d-f0cb-4013-bf02-89a3f9934237,ManipalCigna,ManipalCigna - Silver Shield,1550000,1,2.5,40283.0,95.5,23,After 3 years,Yes,Optional,63,12
+ffe476a2-0fbf-4fc2-a799-a59435d5cc4f,Reliance Health,Reliance Health - Maxima Secure,1450000,3,3.06,134354.0,91.0,15,After 2 years,Yes,No,67,12
+24202920-a200-4ec8-9218-662cc330cb56,ICICI Lombard,ICICI Lombard - Golden Wellness Plan,1750000,3,2.12,113296.0,89.0,21,After 3 years,Yes,Optional,70,4
+893d16aa-1e6a-4a75-8c74-86e160d5bbaf,ICICI Lombard,ICICI Lombard - Jeevan Arogya,1000000,3,3.36,101646.0,91.8,26,After 3 years,Yes,Optional,63,16
+11a92240-087b-48e5-b4d7-6a24b0f38aea,Aditya Birla Health,Aditya Birla Health - MediPlus Ultra,200000,6,3.36,41101.0,88.4,17,After 3 years,Yes,Optional,73,13
+44d471ec-f9f9-4d05-b1f9-f831a1fa0512,HDFC ERGO,HDFC ERGO - Family Floater Gold,200000,6,2.7,33374.0,91.2,9,After 4 years,Yes,Yes,69,11
+9b63546e-0da4-4cac-96d9-63453e32743f,Care Health,Care Health - HealthGuard Pro,650000,2,3.44,46218.0,94.5,29,After 4 years,Yes,Yes,69,9
+c8e6b2da-0e52-41ac-98d1-83479c57976b,Niva Bupa,Niva Bupa - Lifeline Shield,1500000,5,2.23,168129.0,85.8,19,After 4 years,Yes,Yes,63,15
+0b4dae8d-86e2-41c6-a1d9-de54e65728f8,ManipalCigna,ManipalCigna - HealthFirst Gold,1250000,1,3.48,45366.0,98.4,29,After 2 years,Yes,No,68,18
+ce7a0ad9-3014-4be0-907d-2b3afa771b72,Star Health,Star Health - Smart Health Optima,1250000,5,3.13,196774.0,89.4,28,After 4 years,Yes,Yes,78,5
+c9d781ce-6252-4794-b5f3-aee94813304f,Niva Bupa,Niva Bupa - Nirogya Raksha,1900000,6,3.14,359775.0,96.0,30,After 4 years,Yes,Yes,80,7
+7305c406-86fd-4414-9d60-067da5001a2a,Niva Bupa,Niva Bupa - MediCare Secure,650000,6,3.29,129554.0,89.8,11,After 3 years,Yes,Optional,69,8
+d6ef9fcc-25a6-4767-a9eb-13e01fcd86e1,Reliance Health,Reliance Health - SecureCare Plus,1400000,1,2.3,33487.0,88.6,23,After 3 years,Yes,Optional,74,17
+9eea5b37-94fa-4dba-b3df-d09c604b9031,ICICI Lombard,ICICI Lombard - Golden Wellness Plan,1950000,3,2.12,125646.0,88.9,25,After 3 years,Yes,Optional,72,5
+66ddd602-8920-4ffe-8ea0-cce4421df676,Aditya Birla Health,Aditya Birla Health - MediShield Elite,850000,4,2.64,91665.0,93.4,29,After 4 years,Yes,Yes,74,4
+4baca34d-16bd-46e1-a1be-3a451632f0be,Bajaj Allianz,Bajaj Allianz - WellCare Classic,1300000,4,2.82,147871.0,90.6,7,After 2 years,Yes,No,64,13
+c7d966f2-96eb-453d-91e6-5b43765f1277,ManipalCigna,ManipalCigna - BudgetCare,1050000,6,2.44,155154.0,92.2,9,After 4 years,Yes,Yes,77,18
+6ab588bb-2162-4e96-acfd-a860c7cf8fd6,Aditya Birla Health,Aditya Birla Health - MediShield Elite,750000,1,2.64,20336.0,98.5,24,After 4 years,Yes,Yes,63,7
+f581be2b-e6f2-4c88-be4f-66b19e773029,ICICI Lombard,ICICI Lombard - Super Mediclaim,800000,5,3.48,140120.0,97.0,5,After 3 years,Yes,Optional,68,2
+0613871e-805a-4bdf-af2e-62e50db46d77,Reliance Health,Reliance Health - Total Health Pro,600000,1,3.24,20309.0,98.6,7,After 2 years,Yes,No,74,2
+03e195f1-34d4-401a-9014-77761b24f8f1,Care Health,Care Health - Health Prime Max,1150000,4,2.56,118987.0,89.0,15,After 2 years,Yes,No,74,12
+3a1bfc5e-aa0a-422c-98b8-19437b06d02e,Care Health,Care Health - LifeCare Wellness,1600000,1,3.26,53462.0,86.7,11,After 2 years,Yes,No,75,14
+ea188deb-f9b0-4cf6-8edd-0400a2c7f947,Aditya Birla Health,Aditya Birla Health - Supreme Health,700000,6,2.93,123772.0,89.6,22,After 4 years,Yes,Yes,71,17
+3f7fbb44-1e66-4419-add9-bccba772ebcb,Care Health,Care Health - HealthGuard Pro,800000,5,3.44,138130.0,87.4,17,After 4 years,Yes,Yes,73,8
+6ce72902-6b44-48d8-81f9-235ad0c323c5,Reliance Health,Reliance Health - Maxima Secure,1750000,6,3.06,322056.0,96.8,16,After 2 years,Yes,No,69,18
+5b39a6e2-1da5-4241-a92a-3a7481c643c8,Care Health,Care Health - Health Prime Max,1900000,4,2.56,195100.0,94.4,22,After 2 years,Yes,No,68,8
+3263894e-d7c8-455e-a77f-d7baf15c8b27,Care Health,Care Health - LifeCare Wellness,400000,6,3.26,79043.0,89.6,27,After 2 years,Yes,No,66,7
+ad298c5f-2e9f-452f-8cee-b3a2a65bcc9d,ICICI Lombard,ICICI Lombard - Care Freedom,350000,2,2.55,19713.0,97.6,16,After 3 years,Yes,Optional,74,2
+6be47c0a-eb13-40a2-8516-ec65bb145f95,Niva Bupa,Niva Bupa - Lifeline Shield,400000,1,2.23,9811.0,86.6,22,After 4 years,Yes,Yes,66,7
+9133b4e4-cce6-481a-96bc-45bf14e27467,Aditya Birla Health,Aditya Birla Health - Health Assure,1600000,6,3.23,311149.0,91.7,15,After 2 years,Yes,No,72,11
+5fc156b9-51d2-4b10-bdd6-9ce16f709ce9,Tata AIG,Tata AIG - Complete Health,1250000,2,2.25,58035.0,91.9,8,After 3 years,Yes,Optional,64,0
+d101c6c7-2337-449e-ad95-fc2e7ac25edc,ICICI Lombard,ICICI Lombard - Jeevan Arogya,1900000,3,3.36,192964.0,90.5,26,After 3 years,Yes,Optional,76,11
+1991ba2d-4b9b-420a-b8aa-6fcea8e1c58a,Care Health,Care Health - LifeCare Wellness,1950000,4,3.26,254914.0,94.5,6,After 2 years,Yes,No,74,5
+b9a362f2-5c83-4222-8d0f-cee50d46d85d,ICICI Lombard,ICICI Lombard - Golden Wellness Plan,1700000,1,2.12,37886.0,86.0,6,After 3 years,Yes,Optional,71,15
+88c7f74b-752a-4c80-8846-d7a8ae9085f6,Niva Bupa,Niva Bupa - MediGuard Flexi,500000,2,2.42,25917.0,96.0,6,After 4 years,Yes,Yes,76,1
+5e0e459c-ea41-4895-be9b-12b6ac9c5eed,Aditya Birla Health,Aditya Birla Health - Health Assure,450000,4,3.23,58993.0,94.1,24,After 2 years,Yes,No,72,17
+88c770dd-c013-40c9-82fd-2ad393a6647e,Bajaj Allianz,Bajaj Allianz - Vital Health Boost,1200000,4,2.7,131372.0,85.1,28,After 2 years,Yes,No,77,2
+52540d2a-a018-4d06-91b5-6e6cf24e7487,Niva Bupa,Niva Bupa - Nirogya Raksha,1850000,6,3.14,350200.0,97.9,7,After 4 years,Yes,Yes,78,0
+7e6806ab-dc88-4d9c-9546-2200327e4e71,Care Health,Care Health - LifeCare Wellness,1700000,2,3.26,112109.0,87.1,25,After 2 years,Yes,No,74,5
+0701e74d-7eda-4df6-a2b4-9cc98912755f,Reliance Health,Reliance Health - SecureCare Plus,1350000,4,2.3,126096.0,87.8,9,After 3 years,Yes,Optional,68,14
+ac1e311f-ab88-47ce-b22f-bbcbb5458c7e,Niva Bupa,Niva Bupa - MediGuard Flexi,750000,3,2.42,56325.0,88.5,19,After 4 years,Yes,Yes,75,17
+74807fd9-2c0c-464d-a67a-31ebec006ed7,ICICI Lombard,ICICI Lombard - MyHealth Suraksha,350000,3,2.31,25199.0,96.2,25,After 4 years,Yes,Yes,76,1
+47247111-26e2-402a-ac59-24f92128bf81,Tata AIG,Tata AIG - Care Plus Ultra,1500000,4,3.32,200961.0,98.9,28,After 3 years,Yes,Optional,67,16
+78238b7a-8a44-460a-9d32-2de77911d5cd,Reliance Health,Reliance Health - SecureCare Plus,1150000,4,2.3,107705.0,95.2,16,After 3 years,Yes,Optional,62,3
+e8d5f2ec-67fb-46b8-b1e0-56b9019ea4c5,ICICI Lombard,ICICI Lombard - Super Mediclaim,1350000,1,3.48,47597.0,93.2,27,After 3 years,Yes,Optional,60,2
+894cf07a-a16f-48e7-ae22-230e1d510b27,ICICI Lombard,ICICI Lombard - Golden Wellness Plan,650000,3,2.12,43200.0,97.7,20,After 3 years,Yes,Optional,74,12
+c2e71de3-16aa-4c5b-b23e-2d485cc55b58,HDFC ERGO,HDFC ERGO - Family Floater Gold,1600000,4,2.7,174305.0,87.6,24,After 4 years,Yes,Yes,67,3
+7fd1e14f-7078-4cc2-be65-2bed95c9186c,Tata AIG,Tata AIG - Elite Medicash,400000,6,3.21,78888.0,96.1,26,After 4 years,Yes,Yes,66,11
+d43b6d35-ced7-4578-879c-a17f2e29df8b,ICICI Lombard,ICICI Lombard - Super Mediclaim,300000,4,3.48,42681.0,87.0,30,After 3 years,Yes,Optional,62,3
+37e2e25b-60b9-4180-be16-b23f3c035bd9,Care Health,Care Health - Health Prime Max,1200000,4,2.56,124037.0,86.5,15,After 2 years,Yes,No,80,18
+787070cc-c009-4d99-a3d5-bf62389e8123,Aditya Birla Health,Aditya Birla Health - Health Assure,1450000,4,3.23,188876.0,87.1,13,After 2 years,Yes,No,67,6
+391836c9-d3b7-4c49-8f13-ba3a71105213,Niva Bupa,Niva Bupa - Lifeline Shield,1150000,4,2.23,104396.0,94.5,10,After 4 years,Yes,Yes,70,5
+7ce07dca-06a9-4821-a111-ec141569fb3a,Care Health,Care Health - LifeCare Wellness,1450000,1,3.26,48556.0,96.0,25,After 2 years,Yes,No,76,9
+d088937d-4de1-43be-8414-9bbc8080fe72,Care Health,Care Health - HealthGuard Pro,2000000,4,3.44,275776.0,90.8,19,After 4 years,Yes,Yes,70,15
+acef5cab-6c44-4308-a0af-03e79acd79f1,Tata AIG,Tata AIG - Care Plus Ultra,1800000,4,3.32,240647.0,94.3,13,After 3 years,Yes,Optional,68,17
+cf8b935f-47ae-4c2f-b5f8-8957fb9ca502,Care Health,Care Health - ProHealth Prime,1850000,1,2.25,42347.0,90.1,15,After 4 years,Yes,Yes,73,16
+c65b1cb1-047e-4691-b5e8-230cce3669ba,Tata AIG,Tata AIG - Wellness Companion,1400000,2,3.02,85335.0,94.3,13,After 2 years,Yes,No,77,3
+2e91b3a6-fd2b-4920-a630-8e2c3062d894,Reliance Health,Reliance Health - Maxima Secure,1750000,5,3.06,268514.0,90.5,20,After 2 years,Yes,No,64,16
+03dd1e25-30d8-47e1-b949-e4183897d2a1,Niva Bupa,Niva Bupa - MediGuard Flexi,650000,3,2.42,47888.0,88.2,20,After 4 years,Yes,Yes,80,4
+bab74e9a-9f19-49e5-a604-6047567300aa,Care Health,Care Health - ProHealth Prime,900000,3,2.25,62579.0,89.2,18,After 4 years,Yes,Yes,79,9
+885a0aca-e24d-44a4-827d-c34647583b13,Star Health,Star Health - Smart Health Optima,700000,5,3.13,111345.0,85.5,7,After 4 years,Yes,Yes,71,5
+7808a766-e9d7-4993-84da-022279b608c3,Care Health,Care Health - ProHealth Prime,550000,6,2.25,75585.0,98.7,18,After 4 years,Yes,Yes,61,6
+1e5aea97-c54a-40e1-bb29-009ec4220d89,ManipalCigna,ManipalCigna - Silver Shield,600000,1,2.5,15505.0,90.5,18,After 3 years,Yes,Optional,78,5
+1ee0b347-6aee-4996-af1a-a9ee73341a3a,Reliance Health,Reliance Health - Total Health Pro,1650000,1,3.24,55126.0,86.9,30,After 2 years,Yes,No,60,4
+6cc0a769-231b-4ca7-9b7f-d5ec9705284e,Bajaj Allianz,Bajaj Allianz - Arogya Rakshak,650000,3,2.63,52987.0,97.0,26,After 4 years,Yes,Yes,75,13
+99b605e3-660d-408d-a9da-f523a17d0362,HDFC ERGO,HDFC ERGO - Family Floater Gold,1150000,2,2.7,63961.0,85.2,17,After 4 years,Yes,Yes,76,4
+95817a05-60bc-44ce-8f08-70e72ca7f6d3,Bajaj Allianz,Bajaj Allianz - Swasthya Raksha,850000,6,2.69,138143.0,96.5,22,After 2 years,Yes,No,76,15
+cd4d1552-1bd9-4762-887c-3d460d48a191,Star Health,Star Health - Smart Health Optima,1600000,6,3.13,301369.0,94.7,27,After 4 years,Yes,Yes,69,18
+34add538-2c9d-4f81-a99e-5e47a0ae7fb8,Bajaj Allianz,Bajaj Allianz - WellCare Classic,900000,3,2.82,77067.0,86.5,13,After 2 years,Yes,No,60,6
+0e1d5355-74df-4d36-a3d3-4e31607fe534,Tata AIG,Tata AIG - Complete Health,250000,4,2.25,24365.0,86.2,6,After 3 years,Yes,Optional,68,2
+8ad3862f-3950-4e7c-9c5a-3790cb60ec7b,Care Health,Care Health - ProHealth Prime,1350000,3,2.25,92027.0,97.0,7,After 4 years,Yes,Yes,66,11
+ae0cee01-232d-4190-9b8a-034c4b69f9dc,Star Health,Star Health - Health Infinity,750000,1,2.7,21992.0,88.1,5,After 2 years,Yes,No,68,13
+30a04b40-35f9-4a3c-a3e0-82c921405fee,Care Health,Care Health - LifeCare Wellness,1650000,4,3.26,215754.0,95.9,22,After 2 years,Yes,No,75,10
+de72801f-1b87-4029-80b6-7fe22f6d3b3e,Tata AIG,Tata AIG - Elite Medicash,400000,2,3.21,27088.0,97.4,17,After 4 years,Yes,Yes,61,4
+7da11cbd-3cd6-43ee-8cdf-2631179e248e,ICICI Lombard,ICICI Lombard - Jeevan Arogya,400000,1,3.36,15291.0,94.5,21,After 3 years,Yes,Optional,70,7
+cd5d8bc7-9013-4fc6-b0ea-b688b245bd09,Aditya Birla Health,Aditya Birla Health - MediShield Elite,1550000,1,2.64,41941.0,94.8,5,After 4 years,Yes,Yes,64,7
+c62ab555-60c8-4961-a642-f60b5c081824,Aditya Birla Health,Aditya Birla Health - Swasth Bharat,2000000,6,2.55,307311.0,98.5,24,After 4 years,Yes,Yes,61,11
+0a834040-5b36-48fe-b8e8-ae4aad405fa5,HDFC ERGO,HDFC ERGO - EasyCare Smart,500000,5,2.88,73330.0,97.1,17,After 4 years,Yes,Yes,66,8
+c376cd85-9286-4d4e-bcba-15f24bf34670,Reliance Health,Reliance Health - Total Health Pro,1900000,1,3.24,62392.0,88.0,16,After 2 years,Yes,No,68,13
+ad6b6915-da48-49a4-9374-7941a0a88721,Tata AIG,Tata AIG - Wellness Companion,1650000,6,3.02,299657.0,85.8,8,After 2 years,Yes,No,71,5
+2d972be1-c21a-460d-93fd-ff310a83a6a6,Star Health,Star Health - Smart Health Optima,700000,4,3.13,88497.0,85.5,28,After 4 years,Yes,Yes,79,15
+51ad81c9-fd63-4322-a881-ece60068fbcf,ICICI Lombard,ICICI Lombard - MyHealth Suraksha,1650000,4,2.31,154146.0,87.8,30,After 4 years,Yes,Yes,70,0
+ab442dbb-ddc3-4069-8904-aee1599be3a0,Care Health,Care Health - Health Prime Max,1950000,3,2.56,150371.0,97.4,9,After 2 years,Yes,No,69,17
+e713bab8-cdbc-4da6-851c-dd5974656151,Aditya Birla Health,Aditya Birla Health - Supreme Health,700000,5,2.93,103476.0,89.7,22,After 4 years,Yes,Yes,78,11
+ad7a389a-4744-4ded-829a-b0b90f8cfd33,HDFC ERGO,HDFC ERGO - Platinum Mediclaim,400000,1,3.16,13151.0,85.4,6,After 3 years,Yes,Optional,70,17
+482616cf-9171-47ad-8058-d1881be0d362,Niva Bupa,Niva Bupa - MediGuard Flexi,550000,3,2.42,41227.0,90.8,29,After 4 years,Yes,Yes,63,7
+a2d8de40-4f0f-4bf3-974f-c2f32ce7bcbd,ICICI Lombard,ICICI Lombard - MyHealth Suraksha,1150000,4,2.31,107046.0,85.8,6,After 4 years,Yes,Yes,74,12
+4e961612-3348-4368-8293-0d606f1f4d57,Bajaj Allianz,Bajaj Allianz - Swasthya Raksha,1300000,1,2.69,35736.0,87.9,13,After 2 years,Yes,No,80,7
+9fe357e3-5da0-4a40-a7ab-d94b0c5d119b,Niva Bupa,Niva Bupa - MediCare Secure,650000,6,3.29,130165.0,88.6,17,After 3 years,Yes,Optional,73,8
+d4328544-a46f-429a-a123-86bd4dde5498,Reliance Health,Reliance Health - Maxima Secure,1900000,2,3.06,117102.0,96.7,22,After 2 years,Yes,No,74,0
+9db4bf03-2ba0-447c-9221-3605d90d22c3,Tata AIG,Tata AIG - Complete Health,1000000,2,2.25,46869.0,86.0,25,After 3 years,Yes,Optional,73,6
+0883e907-ceea-4289-af02-503209aee288,Aditya Birla Health,Aditya Birla Health - MediPlus Ultra,1450000,1,3.36,49655.0,97.5,22,After 3 years,Yes,Optional,64,7
+f793c9fd-d26c-4442-bf65-1e08b50689c1,Reliance Health,Reliance Health - Maxima Secure,600000,3,3.06,56356.0,98.1,12,After 2 years,Yes,No,69,1
+40a6e2da-2094-45d6-a68f-398770329cea,Aditya Birla Health,Aditya Birla Health - Arogya Supreme,1050000,5,2.24,118680.0,98.0,28,After 3 years,Yes,Optional,78,4
+163527e9-5bb7-4c01-b882-fa7ac339566e,Reliance Health,Reliance Health - Total Health Pro,400000,3,3.24,39829.0,85.4,14,After 2 years,Yes,No,80,12
+823bcc81-65ec-4ad1-af1c-b589c490ef03,Reliance Health,Reliance Health - Total Health Pro,1100000,1,3.24,37142.0,96.6,21,After 2 years,Yes,No,74,1
+2f086d3f-f3a6-469e-8464-51ae12b99f7c,Niva Bupa,Niva Bupa - Complete Shield,900000,1,2.05,20447.0,93.3,16,After 2 years,Yes,No,78,14
+6f2790f9-1554-440f-bdf7-bba5cea6f492,Tata AIG,Tata AIG - Care Plus Ultra,650000,5,3.32,109393.0,86.6,23,After 3 years,Yes,Optional,62,7
+e684d6a3-8645-468f-8baa-14881f96c71d,ICICI Lombard,ICICI Lombard - Golden Wellness Plan,1500000,1,2.12,33031.0,95.3,22,After 3 years,Yes,Optional,79,11
+f8e8de7a-6bb6-45c1-9dd5-7e88a322063e,Reliance Health,Reliance Health - Total Health Pro,1600000,1,3.24,52702.0,86.3,9,After 2 years,Yes,No,67,14
+0004a1d4-be2f-48d5-8077-ffdf08dfc278,Care Health,Care Health - Health Prime Max,1100000,2,2.56,57766.0,93.4,15,After 2 years,Yes,No,61,15
+9c74b549-f6f1-4699-8ee8-2bae1d052f53,Star Health,Star Health - Health Infinity,700000,1,2.7,20393.0,95.7,15,After 2 years,Yes,No,62,10
+2d9f0cb4-3ece-404e-9dd5-bafb58df3cd4,Bajaj Allianz,Bajaj Allianz - Vital Health Boost,700000,4,2.7,76108.0,95.1,24,After 2 years,Yes,No,68,2
+f54c23c0-a19d-42dd-895c-148470bea852,ICICI Lombard,ICICI Lombard - Super Mediclaim,600000,3,3.48,64341.0,90.3,26,After 3 years,Yes,Optional,73,15
+f31ebb14-9f03-4122-8bbe-eb254247284c,Reliance Health,Reliance Health - Maxima Secure,600000,6,3.06,111322.0,86.3,6,After 2 years,Yes,No,65,6
+a4f122ab-ab5d-4c65-bb58-d63a25625e77,HDFC ERGO,HDFC ERGO - Platinum Mediclaim,1300000,2,3.16,82980.0,92.8,18,After 3 years,Yes,Optional,67,8
+0086c6f8-d805-4005-a431-a9640388c182,ManipalCigna,ManipalCigna - HealthFirst Gold,550000,4,3.48,78274.0,98.5,14,After 2 years,Yes,No,77,12
+864e2a29-f7d0-4665-8067-8e567c699b41,Reliance Health,Reliance Health - Maxima Secure,1650000,5,3.06,253214.0,90.2,28,After 2 years,Yes,No,72,3
+487ad306-eb46-459e-9f13-9a3adaf0e4e2,Aditya Birla Health,Aditya Birla Health - MediPlus Ultra,1900000,2,3.36,128313.0,88.0,30,After 3 years,Yes,Optional,76,4
+dd0adaef-51f6-4c6d-9518-6ab1f8c19610,Bajaj Allianz,Bajaj Allianz - WellCare Classic,1300000,1,2.82,38561.0,85.7,19,After 2 years,Yes,No,66,7
+79ab6a7d-61d1-4733-9aa9-38f2cca45100,Care Health,Care Health - LifeCare Wellness,650000,6,3.26,128297.0,91.2,25,After 2 years,Yes,No,67,4
+8d3166fc-3dbb-4db1-953a-afcae6f4b73a,Bajaj Allianz,Bajaj Allianz - Swasthya Raksha,1700000,4,2.69,184526.0,90.8,14,After 2 years,Yes,No,62,14
+bbcd920d-a2fe-4ac7-a0b1-e4af6ff64609,Tata AIG,Tata AIG - Wellness Companion,300000,6,3.02,56056.0,91.3,20,After 2 years,Yes,No,79,6
+8b0bce60-095d-4d1a-bbca-3526ee647582,ICICI Lombard,ICICI Lombard - Care Freedom,850000,5,2.55,109042.0,93.7,29,After 3 years,Yes,Optional,65,13
+32182fb2-2e04-4c66-9dd8-a512b7120e22,Reliance Health,Reliance Health - Total Health Pro,1050000,2,3.24,69490.0,88.2,30,After 2 years,Yes,No,62,7
+b31d91e7-d8de-434b-9547-da95c87b10e5,Care Health,Care Health - HealthGuard Pro,500000,5,3.44,87945.0,98.8,30,After 4 years,Yes,Yes,68,14
+a191e231-4977-4436-96b7-81d651ac7dae,Bajaj Allianz,Bajaj Allianz - Arogya Rakshak,2000000,4,2.63,212316.0,93.7,11,After 4 years,Yes,Yes,76,10
+4493f5da-7f34-4a49-8bab-9d50eaf2ff58,Niva Bupa,Niva Bupa - Lifeline Shield,1350000,6,2.23,181500.0,98.9,7,After 4 years,Yes,Yes,80,13
+130791ff-7d91-412d-8d71-00fc0454f2d5,Tata AIG,Tata AIG - Care Plus Ultra,350000,2,3.32,24549.0,96.7,30,After 3 years,Yes,Optional,63,3
+72cb261d-afa8-4f40-9391-7f91f912aaab,Care Health,Care Health - HealthGuard Pro,1050000,3,3.44,109704.0,90.3,22,After 4 years,Yes,Yes,60,1
+4988b329-03d3-49db-ba42-3915d4c05bc7,Niva Bupa,Niva Bupa - Lifeline Shield,900000,6,2.23,122046.0,86.8,16,After 4 years,Yes,Yes,69,6
+ec9f4012-36a0-4e22-b5ea-ec392dca2bcf,ICICI Lombard,ICICI Lombard - MyHealth Suraksha,1650000,3,2.31,115824.0,86.1,13,After 4 years,Yes,Yes,72,17
+7ac0df0b-3f81-49a1-b3a2-cf43b2e86865,Reliance Health,Reliance Health - Total Health Pro,1100000,3,3.24,107950.0,88.9,30,After 2 years,Yes,No,62,0
+c91c3fe3-3b75-4b1c-b360-c6f16c763eee,ICICI Lombard,ICICI Lombard - MyHealth Suraksha,700000,5,2.31,81391.0,87.4,26,After 4 years,Yes,Yes,67,14
+0dc38ccc-900f-4e60-ad7e-d83b204650c7,ICICI Lombard,ICICI Lombard - Jeevan Arogya,1850000,6,3.36,373852.0,93.0,25,After 3 years,Yes,Optional,63,12
+5c764319-0b42-4112-8732-ff42dcd3b261,Tata AIG,Tata AIG - Wellness Companion,1650000,1,3.02,50982.0,85.5,25,After 2 years,Yes,No,60,12

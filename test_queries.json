@@ -1,0 +1,103 @@
+[
+    {
+      "query": "What happens if I miss the health insurance premium due date?",
+      "reference": "If you miss the premium due date, most insurers offer a grace period of 15 to 30 days. Failure to pay within this period can lead to policy lapse."
+    },
+    {
+      "query": "Can I port my health insurance to another company in India?",
+      "reference": "Yes, as per IRDAI guidelines, you can port your health insurance policy to another insurer without losing accumulated benefits like waiting period credit."
+    },
+    {
+      "query": "Is maturity benefit available in term insurance plans?",
+      "reference": "Generally, term insurance does not offer maturity benefits. However, Return of Premium (ROP) term plans refund the premiums if the insured survives the policy term."
+    },
+    {
+      "query": "What is the difference between floater and individual health insurance?",
+      "reference": "In a floater policy, a single sum insured covers all family members. In individual policies, each member has a separate sum insured."
+    },
+    {
+      "query": "Are critical illness riders in term insurance worth buying?",
+      "reference": "Critical illness riders provide lump sum coverage for serious illnesses and are beneficial if you want financial support during treatment. It depends on your risk profile and needs."
+    },
+    {
+      "query": "Can NRIs buy insurance policies in India?",
+      "reference": "Yes, NRIs can buy insurance policies in India. They must comply with FEMA regulations and may require medical tests and documentation."
+    },
+    {
+      "query": "How is surrender value calculated in traditional life insurance?",
+      "reference": "Surrender value is calculated based on the total premiums paid, the policy term, and the duration for which the policy was held, minus applicable charges."
+    },
+    {
+      "query": "Does health insurance cover alternative treatments like Ayurveda or Homeopathy?",
+      "reference": "Yes, many Indian health insurance policies cover AYUSH treatments under specific conditions and approved facilities."
+    },
+    {
+      "query": "What documents are required to file a motor insurance claim?",
+      "reference": "Documents include the claim form, copy of RC, driving license, FIR (if applicable), policy copy, and repair estimate or invoice."
+    },
+    {
+      "query": "What is no claim bonus (NCB) in motor insurance?",
+      "reference": "NCB is a reward for not making any claims during a policy year. It can reduce your premium during renewal by up to 50% over 5 claim-free years."
+    },
+    {
+      "query": "How do insurance companies detect fraud in claims?",
+      "reference": "Insurers use claim history analysis, digital forensics, AI models, and third-party investigations to detect suspicious patterns and prevent fraud."
+    },
+    {
+      "query": "Can I claim health insurance for pre-existing diseases?",
+      "reference": "Yes, but only after completing the waiting period, which typically ranges from 2 to 4 years depending on the insurer and condition."
+    },
+    {
+      "query": "Is GST applicable on insurance premiums?",
+      "reference": "Yes, GST is applicable. Life insurance attracts 4.5% to 18% GST depending on the type, and general insurance attracts 18% GST."
+    },
+    {
+      "query": "Can I add maternity coverage to my existing health policy?",
+      "reference": "Maternity cover is usually part of a new policy or offered as a rider. It may not be possible to add it to an existing policy mid-term."
+    },
+    {
+      "query": "What is the waiting period for maternity benefits in health insurance?",
+      "reference": "Most policies have a waiting period of 9 months to 3 years for maternity benefits, depending on the insurer."
+    },
+    {
+      "query": "How are premiums for ULIPs calculated?",
+      "reference": "ULIP premiums are split into life cover and investment. Charges like fund management, mortality, and allocation are deducted before investment."
+    },
+    {
+      "query": "Can I revive a lapsed term insurance policy?",
+      "reference": "Yes, you can revive a lapsed policy within the revival period by paying overdue premiums with interest and fulfilling medical requirements if needed."
+    },
+    {
+      "query": "What is the role of IRDAI in insurance claims?",
+      "reference": "IRDAI regulates insurance companies and protects policyholders. It ensures fair claim settlement and provides grievance redressal mechanisms."
+    },
+    {
+      "query": "How does co-payment work in health insurance?",
+      "reference": "Co-payment means the insured pays a fixed percentage of the claim amount, and the insurer pays the rest. It helps reduce premiums."
+    },
+    {
+      "query": "What is the significance of sum assured in life insurance?",
+      "reference": "Sum assured is the guaranteed amount payable to the nominee in case of the policyholder’s death during the policy term."
+    },
+    {
+      "query": "Are online insurance policies valid in court?",
+      "reference": "Yes, online policies are legally valid and hold the same status as offline policies if issued by a licensed insurer."
+    },
+    {
+      "query": "Can I have both government and private health insurance?",
+      "reference": "Yes, you can have both and use either based on your medical needs and policy terms."
+    },
+    {
+      "query": "What is deductible in car insurance?",
+      "reference": "A deductible is the fixed amount the insured must pay out of pocket before the insurance coverage begins for a claim."
+    },
+    {
+      "query": "Do insurance policies cover pandemic-related claims like COVID-19?",
+      "reference": "Yes, most policies now include COVID-19 coverage, provided the illness is diagnosed and treated within policy terms."
+    },
+    {
+      "query": "How does a group insurance plan differ from an individual plan?",
+      "reference": "Group plans cover a defined set of individuals (like employees), often at a lower cost, but may offer limited customization compared to individual plans."
+    }
+  ]
+  

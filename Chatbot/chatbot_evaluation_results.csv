@@ -1,0 +1,217 @@
+Query,Predicted Answer,Reference Answer,BLEU Score,ROUGE-L Precision,ROUGE-L Recall,ROUGE-L F1,LLM Agent Score
+How do I file a car insurance claim online?,"To file a car insurance claim online in India, follow these steps:  
+
+1. **Immediate Notification**: Inform your insurer promptly via their 24/7 helpline or online portal after the incident.  
+
+2. **Document Preparation**:  
+   - Click photos/videos of the damage.  
+   - Gather documents: Policy copy, RC, driving license, FIR (if theft or third-party involvement), and repair estimates.  
+
+3. **Online Process**:  
+   - Log in to your insurer’s website/app.  
+   - Navigate to the ""Claims"" section and select ""File a New Claim.""  
+   - Fill in accident details (date, time, location, cause) and upload documents.  
+
+4. **Surveyor Inspection**: The insurer may appoint a surveyor to assess the damage (optional for cashless claims at network garages).  
+
+5. **Claim Approval**: Once verified, the insurer will approve:  
+   - **Cashless Claim**: Direct payment to a network garage.  
+   - **Reimbursement**: Pay upfront and submit bills for repayment.  
+
+6. **Track Status**: Use the claim number on the insurer’s portal to monitor progress.  
+
+**Key Notes**:  
+- File claims within 7 days (varies by insurer).  
+- For accidents involving third parties, file an FIR.  
+- Avoid admitting liability at the scene.  
+
+For assistance, contact your insurer’s customer support. Always adhere to IRDAI guidelines for a smooth process.","To file a car insurance claim online in India, follow these general steps: Visit your insurer’s official website or mobile app. Log in using your policy details or registered mobile number. Go to the ‘Claims’ section and select ‘Motor/Car Insurance Claim’. Fill out the claim form by providing details like: Date and time of the incident, Location of the accident, Vehicle number and policy number, Description of the damage or loss. Upload required documents, which may include: Copy of your insurance policy, FIR (if applicable), Photos of the vehicle damage, Driving license and RC book. Submit the claim. You’ll receive a claim reference number for tracking. Wait for inspection. The insurer may assign a surveyor to inspect the vehicle. Claim approval and settlement. Once verified, you’ll be notified about the approval and the repair process or reimbursement. Note: Always check with your specific insurer as processes may vary slightly.",0.0998,0.269,0.3679,0.3108,4
+What documents are needed for a health insurance claim?,"**Documents Required for a Health Insurance Claim in India:**  
+To process a health insurance claim smoothly, you will typically need the following documents:  
+
+1. **Duly Filled Claim Form**: Provided by your insurer, with accurate details of the treatment.  
+2. **Original Medical Bills/Receipts**: Including pharmacy bills, hospital bills, and diagnostic test reports.  
+3. **Discharge Summary**: Issued by the hospital, detailing diagnosis, treatment, and duration of hospitalization.  
+4. **Policy Copy**: Proof of active insurance coverage.  
+5. **Doctor’s Medical Reports**: Prescriptions, consultation notes, and referral letters (if applicable).  
+6. **KYC Documents**: ID proof (Aadhaar, PAN) and address proof.  
+7. **Cashless Pre-Authorization Form** (for cashless claims): Submitted to the hospital’s insurance desk.  
+8. **FIR/Police Report** (for accident-related claims).  
+9. **Additional Documents**: Surgeon’s certificate, payment receipts, or any other documents specified by the insurer.  
+
+**Note**:  
+- Keep copies of all documents for your records.  
+- Requirements may vary slightly between insurers, so confirm with your provider.  
+
+For more details, refer to the linked guide: [How To File A Health Insurance Claim?](https://www.example.com)  
+
+Let me know if you need further clarification! 😊","To file a health insurance claim in India, you typically need the following documents: Duly filled and signed claim form (cashless or reimbursement, as applicable); Health insurance policy copy or e-card; Photo ID proof (Aadhaar, PAN, Voter ID, etc.); Doctor's prescription and consultation papers; Hospital bills and receipts (original copies); Discharge summary or hospital discharge certificate; Diagnostic test reports (blood test, X-ray, MRI, etc.); Pharmacy bills with prescriptions; FIR or Medico-Legal Certificate (MLC) - in case of an accident or medico-legal case; Cancelled cheque or bank account details for reimbursement. Note: Requirements may vary slightly between insurers. Always check with your insurance provider.",0.0717,0.2308,0.3667,0.2833,5
+How can I pay my life insurance premium via UPI?,"To pay your life insurance premium via UPI in India, follow these general steps (steps may vary slightly depending on your insurer):
+
+1. **Ensure UPI Readiness**:  
+   - Link your bank account to a UPI app (e.g., Google Pay, PhonePe, Paytm, BHIM).
+
+2. **Locate Insurer’s UPI Details**:  
+   - Check your insurer’s website/app or premium notice for their **official UPI ID** (e.g., `insurer@upi`) or a QR code.  
+   - Example: SBI Life Insurance uses `sbilife@sbi` or `sbilife@yesbank`.
+
+3. **Initiate Payment**:  
+   - Open your UPI app → Select **“Send Money”** → Enter the insurer’s UPI ID or scan their QR code.
+   - Enter the **premium amount** and add your **policy number** in the “remarks” section (mandatory for tracking).
+
+4. **Confirm Payment**:  
+   - Verify details and authenticate via UPI PIN. Save the transaction receipt for records.
+
+5. **Post-Payment**:  
+   - Premium credit may take 24–48 hours. Confirm via insurer’s portal/app or customer care.
+
+**Important Notes**:  
+- Always use **official UPI IDs/QR codes** from your insurer to avoid fraud.  
+- If unsure, contact your insurer’s customer support (e.g., SBI Life: 1800-267-9090).  
+- UPI is widely accepted, but some insurers may require additional steps (e.g., payment gateway redirection).  
+
+For non-UPI options, insurers also accept NEFT, credit/debit cards, or auto-debit. Let me know if you need further details!","To pay your life insurance premium via UPI in India, follow these steps: 1. Open your UPI app (Google Pay, PhonePe, Paytm, BHIM, etc.) 2. Select Insurance or Pay Bills section (varies by app) 3. Choose your insurance provider from the list 4. Enter your policy number and verify details 5. Enter the premium amount 6. Select your UPI payment method (linked bank account) 7. Authenticate with your UPI PIN 8. Save the payment confirmation for your records. Note: Some insurers allow direct payment through their app/website via UPI. Always verify the payment recipient name matches your insurer. Payment may take 24-48 hours to reflect in your policy.",0.0942,0.2953,0.5301,0.3793,5
+How do I add a family member to my health insurance policy?,"To add a family member to your health insurance policy in India, follow these steps while adhering to IRDAI (Insurance Regulatory and Development Authority of India) guidelines:
+
+### 1. **Check Policy Eligibility**  
+   - Verify if your policy allows adding dependents (e.g., spouse, children, parents). Most policies in India permit adding parents, but age limits (e.g., children up to 25 years) or conditions for parents (e.g., medical check-ups) may apply.
+
+### 2. **Submit a Request**  
+   - **During Renewal**: Most insurers allow adding family members at the time of policy renewal.  
+   - **Mid-Term Inclusion**: Some insurers permit additions mid-term for qualifying events (e.g., marriage, childbirth) with proper documentation.
+
+### 3. **Provide Required Documents**  
+   - Proof of relationship (e.g., marriage certificate for spouse, birth certificate for children).  
+   - Age proof (Aadhaar, PAN, or birth certificate).  
+   - Medical tests may be required for older parents (e.g., above 60 years).  
+
+### 4. **Premium Adjustment**  
+   - The premium will increase based on the added member’s age, health status, and sum insured.  
+
+### 5. **Tax Implications**  
+   - Premiums paid for parents (if added) qualify for tax benefits under **Section 80D** of the Income Tax Act, up to ₹25,000–₹50,000 (depending on their age).  
+
+### 6. **Key Considerations**  
+   - **Waiting Periods**: Pre-existing conditions of the added member may have a waiting period.  
+   - **Co-payment**: Check","You can add a family member to your health insurance policy by: 1. Logging into your insurer's portal/app or calling customer care 2. Requesting a family addition endorsement 3. Submitting these documents: Policyholder's ID proof, Family member's ID (Aadhaar/PAN), Relationship proof (birth/marriage certificate), Recent photo of the member 4. Paying any extra premium required. Typically takes 3-7 working days to process. 30-day waiting period usually applies for new additions.",0.0464,0.1548,0.381,0.2202,4
+What riders can I add to my term insurance plan?,"In India, you can enhance your term insurance plan by adding various riders (optional add-ons) for comprehensive coverage. Here are the common riders available:
+
+1. **Accidental Death Benefit Rider**: Provides an additional payout if death occurs due to an accident.  
+2. **Critical Illness Rider**: Lump-sum payout on diagnosis of specified critical illnesses (e.g., cancer, heart attack).  
+3. **Waiver of Premium Rider**: Waives future premiums if you become disabled or critically ill.  
+4. **Income Benefit Rider**: Regular payouts to replace lost income if the policyholder passes away during the policy term.  
+5. **Terminal Illness Rider**: Advances a portion of the sum assured if diagnosed with a terminal illness.  
+
+**Note**:  
+- Rider availability and terms vary by insurer.  
+- Adding riders increases the premium cost.  
+- Choose riders based on your financial goals, health, and lifestyle.  
+
+Always consult your insurer to confirm options and suitability.",Common riders you can add to your term insurance plan in India: Accidental Death Benefit Rider; Critical Illness Rider; Permanent Disability Rider; Waiver of Premium Rider; Income Benefit Rider. Note: Rider availability varies by insurer. Additional premium applies for each rider. Check your policy terms for exact coverage details.,0.031,0.1982,0.5238,0.2876,5
+How do I update my nominee details?,"To update your nominee details on an insurance policy in India, follow these steps:
+
+### 1. **Check Policy Terms**  
+   Confirm that your policy allows nominee updates (most policies do, but some may have restrictions).
+
+### 2. **Choose a Method**  
+   - **Online**: Log in to your insurer’s portal/app (e.g., LIC, HDFC Life) and use the ""Update Nominee"" option.  
+   - **Offline**: Visit the nearest branch or contact your agent for a **nominee change form** (Form 2 or insurer-specific form).  
+
+### 3. **Submit Documents**  
+   - Duly filled form with nominee details (name, relationship, share percentage).  
+   - Proof of identity (Aadhaar, PAN) for the nominee (if required).  
+   - Witness signature (mandatory for physical forms).  
+
+### 4. **Additional Requirements**  
+   - If the policy is linked to a loan, provide a **No Objection Certificate (NOC)** from the lender.  
+   - For minors, appoint a legal guardian.  
+
+### 5. **Confirmation**  
+   The insurer will update records and send an endorsement letter. Keep a copy for your records.  
+
+⚠️ **Note**: Nominee updates are free in most cases. For specifics, refer to your insurer’s guidelines or contact customer care.  
+
+Let me know if you need further assistance! 😊","To update nominee details: 1. Visit your insurer's website/app or branch office 2. Fill the Nomination Change form 3. Submit: Policy document, New nominee's ID proof, Your ID proof, Cancelled cheque (if changing bank details) 4. Get acknowledgement receipt. Changes take 3-5 working days. You can update nominees multiple times during policy term.",0.0067,0.1135,0.32,0.1675,5
+Can you explain the waiting period in health insurance in simple terms?,"**Answer:**  
+The **waiting period** in health insurance is the time you must wait after purchasing a policy before you can claim coverage for specific illnesses, treatments, or conditions. During this period, the insurer will not pay for certain medical expenses. Here’s a simple breakdown:
+
+### Common Waiting Periods in India:  
+1. **Initial Waiting Period**:  
+   - Usually **30 days** from policy start date.  
+   - Covers *only accidents* during this time (not illnesses).  
+
+2. **Pre-existing Diseases**:  
+   - Conditions like diabetes, hypertension, etc., diagnosed before buying the policy.  
+   - Waiting period: **2–4 years** (varies by insurer).  
+
+3. **Maternity Coverage**:  
+   - Waiting period: **9 months to 3 years** (you can’t claim pregnancy-related expenses before this).  
+
+4. **Specific Treatments**:  
+   - Surgeries like hernia, joint replacements, or cataracts may have a **1–2 year** waiting period.  
+
+### Why Does It Exist?  
+Insurers enforce waiting periods to prevent misuse (e.g., buying a policy only after discovering an illness).  
+
+### Pro Tip:  
+Always check your policy document for exact waiting periods. If you let your policy **lapse** (expire), you may have to re-serve waiting periods when renewing.  
+
+Need more clarity? Ask away! 😊","Health insurance waiting period means: Initial Waiting Period: 30-90 days (no claims allowed); Pre-existing Disease: 1-4 years (for conditions before buying policy); Specific Treatments: 1-2 years (like hernia or cataract surgery). Example: If hospitalized within 15 days of purchase, claim is usually denied unless due to accident.",0.0059,0.073,0.2222,0.1099,5
+Is life insurance mandatory in India?,"**Answer:**  
+No, life insurance is **not mandatory** by law in India. However, it is **highly recommended** as a financial safety net, especially if you have dependents (e.g., family members relying on your income). While the government or Indian laws do not enforce it, certain lenders (like banks) may require you to purchase a life insurance policy when availing large loans (e.g., home loans) to secure the repayment in case of unforeseen events.  
+
+**Key Points:**  
+1. **Not legally required**, but critical for long-term financial planning.  
+2. **Advisable** for breadwinners to protect their family’s future.  
+3. **Loan agreements** may sometimes mandate it as a lender’s condition.  
+
+Let me know if you need further clarification! 😊","No, life insurance is not mandatory in India by law. However, some employers make it mandatory for employees. Home loan providers may require term insurance. It's advisable if you have dependents. Only motor insurance is legally mandatory under the Motor Vehicles Act.",0.0386,0.1856,0.4865,0.2687,5
+What are the tax benefits of health insurance?,"Under Section 80D of the Income Tax Act, health insurance premiums in India offer **tax deductions** to reduce your taxable income. Here’s a breakdown of the benefits:
+
+### 1. **Deduction for Self, Spouse, and Dependent Children**  
+   - **Maximum deduction**:  
+     - ₹25,000 (if you/insured are below 60 years).  
+     - ₹50,000 (if you/insured are senior citizens aged 60+).  
+
+### 2. **Additional Deduction for Parents**  
+   - ₹25,000 (if parents are below 60).  
+   - ₹50,000 (if parents are senior citizens).  
+
+**Total possible deduction**: Up to **₹1 lakh** (if you and your parents are all senior citizens).  
+
+### 3. **Preventive Health Check-ups**  
+   - ₹5,000 per year (included in the above limits).  
+
+### Key Conditions:  
+- Premiums must be paid via **non-cash modes** (except for ₹5,000 check-up allowance).  
+- Deductions apply only under the **old tax regime** (not available in the new regime).  
+- Policies can include **Ayushman Bharat** or other government-approved plans.  
+
+### Example:  
+If you (age 45) pay ₹30,000 for your health insurance and ₹35,000 for your senior citizen parents’ policy:  
+- Your deduction: ₹25,000 (self) + ₹50,000 (parents) = **₹75,000**.  
+
+### Note:  
+- Keep premium payment receipts and Form 12B/12BB for tax filing.  
+- Critical illness riders or standalone policies are **not eligible** for Section 80D benefits.  
+
+These deductions lower your taxable income, reducing your overall tax liability. Always consult a tax advisor for personalized guidance.","Health insurance tax benefits under Section 80D: ₹25,000 deduction for self/family (₹50,000 for senior citizens); Additional ₹25,000 for parents (₹50,000 if seniors); ₹5,000 for preventive health check-ups (included in above). Max deduction: ₹1,00,000 for family + senior parents.",0.006,0.08,0.4,0.1333,5
+Can I transfer my bike insurance to a new owner?,"In India, **you cannot directly transfer your existing bike insurance policy to a new owner**. However, here's what you can do to ensure a smooth transition:
+
+1. **Cancel the Existing Policy**:  
+   The seller (you) must **cancel the current policy** and request a refund for the unused portion of the premium. The insurance company will issue a cancellation letter and refund after deducting applicable charges.
+
+2. **Transfer the No-Claim Bonus (NCB)**:  
+   If you’ve accumulated an NCB (discount for claim-free years), you can **transfer it to the new owner** with written consent. The new owner can use this NCB to reduce their own premium. Submit the following to your insurer:  
+   - Vehicle sale agreement  
+   - NOC (No Objection Certificate) from the financier (if applicable)  
+   - NCB transfer request letter  
+
+3. **New Owner’s Responsibility**:  
+   The buyer **must purchase a new insurance policy** in their name immediately after ownership transfer. Riding without valid insurance is illegal under the **Motor Vehicles Act, 1989**.
+
+### Key Steps for Compliance:
+- Update the bike’s RC (Registration Certificate) with the new owner’s details via the RTO.  
+- Ensure the buyer secures a new policy before using the vehicle.  
+
+Let me know if you need help with NCB transfer documentation! 🏍️","Yes, you can transfer bike insurance to new owner. 1. Inform insurer within 14 days of sale. 2. Submit RC transfer copy, New owner's details, NOC from seller. 3. Pay applicable charges. New owner gets remaining policy. Comprehensive policies are transferable; third-party may not be mid-term.",0.0084,0.1522,0.4884,0.232,5

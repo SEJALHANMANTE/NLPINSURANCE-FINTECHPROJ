@@ -1,0 +1,49 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Upload Your Document</h1>
+            <p>Search through your uploaded document to find relevant information.</p>
+        </header>
+
+        <form method="POST" enctype="multipart/form-data" class="upload-form">
+            <div class="form-group">
+                <label for="pdf" class="form-label">Upload Your PDF Document</label>
+                <input type="file" name="pdf" id="pdf" accept=".pdf" class="form-input" required>
+            </div>
+
+            <button type="submit" class="btn">Upload Document</button>
+        </form>
+
+        <form method="POST" class="search-form">
+            <div class="form-group">
+                <label for="query" class="form-label">Enter Search Query</label>
+                <input type="text" name="query" id="query" placeholder="Enter your query" class="form-input" required>
+            </div>
+            <button type="submit" class="btn">Search</button>
+        </form>
+
+        {% if summary %}
+            <div class="result-box">
+                <h3>Search Summary</h3>
+                <div style="white-space: pre-wrap; line-height: 1.6;">{{ summary | replace('**', '') | safe }}</div>
+
+            </div>
+        {% endif %}
+
+        <a href="/" class="btn back-home">Back to Home</a>
+    </div>
+
+</body>
+</html>

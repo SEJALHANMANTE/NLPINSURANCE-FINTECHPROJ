@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insurance Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script> <!-- Icons -->
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Welcome to the Insurance Assistant</h1>
+            <p>Your trusted partner in all things insurance.</p>
+        </header>
+
+        <div class="card-container">
+            <!-- Document Search Card -->
+            <div class="card">
+                <i class="fas fa-file-upload"></i>
+                <h3>Document Search</h3>
+                <p>Upload your insurance documents and search for relevant queries quickly.</p>
+                <a href="/doc_search" class="btn">Start Searching</a>
+            </div>
+
+            <!-- Policy Recommendation Card -->
+            <div class="card">
+                <i class="fas fa-file-signature"></i>
+                <h3>Policy Recommendation</h3>
+                <p>Get personalized policy recommendations tailored to your needs.</p>
+                <a href="/policy_recommend" class="btn">Get Recommendations</a>
+            </div>
+
+            <!-- Chatbot Card -->
+            <div class="card">
+                <i class="fas fa-comment-alt"></i>
+                <h3>Chat with Chatbot</h3>
+                <p>Ask questions and get instant answers from our intelligent chatbot.</p>
+                <a href="/chatbot" class="btn">Start Chatting</a>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Policy Recommendation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Get Policy Recommendations</h1>
+            <p>Ask about policies and receive personalized recommendations based on your needs.</p>
+        </header>
+
+        <form method="POST" class="recommend-form">
+            <div class="form-group">
+                <label for="query" class="form-label">Ask about Policies</label>
+                <input type="text" name="query" id="query" placeholder="What are you looking for?" class="form-input" required>
+            </div>
+            <button type="submit" class="btn">Get Recommendation</button>
+        </form>
+
+        {% if recommendation %}
+            <div class="result-box">
+                <h3>Recommendation</h3>
+                
+                <div style="white-space: pre-wrap; line-height: 1.6;">{{ recommendation.replace('**', '').replace('#', '') | safe }}</div>
+
+            </div>
+        {% endif %}
+
+        <a href="/" class="btn back-home">Back to Home</a>
+    </div>
+
+</body>
+</html>

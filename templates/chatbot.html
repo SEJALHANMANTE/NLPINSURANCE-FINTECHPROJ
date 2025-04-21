@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Chat with the Insurance Chatbot</h1>
+            <p>Ask your questions, and get instant answers from our AI chatbot.</p>
+        </header>
+
+        <form method="POST" class="chat-form">
+            <input type="text" name="user_message" id="user_message" class="form-input" placeholder="Ask a question..." required>
+            <button type="submit" class="btn">Send</button>
+        </form>
+
+        <div id="chatbox">
+            {% if bot_reply %}
+                
+                <div class="message bot" style="white-space: pre-wrap; line-height: 1.6;">{{ bot_reply | replace('**', '') | safe }}</div>
+            {% endif %}
+        </div>
+
+
+
+        <a href="/" class="btn back-home">Back to Home</a>
+    </div>
+
+</body>
+</html>

@@ -37,7 +37,7 @@
         {% if summary %}
             <div class="result-box">
                 <h3>Search Summary</h3>
-                <div style="white-space: pre-wrap; line-height: 1.6;">{{ summary | replace('**', '') | safe }}</div>
+                <div style="white-space: pre-wrap; line-height: 1.6;">{{ summary.replace('**', '').replace('#', '') | safe }}</div>
 
             </div>
         {% endif %}

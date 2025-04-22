@@ -23,7 +23,7 @@
         <div id="chatbox">
             {% if bot_reply %}
                 
-                <div class="message bot" style="white-space: pre-wrap; line-height: 1.6;">{{ bot_reply | replace('**', '') | safe }}</div>
+                <div class="message bot" style="white-space: pre-wrap; line-height: 1.6;">{{ bot_reply.replace('**', '').replace('#', '') | safe }}</div>
             {% endif %}
         </div>
 

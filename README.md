@@ -1,6 +1,6 @@
 
 
-# 🤖 InsureBot: AI-Powered Insurance Chatbot and Policy Recommender
+#  AI-Powered Insurance Chatbot and Policy Recommender
 
 ## 🌟 Overview
 

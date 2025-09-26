@@ -32,7 +32,7 @@ The core functionality relies on a multi-stage Natural Language Processing (NLP)
   * **Modeling:** Application of deep learning models for tasks like semantic search and classification.
   * **Output Generation:** Delivering the final response or recommendation to the user.
 
-![NLP_Flowchart](D:\NLPInsuranceProject\NLPINSURANCE-FINTECHPROJ\Methodology_Diagrams\MTECH_NLP_FLOWCHART.png)
+![NLP_Flowchart](D:/NLPInsuranceProject/NLPINSURANCE-FINTECHPROJ/Methodology_Diagrams/MTECH_NLP_FLOWCHART.png)
 
 ### **2. Insurance Chatbot Methodology (Question Answering & Retrieval)**
 
@@ -41,7 +41,9 @@ The chatbot functions by interpreting the user's query, retrieving information f
   * **Query Analysis:** Identifying the intent and key entities in the user's question.
   * **Document Retrieval:** The system uses a **Document Retrieval** method  to pinpoint the most relevant policy documents or text snippets.
   * **Response Generation:** Using the retrieved context, the chatbot generates a human-like, accurate response.
-![Insurance_chatbot](D:\NLPInsuranceProject\NLPINSURANCE-FINTECHPROJ\Methodology_Diagrams\Insurance_chatbot methodology.png)
+
+![Insurance_chatbot](D:/NLPInsuranceProject/NLPINSURANCE-FINTECHPROJ/Methodology_Diagrams/Insurance_chatbot_methodology.png)
+
 ### **3. Policy Recommendation Methodology**
 
 The recommendation system uses a separate pipeline to match users with policies.
@@ -49,7 +51,7 @@ The recommendation system uses a separate pipeline to match users with policies.
   * **Data Collection & Processing:** Ingesting user data, policy features, and historical interaction data.
   * **Feature Engineering:** Creating relevant features for the recommendation model (e.g., user risk profile, policy compatibility).
   * **Recommendation Model:** Using a **Cosine similarity** to make suggestions and then give it to LLM for detailed outputs.
-![Policy_Recommendation](D:\NLPInsuranceProject\NLPINSURANCE-FINTECHPROJ\Methodology_Diagrams\Policy_Recommendation_methodology.png)
+![Policy_Recommendation](D:/NLPInsuranceProject/NLPINSURANCE-FINTECHPROJ/Methodology_Diagrams/Policy_Recommendation_methodology.png)
 -----
 
 ## 📚 Data

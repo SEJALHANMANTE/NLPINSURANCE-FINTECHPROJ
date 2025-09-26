@@ -32,22 +32,24 @@ The core functionality relies on a multi-stage Natural Language Processing (NLP)
   * **Modeling:** Application of deep learning models for tasks like semantic search and classification.
   * **Output Generation:** Delivering the final response or recommendation to the user.
 
+![NLP_Flowchart](D:\NLPInsuranceProject\NLPINSURANCE-FINTECHPROJ\Methodology Diagrams\MTECH NLP FLOWCHART.png)
+
 ### **2. Insurance Chatbot Methodology (Question Answering & Retrieval)**
 
 The chatbot functions by interpreting the user's query, retrieving information from a knowledge base of documents, and formulating an answer.
 
   * **Query Analysis:** Identifying the intent and key entities in the user's question.
-  * **Document Retrieval:** The system uses a **Document Retrieval** method (likely semantic or vector-based search) to pinpoint the most relevant policy documents or text snippets.
+  * **Document Retrieval:** The system uses a **Document Retrieval** method  to pinpoint the most relevant policy documents or text snippets.
   * **Response Generation:** Using the retrieved context, the chatbot generates a human-like, accurate response.
-
+![Insurance_chatbot](D:\NLPInsuranceProject\NLPINSURANCE-FINTECHPROJ\Methodology Diagrams\Insurance chatbot methodology (1).png)
 ### **3. Policy Recommendation Methodology**
 
 The recommendation system uses a separate pipeline to match users with policies.
 
   * **Data Collection & Processing:** Ingesting user data, policy features, and historical interaction data.
   * **Feature Engineering:** Creating relevant features for the recommendation model (e.g., user risk profile, policy compatibility).
-  * **Recommendation Model:** Using a **[Specify Model Type, e.g., Collaborative Filtering, Content-Based, Hybrid Deep Learning]** model to generate personalized policy suggestions.
-
+  * **Recommendation Model:** Using a **Cosine similarity** to make suggestions and then give it to LLM for detailed outputs.
+![Policy_Recommendation](D:\NLPInsuranceProject\NLPINSURANCE-FINTECHPROJ\Methodology Diagrams\Policy Recommendation methodology.png)
 -----
 
 ## 📚 Data
@@ -55,7 +57,7 @@ The recommendation system uses a separate pipeline to match users with policies.
 The project utilizes the following data sources:
 
   * **Policy Documents:** A corpus of insurance policies in **PDF** used as the knowledge base for the DRS.
-  * **User Profiles:** Data on customer demographics, purchase history, and risk assessment.
+  * **Synthetic Insurance Policies data:** Containing policy details.
   
 
 -----
